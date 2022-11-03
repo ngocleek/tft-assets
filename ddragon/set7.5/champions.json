@@ -3,7 +3,7 @@
         "key": "aoshin",
         "name": "Ao Shin",
         "cost": 8,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aoshin.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aoShin.png",
         "origins": [
             "Tempest"
         ],
@@ -27,7 +27,7 @@
             "stats": [
                 "Damage: 185 / 275 / 2000"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aoshin.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aoShin.png"
         }
     },
     {
@@ -66,7 +66,7 @@
         "key": "aurelionsol",
         "name": "Aurelion Sol",
         "cost": 8,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aurelionsol.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aurelionSol.png",
         "origins": [
             "Astral"
         ],
@@ -91,7 +91,7 @@
             "stats": [
                 "Magic Damage: 325 / 550 / 4000"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aurelionsol.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aurelionSol.png"
         }
     },
     {
@@ -482,7 +482,7 @@
         "key": "kaisa",
         "name": "Kai'sa",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/kaisa.jpg",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/kaiSa.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -506,7 +506,7 @@
             "stats": [
                 "Magic Damage: 35 / 55 / 85"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/kaisa.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/kaiSa.png"
         }
     },
     {
@@ -544,7 +544,7 @@
         "key": "leesin",
         "name": "Lee Sin",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/leesin.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/leeSin.png",
         "origins": [
             "Tempest"
         ],
@@ -568,7 +568,7 @@
             "stats": [
                 "Damage: 215 / 285 / 385"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/leesin.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/leeSin.png"
         }
     },
     {
@@ -825,7 +825,7 @@
         "key": "nomsycannoneerforbuilder",
         "name": "Nomsy (Cannoneer)",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsycannoneerforbuilder.jpg",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyCannoneer.jpg",
         "origins": [
             "Prodigy"
         ],
@@ -851,14 +851,14 @@
                 "Magic Damage: 190 / 270 / 420",
                 "Percentage Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsycannoneerforbuilder.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyCannoneer.png"
         }
     },
     {
         "key": "nomsyevokerforbuilder",
         "name": "Nomsy (Evoker)",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyevokerforbuilder.jpg",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyEvoker.jpg",
         "origins": [
             "Prodigy"
         ],
@@ -884,14 +884,14 @@
                 "Magic Damage: 190 / 270 / 420",
                 "Percentage Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyevokerforbuilder.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyEvoker.png"
         }
     },
     {
         "key": "nomsymageforbuilder",
         "name": "Nomsy (Mage)",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsymageforbuilder.jpg",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyMage.jpg",
         "origins": [
             "Prodigy"
         ],
@@ -917,7 +917,7 @@
                 "Magic Damage: 190 / 270 / 420",
                 "Percentage Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsymageforbuilder.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyMage.png"
         }
     },
     {
@@ -1277,7 +1277,7 @@
         "key": "shiohyu",
         "name": "Shi Oh Yu",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/shiohyu.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/shiOhYu.png",
         "origins": [
             "Jade"
         ],
@@ -1303,7 +1303,7 @@
                 "% Attack Damage: 250 / 300 / 1000",
                 "Damage Reduction: 20% / 25% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/shiohyu.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/shiOhYu.png"
         }
     },
     {
@@ -1440,7 +1440,7 @@
         "key": "syfen",
         "name": "Sy'fen",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/syfen.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/syFen.png",
         "origins": [
             "Whispers"
         ],
@@ -1465,7 +1465,7 @@
             "stats": [
                 "Bite Percent of Attack Damage: 450% / 550% / 2500%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/syfen.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/syFen.png"
         }
     },
     {
@@ -1628,7 +1628,7 @@
         "key": "swain",
         "name": "Tyrant Swain",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/swain.jpg",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/tyrantSwain.jpg",
         "origins": [
             "Darkflight"
         ],
@@ -1652,7 +1652,7 @@
             "stats": [
                 "Damage: 90 / 130 / 600"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/swain.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/tyrantSwain.png"
         }
     },
     {
@@ -1755,7 +1755,7 @@
         "key": "monkeyking",
         "name": "Wukong",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/monkeyking.jpg",
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/wukong.jpg",
         "origins": [
             "Jade"
         ],
@@ -1781,7 +1781,7 @@
                 "Stun Duration: 1 / 1.25 / 1.5",
                 "Base Damage: 50 / 75 / 100"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/monkeyking.png"
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/wukong.png"
         }
     },
     {

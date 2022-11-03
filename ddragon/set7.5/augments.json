@@ -98,10 +98,10 @@
         "tier": "silver"
     },
     {
-        "key": "luden'SEchoI",
+        "key": "ludenSEchoI",
         "name": "Luden's Echo I",
         "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 40-130 (based on current Stage) magic damage.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luden'SEchoI.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ludenSEchoI.png",
         "tier": "silver"
     },
     {
@@ -119,17 +119,17 @@
         "tier": "silver"
     },
     {
-        "key": "knife'SEdgeI",
+        "key": "knifeSEdgeI",
         "name": "Knife's Edge I",
         "desc": "Your units that start combat in the front 2 rows gain 15 Attack Damage.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knife'SEdgeI.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knifeSEdgeI.png",
         "tier": "silver"
     },
     {
-        "key": "pandora'SItems",
+        "key": "pandoraSItems",
         "name": "Pandora's Items",
         "desc": "Gain a random component. At the start of each round, items on your bench are randomized (excluding Tactician's Crown, Spatula, and consumables).",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/pandora'SItems.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/pandoraSItems.png",
         "tier": "silver"
     },
     {
@@ -336,10 +336,10 @@
         "tier": "silver"
     },
     {
-        "key": "pandora'SBench",
+        "key": "pandoraSBench",
         "name": "Pandora's Bench",
         "desc": "Gain 2 gold. At the start of every turn, Champions on the 3 rightmost bench slots transform into random champions of the same cost.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/pandora'SBench.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/pandoraSBench.png",
         "tier": "silver"
     },
     {
@@ -518,10 +518,10 @@
         "tier": "gold"
     },
     {
-        "key": "luden'SEchoII",
+        "key": "ludenSEchoII",
         "name": "Luden's Echo II",
         "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 55-160 (based on current Stage) magic damage.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luden'SEchoII.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ludenSEchoII.png",
         "tier": "gold"
     },
     {
@@ -539,10 +539,10 @@
         "tier": "gold"
     },
     {
-        "key": "knife'SEdgeII",
+        "key": "knifeSEdgeII",
         "name": "Knife's Edge II",
         "desc": "Your units that start combat in the front 2 rows gain 25 Attack Damage.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knife'SEdgeII.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knifeSEdgeII.png",
         "tier": "gold"
     },
     {
@@ -602,10 +602,10 @@
         "tier": "gold"
     },
     {
-        "key": "three'SCompany",
+        "key": "threeSCompany",
         "name": "Three's Company",
         "desc": "Gain 3 random 3-cost champions.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/three'SCompany.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/threeSCompany.png",
         "tier": "gold"
     },
     {
@@ -798,10 +798,10 @@
         "tier": "gold"
     },
     {
-        "key": "hero-In-Training",
+        "key": "heroInTraining",
         "name": "Hero-In-Training",
         "desc": "The Dragonmancer nearest to the Dragonmancer Hero gains 66% of the Dragonmancer trait's bonuses. Gain a Sett.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/hero-In-Training.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/heroInTraining.png",
         "tier": "gold"
     },
     {
@@ -1008,10 +1008,10 @@
         "tier": "gold"
     },
     {
-        "key": "beast'SDen",
+        "key": "beastSDen",
         "name": "Beast's Den",
         "desc": "Units that start combat next to at least 2 Shapeshifters gain 25% Attack Speed and Move Speed. Shapeshifters always gain this bonus. Gain a Gnar.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/beast'SDen.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/beastSDen.png",
         "tier": "gold"
     },
     {
@@ -1211,10 +1211,10 @@
         "tier": "prismatic"
     },
     {
-        "key": "luden'SEchoIII",
+        "key": "ludenSEchoIII",
         "name": "Luden's Echo III",
         "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 90-240 (based on current Stage) magic damage.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luden'SEchoIII.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ludenSEchoIII.png",
         "tier": "prismatic"
     },
     {
@@ -1232,10 +1232,10 @@
         "tier": "prismatic"
     },
     {
-        "key": "knife'SEdgeIII",
+        "key": "knifeSEdgeIII",
         "name": "Knife's Edge III",
         "desc": "Your units that start combat in the first 2 rows gain 40 Attack Damage.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knife'SEdgeIII.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knifeSEdgeIII.png",
         "tier": "prismatic"
     },
     {
@@ -1554,10 +1554,10 @@
         "tier": "prismatic"
     },
     {
-        "key": "urf'SGrabBagII",
+        "key": "urfSGrabBagII",
         "name": "Urf's Grab Bag II",
         "desc": "Gain 1 Spatula and 3 random item components.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/urf'SGrabBagII.png",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/urfSGrabBagII.png",
         "tier": "prismatic"
     },
     {
