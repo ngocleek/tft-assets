@@ -1,0 +1,1577 @@
+[
+    {
+        "key": "battlemagei",
+        "name": "Battlemage I",
+        "desc": "Your units that start combat in the front 2 rows gain 15 Armor and 15 Ability Power.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/battlemagei.png",
+        "tier": "silver"
+    },
+    {
+        "key": "bluebatteryi",
+        "name": "Blue Battery I",
+        "desc": "After casting their Ability, your units restore 10 Mana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bluebatteryi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "shrugitoff",
+        "name": "Shrug It Off",
+        "desc": "Bruisers regenerate 2.5% of their maximum Health each second. Gain a Sejuani.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/shrugitoff.png",
+        "tier": "silver"
+    },
+    {
+        "key": "celestialblessingi",
+        "name": "Celestial Blessing I",
+        "desc": "Your units heal for 12% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 250 Health.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/celestialblessingi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "cyberneticimplantsi",
+        "name": "Cybernetic Implants I",
+        "desc": "Your champions holding an item gain 100 Health and 8 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticimplantsi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "cyberneticshelli",
+        "name": "Cybernetic Shell I",
+        "desc": "Your champions holding an item gain 100 Health and 20 Armor.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticshelli.png",
+        "tier": "silver"
+    },
+    {
+        "key": "cyberneticuplinki",
+        "name": "Cybernetic Uplink I",
+        "desc": "Your champions holding an item gain 100 Health and restore 2 Mana per second.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticuplinki.png",
+        "tier": "silver"
+    },
+    {
+        "key": "exilesi",
+        "name": "Exiles I",
+        "desc": "Your units that start combat with no adajacent allies gain a 25% maximum Health shield for 10 seconds.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/exilesi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "standunitedi",
+        "name": "Stand United I",
+        "desc": "Your units gain 1 Attack Damage and Ability Power per Trait active across your army.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/standunitedi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "electrochargei",
+        "name": "Electrocharge I",
+        "desc": "When your units receive critical strikes, they deal 50-110 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/electrochargei.png",
+        "tier": "silver"
+    },
+    {
+        "key": "featherweightsi",
+        "name": "Featherweights I",
+        "desc": "Your 1 and 2 cost champions gain 25% Attack Speed and Move Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/featherweightsi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "firstaidkit",
+        "name": "First Aid Kit",
+        "desc": "All healing and shielding on your units is increased by 25%.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/firstaidkit.png",
+        "tier": "silver"
+    },
+    {
+        "key": "futuresighti",
+        "name": "Future Sight I",
+        "desc": "Know who you will fight next. Gain a Zephyr.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/futuresighti.png",
+        "tier": "silver"
+    },
+    {
+        "key": "itemgrabbagi",
+        "name": "Item Grab Bag I",
+        "desc": "Gain 1 random completed item.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/itemgrabbagi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "luden'sechoi",
+        "name": "Luden's Echo I",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 40-130 (based on current Stage) magic damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luden'sechoi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "makeshiftarmori",
+        "name": "Makeshift Armor I",
+        "desc": "Your units with no items gain 30 Armor and Magic Resist.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/makeshiftarmori.png",
+        "tier": "silver"
+    },
+    {
+        "key": "meditationi",
+        "name": "Meditation I",
+        "desc": "Your units without items equipped restore 4 Mana per second.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/meditationi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "knife'sedgei",
+        "name": "Knife's Edge I",
+        "desc": "Your units that start combat in the front 2 rows gain 15 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knife'sedgei.png",
+        "tier": "silver"
+    },
+    {
+        "key": "pandora'sitems",
+        "name": "Pandora's Items",
+        "desc": "Gain a random component. At the start of each round, items on your bench are randomized (excluding Tactician's Crown, Spatula, and consumables).",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/pandora'sitems.png",
+        "tier": "silver"
+    },
+    {
+        "key": "recombobulator",
+        "name": "Recombobulator",
+        "desc": "Champions on your board permanently transform into random champions that cost 1 more. Gain 2 Magnetic Removers.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/recombobulator.png",
+        "tier": "silver"
+    },
+    {
+        "key": "secondwindi",
+        "name": "Second Wind I",
+        "desc": "After 10 seconds of combat, your units heal 40% of their missing Health.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/secondwindi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "thrillofthehunti",
+        "name": "Thrill of the Hunt I",
+        "desc": "Your units heal 400 Health on kill.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/thrillofthehunti.png",
+        "tier": "silver"
+    },
+    {
+        "key": "tinytitans",
+        "name": "Tiny Titans",
+        "desc": "Your Tactician heals 30 Health, grows larger, and has 130 maximum Health.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tinytitans.png",
+        "tier": "silver"
+    },
+    {
+        "key": "builtdifferenti",
+        "name": "Built Different I",
+        "desc": "Your units with no Traits active gain 250-400 Health and 30-75% Attack Speed. (based on current Stage)",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/builtdifferenti.png",
+        "tier": "silver"
+    },
+    {
+        "key": "triforcei",
+        "name": "TriForce I",
+        "desc": "Your Tier 3 champions gain 133 Health, 13 starting Mana, and 13% Attack Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/triforcei.png",
+        "tier": "silver"
+    },
+    {
+        "key": "doubletroublei",
+        "name": "Double Trouble I",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 20 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/doubletroublei.png",
+        "tier": "silver"
+    },
+    {
+        "key": "afk",
+        "name": "AFK",
+        "desc": "You cannot perform actions for the next 3 rounds. Afterwards, gain 20 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/afk.png",
+        "tier": "silver"
+    },
+    {
+        "key": "assassinheart",
+        "name": "Assassin Heart",
+        "desc": "Your team counts as having 1 additional Assassin. Gain a Qiyana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/assassinheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "astralheart",
+        "name": "Astral Heart",
+        "desc": "Your team counts as having 1 additional Astral. Gain a Lux.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/astralheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "axiomarci",
+        "name": "Axiom Arc I",
+        "desc": "Your units gain 25 Mana on kill.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/axiomarci.png",
+        "tier": "silver"
+    },
+    {
+        "key": "bandofthievesi",
+        "name": "Band of Thieves I",
+        "desc": "Gain 1 Thief's Gloves.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bandofthievesi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "bestfriendsi",
+        "name": "Best Friends I",
+        "desc": "Your units that start combat only adjacent to each other gain 10% Attack Speed and 15 Armor.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bestfriendsi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "bigfriend",
+        "name": "Big Friend",
+        "desc": "Your units that start combat next to a unit with over 2000 Health take 10% less damage for the rest of combat.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bigfriend.png",
+        "tier": "silver"
+    },
+    {
+        "key": "bruiserheart",
+        "name": "Bruiser Heart",
+        "desc": "Your team counts as having 1 additional Bruiser. Gain a Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bruiserheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "cannoneerheart",
+        "name": "Cannoneer Heart",
+        "desc": "Your team counts as having 1 additional Cannoneer. Gain a Aphelios.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cannoneerheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "cavalierheart",
+        "name": "Cavalier Heart",
+        "desc": "Your team counts as having 1 additional Cavalier. Gain a Lillia.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cavalierheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "consistency",
+        "name": "Consistency",
+        "desc": "Gain double streak gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/consistency.png",
+        "tier": "silver"
+    },
+    {
+        "key": "soulsiphon",
+        "name": "Soul Siphon",
+        "desc": "Darkflights benefit from the top-most trait of the sacrificed unit. This does not increase the trait count for that trait.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/soulsiphon.png",
+        "tier": "silver"
+    },
+    {
+        "key": "darkflightheart",
+        "name": "Darkflight Heart",
+        "desc": "Your team counts as having 1 additional Darkflight. Gain an Aphelios.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/darkflightheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "dragonmancerconference",
+        "name": "Dragonmancer Conference",
+        "desc": "Every 2 rounds, a random Dragonmancer appears on your bench. Gain a Kai'Sa.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonmancerconference.png",
+        "tier": "silver"
+    },
+    {
+        "key": "evokerheart",
+        "name": "Evoker Heart",
+        "desc": "Your team counts as having 1 additional Evoker. Gain a Zyra.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/evokerheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "guardianheart",
+        "name": "Guardian Heart",
+        "desc": "Your team counts as having 1 additional Guardian. Gain a Zac.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/guardianheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "guildheart",
+        "name": "Guild Heart",
+        "desc": "Your team counts as having 1 additional Guild. Gain a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/guildheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "lagoonheart",
+        "name": "Lagoon Heart",
+        "desc": "Your team counts as having 1 additional Lagoon. Gain a Kai'Sa.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/lagoonheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "lategamespecialist",
+        "name": "Lategame Specialist",
+        "desc": "Gain 40 gold when you reach Level 9.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/lategamespecialist.png",
+        "tier": "silver"
+    },
+    {
+        "key": "mageheart",
+        "name": "Mage Heart",
+        "desc": "Your team counts as having 1 additional Mage. Gain a Lillia.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/mageheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "mirageheart",
+        "name": "Mirage Heart",
+        "desc": "Your team counts as having 1 additional Mirage. Gain a Yone.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/mirageheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "mysticheart",
+        "name": "Mystic Heart",
+        "desc": "Your team counts as having 1 additional Mystic. Gain a Rakan.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/mysticheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "pandora'sbench",
+        "name": "Pandora's Bench",
+        "desc": "Gain 2 gold. At the start of every turn, Champions on the 3 rightmost bench slots transform into random champions of the same cost.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/pandora'sbench.png",
+        "tier": "silver"
+    },
+    {
+        "key": "preparationi",
+        "name": "Preparation I",
+        "desc": "Champions on your bench permanently gain 25, 3 Attack Damage and Ability Power every round, up to 4 times.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/preparationi.png",
+        "tier": "silver"
+    },
+    {
+        "key": "ragewingheart",
+        "name": "Ragewing Heart",
+        "desc": "Your team counts as having 1 additional Ragewing. Gain a Rakan.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ragewingheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "scalescornheart",
+        "name": "Scalescorn Heart",
+        "desc": "Your team counts as having 1 additional Scalescorn. Gain a Braum.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/scalescornheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "shapeshifterheart",
+        "name": "Shapeshifter Heart",
+        "desc": "Your team counts as having 1 additional Shapeshifter. Gain a Gnar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/shapeshifterheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "shimmerscalecrest",
+        "name": "Shimmerscale Crest",
+        "desc": "Gain a Shimmerscale Emblem and a Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/shimmerscalecrest.png",
+        "tier": "silver"
+    },
+    {
+        "key": "swiftshotheart",
+        "name": "Swiftshot Heart",
+        "desc": "Your team counts as having 1 additional Swiftshot. Gain a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/swiftshotheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "tempestheart",
+        "name": "Tempest Heart",
+        "desc": "Your team counts as having 1 additional Tempest. Gain a Qiyana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tempestheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "warriorheart",
+        "name": "Warrior Heart",
+        "desc": "Your team counts as having 1 additional Warrior. Gain a Yone.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/warriorheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "whispersheart",
+        "name": "Whispers Heart",
+        "desc": "Your team counts as having 1 additional Whispers. Gain a Zyra.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/whispersheart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "ascension",
+        "name": "Ascension",
+        "desc": "After 15 seconds of combat, your units deal 50% more damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ascension.png",
+        "tier": "gold"
+    },
+    {
+        "key": "smokebomb",
+        "name": "Smoke Bomb",
+        "desc": "The first time Assassins drops to 70% health, they briefly enter stealth, becoming untargetable and shedding all negative effects. Any excess damage is reduced by 60%. Gain a Talon.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/smokebomb.png",
+        "tier": "gold"
+    },
+    {
+        "key": "battlemageii",
+        "name": "Battlemage II",
+        "desc": "Your units that start combat in the front 2 rows gain 25 Armor and 25 Ability Power.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/battlemageii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "calculatedloss",
+        "name": "Calculated Loss",
+        "desc": "After losing your combat, gain 2 gold and a free Shop refresh.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/calculatedloss.png",
+        "tier": "gold"
+    },
+    {
+        "key": "celestialblessingii",
+        "name": "Celestial Blessing II",
+        "desc": "Your units heal for 20% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 350 Health.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/celestialblessingii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "clearmind",
+        "name": "Clear Mind",
+        "desc": "If you have no champions on your bench at the end of a round, gain 3 experience points.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/clearmind.png",
+        "tier": "gold"
+    },
+    {
+        "key": "componentgrabbag",
+        "name": "Component Grab Bag",
+        "desc": "Gain 3 random item components.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/componentgrabbag.png",
+        "tier": "gold"
+    },
+    {
+        "key": "cyberneticimplantsii",
+        "name": "Cybernetic Implants II",
+        "desc": "Your champions holding an item gain 150 Health and 15 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticimplantsii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "cyberneticshellii",
+        "name": "Cybernetic Shell II",
+        "desc": "Your champions holding an item gain 150 Health and 30 Armor.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticshellii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "cyberneticuplinkii",
+        "name": "Cybernetic Uplink II",
+        "desc": "Your champions holding an item gain 150 Health and restore 3 Mana per second.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticuplinkii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "exilesii",
+        "name": "Exiles II",
+        "desc": "Your units that start combat with no adajacent allies gain a 35% maximum Health shield for 10 seconds.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/exilesii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "standunitedii",
+        "name": "Stand United II",
+        "desc": "Your units gain 2 Attack Damage and 3 Ability Power per Trait active across your army.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/standunitedii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "electrochargeii",
+        "name": "Electrocharge II",
+        "desc": "When your units receive critical strikes, they deal 85-145 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/electrochargeii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "featherweightsii",
+        "name": "Featherweights II",
+        "desc": "Your 1 and 2 cost champions gain 35% Attack Speed and Move Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/featherweightsii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "hustler",
+        "name": "Hustler",
+        "desc": "If you have less than 20 gold at the end of a round, gain 2 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/hustler.png",
+        "tier": "gold"
+    },
+    {
+        "key": "jeweledlotus",
+        "name": "Jeweled Lotus",
+        "desc": "Magic and true damage from your units' Abilities can critically strike. Your units gain 25% Critical Strike Chance.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/jeweledlotus.png",
+        "tier": "gold"
+    },
+    {
+        "key": "luden'sechoii",
+        "name": "Luden's Echo II",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 55-160 (based on current Stage) magic damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luden'sechoii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "makeshiftarmorii",
+        "name": "Makeshift Armor II",
+        "desc": "Your units with no items gain 45 Armor and Magic Resist.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/makeshiftarmorii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "meditationii",
+        "name": "Meditation II",
+        "desc": "Your units without items equipped restore 6 Mana per second.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/meditationii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "knife'sedgeii",
+        "name": "Knife's Edge II",
+        "desc": "Your units that start combat in the front 2 rows gain 25 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knife'sedgeii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "metabolicaccelerator",
+        "name": "Metabolic Accelerator",
+        "desc": "Your Tactician moves faster and heals 2 Health after a PVP round.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/metabolicaccelerator.png",
+        "tier": "gold"
+    },
+    {
+        "key": "portableforge",
+        "name": "Portable Forge",
+        "desc": "Open an Armory and choose 1 of 3 unique Artifacts crafted by Ornn.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/portableforge.png",
+        "tier": "gold"
+    },
+    {
+        "key": "richgetricher",
+        "name": "Rich Get Richer",
+        "desc": "Gain 10 gold. Your maximum interest is increased to 7.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/richgetricher.png",
+        "tier": "gold"
+    },
+    {
+        "key": "richgetricher+",
+        "name": "Rich Get Richer+",
+        "desc": "Gain 15 gold. Your maximum interest is increased to 7.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/richgetricher+.png",
+        "tier": "gold"
+    },
+    {
+        "key": "salvagebin",
+        "name": "Salvage Bin",
+        "desc": "Gain a random completed item. Selling champions breaks apart their full items into components (excluding Tactician's Crown).",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/salvagebin.png",
+        "tier": "gold"
+    },
+    {
+        "key": "secondwindii",
+        "name": "Second Wind II",
+        "desc": "After 10 seconds of combat, your units heal 60% of their missing Health.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/secondwindii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "sunfireboard",
+        "name": "Sunfire Board",
+        "desc": "At the start of combat, burn all enemies for 10% of their maximum Health over 20 seconds and reduce healing received by 50%.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/sunfireboard.png",
+        "tier": "gold"
+    },
+    {
+        "key": "phonyfrontline",
+        "name": "Phony Frontline",
+        "desc": "Gain 2 Target Dummies.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/phonyfrontline.png",
+        "tier": "gold"
+    },
+    {
+        "key": "three'scompany",
+        "name": "Three's Company",
+        "desc": "Gain 3 random 3-cost champions.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/three'scompany.png",
+        "tier": "gold"
+    },
+    {
+        "key": "thrillofthehuntii",
+        "name": "Thrill of the Hunt II",
+        "desc": "Your units heal 700 Health on kill.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/thrillofthehuntii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "ancientarchivesi",
+        "name": "Ancient Archives I",
+        "desc": "Gain 1 Tome of Traits.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ancientarchivesi.png",
+        "tier": "gold"
+    },
+    {
+        "key": "tradesector",
+        "name": "Trade Sector",
+        "desc": "Gain a free Shop refresh each round.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tradesector.png",
+        "tier": "gold"
+    },
+    {
+        "key": "tradesector+",
+        "name": "Trade Sector+",
+        "desc": "Gain a free Shop refresh each round. Gain 8 golds.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tradesector+.png",
+        "tier": "gold"
+    },
+    {
+        "key": "builtdifferentii",
+        "name": "Built Different II",
+        "desc": "Your units with no Traits active gain 300-525 Health and 50-80% Attack Speed. (based on current Stage)",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/builtdifferentii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "triforceii",
+        "name": "TriForce II",
+        "desc": "Your Tier 3 champions gain 233 Health, 23 starting Mana, and 23% Attack Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/triforceii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "truetwos",
+        "name": "True Twos",
+        "desc": "Gain 1 random 2-star Tier 1 champions and 1 random 2-star Tier 2 champion.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/truetwos.png",
+        "tier": "gold"
+    },
+    {
+        "key": "doubletroubleii",
+        "name": "Double Trouble II",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 30 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/doubletroubleii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "assassincrest",
+        "name": "Assassin Crest",
+        "desc": "Gain an Assassin Emblem and a Qiyana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/assassincrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "intercosmicgifts",
+        "name": "Intercosmic Gifts",
+        "desc": "Astral Orbs have a 100% chance to spawn a smaller orb that contains bonus loot. Gain a Lux.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/intercosmicgifts.png",
+        "tier": "gold"
+    },
+    {
+        "key": "protectorsofthecosmos",
+        "name": "Protectors of the Cosmos",
+        "desc": "Combat start: Your team gains a 35 Health shield for every item component equipped on an Astral Champion, including those that are part of a full item. Gain a Lux.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/protectorsofthecosmos.png",
+        "tier": "gold"
+    },
+    {
+        "key": "axiomarcii",
+        "name": "Axiom Arc II",
+        "desc": "Your units gain 40 Mana on kill.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/axiomarcii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "bestfriendsii",
+        "name": "Best Friends II",
+        "desc": "Your units that start combat only adjacent to each other gain 20% Attack Speed and 25 Armor.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bestfriendsii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "bigfriendii",
+        "name": "Big Friend II",
+        "desc": "Your units that start combat next to a unit with over 1650 Health take 18% less damage for the rest of combat.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bigfriendii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "combattraining",
+        "name": "Combat Training",
+        "desc": "Your Champions permanently gain 1 Attack Damage every time they kill an enemy unit. Champions start with 8 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/combattraining.png",
+        "tier": "gold"
+    },
+    {
+        "key": "bruisercrest",
+        "name": "Bruiser Crest",
+        "desc": "Gain a Bruiser Emblem and a Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bruisercrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "personaltraining",
+        "name": "Personal Training",
+        "desc": "At the end of combat, Champions that started combat adjacent to Bruiser permanently gain 30 Health, increased by 20 if they survived. Gain a Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/personaltraining.png",
+        "tier": "gold"
+    },
+    {
+        "key": "titanicstrength",
+        "name": "Titanic Strength",
+        "desc": "Bruisers gain 1.5% of their Health as Attack Damage. Gain a Tahm Kench.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/titanicstrength.png",
+        "tier": "gold"
+    },
+    {
+        "key": "cannoneercrest",
+        "name": "Cannoneer Crest",
+        "desc": "Gain a Cannoneer Emblem and a Aphelios.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cannoneercrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "hotshot",
+        "name": "Hot Shot",
+        "desc": "Cannoneer's cannon shots burn their targets, dealing 8% of the target's maximum Health as true damage over 2 seconds, and reducing healing by 50% for the duration of the burn. Gain a Tristana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/hotshot.png",
+        "tier": "gold"
+    },
+    {
+        "key": "ricochet",
+        "name": "Ricochet",
+        "desc": "Cannoneer's cannon shots bounce once, dealing 40% less damage. Gain a Aphelios.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ricochet.png",
+        "tier": "gold"
+    },
+    {
+        "key": "devastatingcharge",
+        "name": "Devastating Charge",
+        "desc": "Cavalier's first attack after charging deals 80 magic damage, increased by 1% for each Armor and Magic Resist they have. Gain a Rell.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/devastatingcharge.png",
+        "tier": "gold"
+    },
+    {
+        "key": "cavaliercrest",
+        "name": "Cavalier Crest",
+        "desc": "Gain a Cavalier Emblem and a Sejuani.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cavaliercrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "clutteredmind",
+        "name": "Cluttered Mind",
+        "desc": "If your bench is full at the end of a round, gain 3 experience points.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/clutteredmind.png",
+        "tier": "gold"
+    },
+    {
+        "key": "darkflightcrest",
+        "name": "Darkflight Crest",
+        "desc": "Gain a Darkflight Emblem and a Rell.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/darkflightcrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "dragonimperialist",
+        "name": "Dragon Imperialist",
+        "desc": "If you only have 1 Dragon, Dragons execute enemies they damage who are below 18% Health. Gain a Nomsy.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonimperialist.png",
+        "tier": "gold"
+    },
+    {
+        "key": "dragonmancercrest",
+        "name": "Dragonmancer Crest",
+        "desc": "Gain a Dragonmancer Emblem and an   Kai'sa.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonmancercrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "hero-in-training",
+        "name": "Hero-In-Training",
+        "desc": "The Dragonmancer nearest to the Dragonmancer Hero gains 66% of the Dragonmancer trait's bonuses. Gain a Sett.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/hero-in-training.png",
+        "tier": "gold"
+    },
+    {
+        "key": "inspire",
+        "name": "Inspire",
+        "desc": "When the Dragonmancer Hero gets a takedown, champions that share a trait with the Dragonmancer Hero gain 70% Attack Speed for 3 seconds. Gain a Ashe.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/inspire.png",
+        "tier": "gold"
+    },
+    {
+        "key": "evokercrest",
+        "name": "Evoker Crest",
+        "desc": "Gain an Evoker Emblem and a Zyra.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/evokercrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "firstaidkitii",
+        "name": "First Aid Kit II",
+        "desc": "All healing and shielding on your units is increased by 35%.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/firstaidkitii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "gadgetexpert",
+        "name": "Gadget Expert",
+        "desc": "Direct Damage items deal 25% more damage as true damage. Gain a Statikk Shiv.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/gadgetexpert.png",
+        "tier": "gold"
+    },
+    {
+        "key": "guardiancrest",
+        "name": "Guardian Crest",
+        "desc": "Gain a Guardian Emblem and a Zac.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/guardiancrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "heroicpresence",
+        "name": "Heroic Presence",
+        "desc": "Guardians taunt all enemies every 2 seconds. Enemies that attack a Guardian's shield take magic damage equal to 7% of the shielded unit's max Health (up to once per second). Gain a Braum.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/heroicpresence.png",
+        "tier": "gold"
+    },
+    {
+        "key": "guildcrest",
+        "name": "Guild Crest",
+        "desc": "Gain a Guild Emblem and a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/guildcrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "gearupgrades",
+        "name": "Gear Upgrades",
+        "desc": "Guild champions holding an item gain 25 Armor and another 250% of their Guild bonus. Gain a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/gearupgrades.png",
+        "tier": "gold"
+    },
+    {
+        "key": "lootmaster",
+        "name": "Loot Master",
+        "desc": "Gain a random component every 4 player combat rounds when you have at least Guild (2) active. Gain a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/lootmaster.png",
+        "tier": "gold"
+    },
+    {
+        "key": "eternalprotection",
+        "name": "Eternal Protection",
+        "desc": "When one of your Jade champions would die, the nearest Jade Statue protects them, losing 70% of its max Health and transferring 200% of that amount to the champion.. Gain an Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/eternalprotection.png",
+        "tier": "gold"
+    },
+    {
+        "key": "penitence",
+        "name": "Penitence",
+        "desc": "Enemies are disarmed for 2.5 seconds the first time they attack a Jade Statue or are damaged by a Jade Statue's explosion. Gain a Gnar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/penitence.png",
+        "tier": "gold"
+    },
+    {
+        "key": "jadeheart",
+        "name": "Jade Heart",
+        "desc": "Your team counts as having 1 additional Jade. Gain a Gnar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/jadeheart.png",
+        "tier": "gold"
+    },
+    {
+        "key": "lagooncrest",
+        "name": "Lagoon Crest",
+        "desc": "Gain a Lagoon Emblem and a Zac.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/lagooncrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "hightide",
+        "name": "High Tide",
+        "desc": "Until they cast 2 times, Lagoon champions have 30% reduced Attack Speed but gain 12 Mana per second. Gain a Kai'sa.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/hightide.png",
+        "tier": "gold"
+    },
+    {
+        "key": "oasis",
+        "name": "Oasis",
+        "desc": "When Lagoon champions gain a shield, they remove all negative effects on themselves and heal for 18% of their missing Health. Gain a Zac.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/oasis.png",
+        "tier": "gold"
+    },
+    {
+        "key": "laststand",
+        "name": "Last Stand",
+        "desc": "The first time you would die, instead drop to 1 Health. After this effect triggers, your units gain 200 Health, 20 Armor and Magic Resist, and 20% Omnivamp.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/laststand.png",
+        "tier": "gold"
+    },
+    {
+        "key": "mageconference",
+        "name": "Mage Conference",
+        "desc": "While the Mage trait is active, a random Mage portals onto your bench after combat with a player. Gain a Lillia.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/mageconference.png",
+        "tier": "gold"
+    },
+    {
+        "key": "magecrest",
+        "name": "Mage Crest",
+        "desc": "Gain a Mage Emblem and a Vladimir.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/magecrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "essencetheft",
+        "name": "Essence Theft",
+        "desc": "Mages' attacks drain 8 Mana from their target and gain 4 of the drained Mana. Gain a Lux.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/essencetheft.png",
+        "tier": "gold"
+    },
+    {
+        "key": "bettertogether",
+        "name": "Better Together",
+        "desc": "Aura items that buff your team have their effects increased by 33%. Gain a Locket of the Iron Solari",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bettertogether.png",
+        "tier": "gold"
+    },
+    {
+        "key": "miragecrest",
+        "name": "Mirage Crest",
+        "desc": "Gain a Mirage Emblem and a Nunu.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/miragecrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "hallucinate",
+        "name": "Hallucinate",
+        "desc": "Mirage champions take 90% less damage for the first 6 seconds of combat. Gain a Yone.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/hallucinate.png",
+        "tier": "gold"
+    },
+    {
+        "key": "preparationii",
+        "name": "Preparation II",
+        "desc": "Champions on your bench permanently gain 35, 4 Attack Damage and Ability Power every round, up to 4 times.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/preparationii.png",
+        "tier": "gold"
+    },
+    {
+        "key": "ragewingcrest",
+        "name": "Ragewing Crest",
+        "desc": "Gain a Ragewing Emblem and a Sena.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ragewingcrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "scorch",
+        "name": "Scorch",
+        "desc": "Every 5th instance of Ragewing champion's damage deals 33% more damage and is converted to true damage. Gain a Kayn.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/scorch.png",
+        "tier": "gold"
+    },
+    {
+        "key": "tantrum",
+        "name": "Tantrum",
+        "desc": "After casting their first Ability, Ragewings restore 100% of their maximum Rage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tantrum.png",
+        "tier": "gold"
+    },
+    {
+        "key": "basecamp",
+        "name": "Base Camp",
+        "desc": "Scalescorns gain 7% damage each time they start combat in the same hex, stacking up to 4 times. Gain a Lillia.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/basecamp.png",
+        "tier": "gold"
+    },
+    {
+        "key": "scalescorncrest",
+        "name": "Scalescorn Crest",
+        "desc": "Gain a Scalescorn Emblem and a Braum.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/scalescorncrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "scopedweaponsi",
+        "name": "Scoped Weapons I",
+        "desc": "Your units that start combat in the back 2 rows gain +1 Attack Range and 15% Attack Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/scopedweaponsi.png",
+        "tier": "gold"
+    },
+    {
+        "key": "beast'sden",
+        "name": "Beast's Den",
+        "desc": "Units that start combat next to at least 2 Shapeshifters gain 25% Attack Speed and Move Speed. Shapeshifters always gain this bonus. Gain a Gnar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/beast'sden.png",
+        "tier": "gold"
+    },
+    {
+        "key": "recklessspending",
+        "name": "Reckless Spending",
+        "desc": "If you purchase both XP and a Shop Refresh during the Planning Phase, Shimmerscale champions and Champions having a Shimmerscale item gain 40% damage for the next combat phase. Gain a Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/recklessspending.png",
+        "tier": "gold"
+    },
+    {
+        "key": "shimmerscaleheart",
+        "name": "Shimmerscale Heart",
+        "desc": "Your team counts as having 1 additional Shimmerscale. Gain a Jax.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/shimmerscaleheart.png",
+        "tier": "gold"
+    },
+    {
+        "key": "swiftshotcrest",
+        "name": "Swiftshot Crest",
+        "desc": "Gain a Swiftshot Emblem and a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/swiftshotcrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "presstheattack",
+        "name": "Press the Attack",
+        "desc": "Your Swiftshots' attacks apply a stack on their target for 5 seconds. Every third stack consumes all stacks to deal true damage equal to 5% of the target's maximum Health. Gain a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/presstheattack.png",
+        "tier": "gold"
+    },
+    {
+        "key": "tempestcrest",
+        "name": "Tempest Crest",
+        "desc": "Gain a Tempest Emblem and a Qiyana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tempestcrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "eyeofthestorm",
+        "name": "Eye of the Storm",
+        "desc": "At the start of combat, the unit in the center of the board gains 45 Ability Power, increased to 135 after Tempest lightning strikes. Gain a Qiyana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/eyeofthestorm.png",
+        "tier": "gold"
+    },
+    {
+        "key": "warriorcrest",
+        "name": "Warrior Crest",
+        "desc": "Gain a Warrior Emblem and a Yone.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/warriorcrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "tiamat",
+        "name": "Tiamat",
+        "desc": "Warrior's additional attacks deal 50% of their damage to enemies in a 1-hex area around their target. Gain a Yone.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tiamat.png",
+        "tier": "gold"
+    },
+    {
+        "key": "whisperscrest",
+        "name": "Whispers Crest",
+        "desc": "Gain a Whispers Emblem and a Zyra.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/whisperscrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "terrify",
+        "name": "Terrify",
+        "desc": "Your units take 15% less damage from enemies shrunken by Whispers champions. Gain a Sylas.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/terrify.png",
+        "tier": "gold"
+    },
+    {
+        "key": "dragonsoul",
+        "name": "Dragon Soul",
+        "desc": "Your team counts as having 1 additional Dragon. Gain a Zippy and a Gargoyle Stoneplate.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonsoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "bandofthievesii",
+        "name": "Band of Thieves II",
+        "desc": "Gain 2 Thief's Gloves.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bandofthievesii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "battlemageiii",
+        "name": "BattlemageIII",
+        "desc": "Your units that start combat in the front 2 rows gain 35 Armor and 35 Ability Power.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/battlemageiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "binaryairdrop",
+        "name": "Binary Airdrop",
+        "desc": "Your champions equipped with 2 items temporarily gain a random completed item at the start of combat.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/binaryairdrop.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "bluebatteryii",
+        "name": "Blue Battery II",
+        "desc": "After casting their Ability, your units restore 20 Mana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bluebatteryii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "celestialblessingiii",
+        "name": "Celestial Blessing III",
+        "desc": "Your units heal for 35% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 450 Health.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/celestialblessingiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cyberneticimplantsiii",
+        "name": "Cybernetic Implants III",
+        "desc": "Your champions holding an item gain 250 Health and 25 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticimplantsiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cyberneticshelliii",
+        "name": "Cybernetic Shell III",
+        "desc": "Your champions holding an item gain 250 Health and 40 Armor.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticshelliii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cyberneticuplinkiii",
+        "name": "Cybernetic Uplink III",
+        "desc": "Your champions holding an item gain 250 Health and restore 4 Mana per second.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cyberneticuplinkiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "exilesiii",
+        "name": "Exiles III",
+        "desc": "Your units that start combat with no adajacent allies gain a 50% maximum Health shield for 10 seconds.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/exilesiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "standunitediii",
+        "name": "Stand United III",
+        "desc": "Your units gain 3 Attack Damage and Ability Power per Trait active across your army.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/standunitediii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "electrochargeiii",
+        "name": "Electrocharge III",
+        "desc": "When your units receive critical strikes, they deal 115-235 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/electrochargeiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "featherweightsiii",
+        "name": "Featherweights III",
+        "desc": "Your 1 and 2 cost units gain 60% Attack Speed and Move Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/featherweightsiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "newrecruit",
+        "name": "New Recruit",
+        "desc": "Gain +1 maximum team size.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/newrecruit.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "futuresightii",
+        "name": "Future Sight II",
+        "desc": "Know who you fight next. Gain a Radiant Zephyr.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/futuresightii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "goldenticket",
+        "name": "Golden Ticket",
+        "desc": "Each time your Shop is refreshed, you have a 50% chance to gain a free refresh.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/goldenticket.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "highroller",
+        "name": "High Roller",
+        "desc": "Gain 3 Loaded Dice and 8 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/highroller.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "itemgrabbagii",
+        "name": "Item Grab Bag II",
+        "desc": "Gain 2 random completed items and 2 Reforgers.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/itemgrabbagii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "luden'sechoiii",
+        "name": "Luden's Echo III",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 90-240 (based on current Stage) magic damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luden'sechoiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "makeshiftarmoriii",
+        "name": "Makeshift Armor III",
+        "desc": "Your units with no items gain 65 Armor and Magic Resist.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/makeshiftarmoriii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "meditationiii",
+        "name": "Meditation III",
+        "desc": "Your units without items equipped restore 8 Mana per second.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/meditationiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "knife'sedgeiii",
+        "name": "Knife's Edge III",
+        "desc": "Your units that start combat in the first 2 rows gain 40 Attack Damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/knife'sedgeiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "radiantrelics",
+        "name": "Radiant Relics",
+        "desc": "Open an Armory and choose 1 of 5 unique Radiant items.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/radiantrelics.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "marchofprogress",
+        "name": "March of Progress",
+        "desc": "Gain 5 bonus experience points per round. You can no longer use gold to level up.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/marchofprogress.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "thegoldenegg",
+        "name": "The Golden Egg",
+        "desc": "Gain a massive golden egg that hatches in 11 turns. If you won vs player, receive bonus turn.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/thegoldenegg.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "wisespending",
+        "name": "Wise Spending",
+        "desc": "Gain 2 experience points when you refresh your Shop.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/wisespending.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "builtdifferentiii",
+        "name": "Built Different III",
+        "desc": "Your units with no Traits active gain 350-650 Health and 50-95% Attack Speed. (based on current Stage)",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/builtdifferentiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "triforceiii",
+        "name": "Tri Force III",
+        "desc": "Your Tier 3 champions gain 333 Health, 33 starting Mana, and 33% Attack Speed.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/triforceiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "doubletroubleiii",
+        "name": "Double Trouble III",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 40 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/doubletroubleiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "verdantveil",
+        "name": "Verdant Veil",
+        "desc": "Your units are immune to crowd control effects for the first 20 seconds of combat.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/verdantveil.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "windfall",
+        "name": "Windfall",
+        "desc": "Gain 20 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/windfall.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "windfall+",
+        "name": "Windfall+",
+        "desc": "Gain 35 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/windfall+.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "windfall++",
+        "name": "Windfall++",
+        "desc": "Gain 40 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/windfall++.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "woodlandcharm",
+        "name": "Woodland Charm",
+        "desc": "Your highest Health champion is cloned. Clones cannot hold items.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/woodlandcharm.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "ageofdragons",
+        "name": "Age of Dragons",
+        "desc": "If you only have Dragons, every 5th attack from a Dragon fires a Dragonsoul blast that deals magic damage equal to 15% of their target's max Health. Gain a Nomsy, Zippy, and a random Tier 4 Dragon.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ageofdragons.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "assassincrown",
+        "name": "Assassin Crown",
+        "desc": "Gain an Assassin Emblem, a Hand of Justice, and a Diana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/assassincrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "parttimeassassins",
+        "name": "Part Time Assassins",
+        "desc": "The Assassin trait grants its bonuses to your champions that start combat in the back 2 rows. This does not increase your number of Assassins. Gain a Qiyana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/parttimeassassins.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "bestfriendsiii",
+        "name": "Best Friends III",
+        "desc": "Your units that start combat only adjacent to each other gain 20% Attack Speed and 35 Armor.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bestfriendsiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "birthdaypresent",
+        "name": "Birthday Present",
+        "desc": "Gain a 2-star champion every time you level up. The champion's tier is your level minus 4 (min: Tier 1). Gain additional 1 gold every time you level up.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/birthdaypresent.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "bruisercrown",
+        "name": "Bruiser Crown",
+        "desc": "Gain a Bruiser Emblem, a Redemption, and an Sylas.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/bruisercrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cannoneercrown",
+        "name": "Cannoneer Crown",
+        "desc": "Gain a Cannoneer Emblem, a Runaan's Hurricane, and a Aphelios.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cannoneercrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cavaliercrown",
+        "name": "Cavalier Crown",
+        "desc": "Gain a Cavalier Emblem, a Redemption, and a Nunu.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cavaliercrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cavalierunity",
+        "name": "Cavalier Unity",
+        "desc": "The Cavalier trait grants its bonuses to all of your Champions. This does not increase your number of Cavaliers. Gain a Sejuani.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cavalierunity.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cursedcrown",
+        "name": "Cursed Crown",
+        "desc": "Gain +2 maximum team size, but take 100% increased player damage.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cursedcrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "darkflightcrown",
+        "name": "Darkflight Crown",
+        "desc": "Gain a Darkflight Emblem, a Titan's Resolve, and an Rengar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/darkflightcrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "dragonmancercrown",
+        "name": "Dragonmancer Crown",
+        "desc": "Gain a Dragonmancer Emblem, a Hand of Justice, and a Lee Sin.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonmancercrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "evokercrown",
+        "name": "Evoker Crown",
+        "desc": "Gain an Evoker Emblem, a Spear of Shojin, and an Seraphine.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/evokercrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "guardiancrown",
+        "name": "Guardian Crown",
+        "desc": "Gain a Guardian Emblem, a Sunfire Cape, and a Braum.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/guardiancrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "guildcrown",
+        "name": "Guild Crown",
+        "desc": "Gain a Guild Emblem, a Giant Slayer and a Twitch.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/guildcrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "jadesoul",
+        "name": "Jade Soul",
+        "desc": "Your team counts as having 1 additional Jade. Gain an Titan's Resolve and a Gnar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/jadesoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "lagooncrown",
+        "name": "Lagoon Crown",
+        "desc": "Gain a Lagoon Emblem, a Spear of Shojin and a Zeri.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/lagooncrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "livingforge",
+        "name": "Living Forge",
+        "desc": "Gain a random Ornn item now and after every 10 player combats.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/livingforge.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "luckygloves",
+        "name": "Lucky Gloves",
+        "desc": "Thief's Gloves will always give your champions items that they can use well. Gain a Thief's Gloves.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/luckygloves.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "magecrown",
+        "name": "Mage Crown",
+        "desc": "Gain a Mage Emblem, a Spear of Shojin, and a Lux.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/magecrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "miragecrown",
+        "name": "Mirage Crown",
+        "desc": "Gain a Mirage Emblem, a Hand of Justice, and a Nunu.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/miragecrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "mysticsoul",
+        "name": "Mystic Soul",
+        "desc": "Your team counts as having 1 additional Mystic. Gain a Spear of Shojin and a Rakan.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/mysticsoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "preparationiii",
+        "name": "Preparation III",
+        "desc": "Champions on your bench permanently gain 50, 7 Attack Damage and Ability Power every round, up to 4 times.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/preparationiii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "ragewingsoul",
+        "name": "Ragewing Soul",
+        "desc": "Your team counts as having 1 additional Ragewing. Gain a Guinsoo's Rageblade and a Rakan.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ragewingsoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cruelpact",
+        "name": "Cruel Pact",
+        "desc": "Buying XP costs 6 Health instead of gold. But Heal 3 Health after a round.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/cruelpact.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "scalescorncrown",
+        "name": "Scalescorn Crown",
+        "desc": "Gain a Scalescorn Emblem, a Hand of Justice, and a Diana.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/scalescorncrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "scopedweaponsii",
+        "name": "Scoped Weapons II",
+        "desc": "Your units that start combat in the back 2 rows gain infinite Attack Range.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/scopedweaponsii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "shapeshiftersoul",
+        "name": "Shapeshifter Soul",
+        "desc": "Your team counts as having 1 additional Shapeshifter. Gain a Sunfire Cape and an Gnar.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/shapeshiftersoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "shimmerscalesoul",
+        "name": "Shimmerscale Soul",
+        "desc": "Your team counts as having 1 additional Shimmerscale. Gain a Titan's Resolve and a Volibear.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/shimmerscalesoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "swiftshotcrown",
+        "name": "Swiftshot Crown",
+        "desc": "Gain a Swiftshot Emblem, a Guinsoo's Rageblade, and a Varus.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/swiftshotcrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "tempestcrown",
+        "name": "Tempest Crown",
+        "desc": "Gain a Tempest Emblem, a Statikk Shiv, and a Lee Sin.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/tempestcrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "thinkfast",
+        "name": "Think Fast",
+        "desc": "Shop refreshes are free until the end of this round. Traits and other augments do not benefit from these free shops. Gain 8 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/thinkfast.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "ancientarchivesii",
+        "name": "Ancient Archives II",
+        "desc": "Gain 2 Tome of Traits.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/ancientarchivesii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "urf'sgrabbagii",
+        "name": "Urf's Grab Bag II",
+        "desc": "Gain 1 Spatula and 3 random item components.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/urf'sgrabbagii.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "warriorcrown",
+        "name": "Warrior Crown",
+        "desc": "Gain a Warrior Emblem, a Giant Slayer, and an Yone.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/warriorcrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "whisperscrown",
+        "name": "Whispers Crown",
+        "desc": "Gain a Whispers Emblem, a Titan's Resolve, and an Sylas.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/whisperscrown.png",
+        "tier": "prismatic"
+    }
+]
