@@ -854,7 +854,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Assassin",
+        "affectedTrait": null,
         "fromItemIngameIds": []
     },
     {
@@ -919,7 +919,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Bruiser",
+        "affectedTrait": null,
         "fromItemIngameIds": []
     },
     {
@@ -947,7 +947,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Cavalier",
+        "affectedTrait": null,
         "fromItemIngameIds": [
             5,
             8
@@ -978,7 +978,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Dragonmancer",
+        "affectedTrait": null,
         "fromItemIngameIds": [
             3,
             8
@@ -1009,7 +1009,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Guardian",
+        "affectedTrait": null,
         "fromItemIngameIds": [
             7,
             8
@@ -1071,7 +1071,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Mage",
+        "affectedTrait": null,
         "fromItemIngameIds": [
             4,
             8
@@ -1088,7 +1088,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Mirage",
+        "affectedTrait": null,
         "fromItemIngameIds": [
             6,
             8
@@ -1119,7 +1119,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Ragewing",
+        "affectedTrait": null,
         "fromItemIngameIds": []
     },
     {
@@ -1147,7 +1147,7 @@
         "isArtifactItem": false,
         "isShimmerScaleItem": false,
         "isPbe": false,
-        "affectedTrait": "Shimmerscale",
+        "affectedTrait": null,
         "fromItemIngameIds": [
             1,
             8
