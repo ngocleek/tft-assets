@@ -6,14 +6,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/jeweledGauntlet.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            3,
-            9
+            "3",
+            "9"
         ]
     },
     {
@@ -23,14 +23,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/bansheeSClaw.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            7,
-            9
+            "7",
+            "9"
         ]
     },
     {
@@ -40,14 +40,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/bloodthirster.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            6
+            "1",
+            "6"
         ]
     },
     {
@@ -57,14 +57,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/blueBuff.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            4,
-            4
+            "4",
+            "4"
         ]
     },
     {
@@ -74,14 +74,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/brambleVest.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            5,
-            5
+            "5",
+            "5"
         ]
     },
     {
@@ -91,14 +91,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/chaliceOfPower.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            4,
-            6
+            "4",
+            "6"
         ]
     },
     {
@@ -108,9 +108,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/crownOfChampions.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -122,9 +122,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/determinedInvestor.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -136,9 +136,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/diamondHands.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -150,9 +150,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/dragonBlessing.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -164,14 +164,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/dragonSClaw.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            6,
-            6
+            "6",
+            "6"
         ]
     },
     {
@@ -181,9 +181,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/dravenSAxe.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -195,14 +195,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/protectorSVow.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            4,
-            5
+            "4",
+            "5"
         ]
     },
     {
@@ -212,14 +212,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/tacticianSCrown.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            8,
-            8
+            "8",
+            "8"
         ]
     },
     {
@@ -229,9 +229,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/gamblerSBlade.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -243,14 +243,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/giantSlayer.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            2
+            "1",
+            "2"
         ]
     },
     {
@@ -260,9 +260,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/goldmancerSStaff.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -274,14 +274,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/edgeOfNight.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            5
+            "1",
+            "5"
         ]
     },
     {
@@ -291,14 +291,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/guinsooSRageblade.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            3
+            "2",
+            "3"
         ]
     },
     {
@@ -308,14 +308,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/handOfJustice.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            4,
-            9
+            "4",
+            "9"
         ]
     },
     {
@@ -325,14 +325,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/hextechGunblade.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            3
+            "1",
+            "3"
         ]
     },
     {
@@ -342,14 +342,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/infinityEdge.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            9
+            "1",
+            "9"
         ]
     },
     {
@@ -359,14 +359,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/ionicSpark.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            3,
-            6
+            "3",
+            "6"
         ]
     },
     {
@@ -376,14 +376,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/gargoyleStoneplate.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            5,
-            6
+            "5",
+            "6"
         ]
     },
     {
@@ -393,14 +393,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/lastWhisper.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            9
+            "2",
+            "9"
         ]
     },
     {
@@ -410,14 +410,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/locketOfTheIronSolari.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            3,
-            5
+            "3",
+            "5"
         ]
     },
     {
@@ -427,14 +427,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/deathblade.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            1
+            "1",
+            "1"
         ]
     },
     {
@@ -444,14 +444,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/archangelSStaff.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            3,
-            4
+            "3",
+            "4"
         ]
     },
     {
@@ -461,9 +461,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/mogulSMail.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -475,14 +475,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/morellonomicon.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            3,
-            7
+            "3",
+            "7"
         ]
     },
     {
@@ -492,9 +492,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/needlesslyBigGem.jpg",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": true,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -506,9 +506,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/obsidianCleaver.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -520,9 +520,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/deathSDefiance.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -534,9 +534,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/eternalWinter.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -548,9 +548,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/manazane.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -562,9 +562,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/randuinSSanctum.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -576,9 +576,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rocketPropelledFist.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -590,9 +590,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/animaVisage.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -604,9 +604,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/goldCollector.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -618,9 +618,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/infinityForce.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -632,9 +632,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zhonyaSParadox.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": true,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": true,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -646,14 +646,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/quicksilver.jpg",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            6,
-            9
+            "6",
+            "9"
         ]
     },
     {
@@ -663,14 +663,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rabadonSDeathcap.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            3,
-            3
+            "3",
+            "3"
         ]
     },
     {
@@ -680,14 +680,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rapidFirecannon.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            2
+            "2",
+            "2"
         ]
     },
     {
@@ -697,14 +697,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/redemption.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            4,
-            7
+            "4",
+            "7"
         ]
     },
     {
@@ -714,14 +714,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/runaanSHurricane.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            6
+            "2",
+            "6"
         ]
     },
     {
@@ -731,14 +731,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/shroudOfStillness.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            5,
-            9
+            "5",
+            "9"
         ]
     },
     {
@@ -748,14 +748,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/spearOfShojin.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            4
+            "1",
+            "4"
         ]
     },
     {
@@ -765,14 +765,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/statikkShiv.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            4
+            "2",
+            "4"
         ]
     },
     {
@@ -782,14 +782,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/sunfireCape.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            5,
-            7
+            "5",
+            "7"
         ]
     },
     {
@@ -799,14 +799,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/thiefSGloves.png",
         "requiredSlots": 3,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            9,
-            9
+            "9",
+            "9"
         ]
     },
     {
@@ -816,14 +816,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/titanSResolve.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            5
+            "2",
+            "5"
         ]
     },
     {
@@ -833,14 +833,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/warmogSArmor.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            7,
-            7
+            "7",
+            "7"
         ]
     },
     {
@@ -850,11 +850,11 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/assassinEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Assassin",
         "fromItemIngameIds": []
     },
     {
@@ -864,14 +864,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zekeSHerald.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            1,
-            7
+            "1",
+            "7"
         ]
     },
     {
@@ -881,14 +881,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zephyr.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            6,
-            7
+            "6",
+            "7"
         ]
     },
     {
@@ -898,14 +898,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zzRotPortal.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": [
-            2,
-            7
+            "2",
+            "7"
         ]
     },
     {
@@ -915,9 +915,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/bruiserEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -929,9 +929,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/cannoneerEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Cannoneer",
         "fromItemIngameIds": []
@@ -943,14 +943,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/cavalierEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Cavalier",
         "fromItemIngameIds": [
-            5,
-            8
+            "5",
+            "8"
         ]
     },
     {
@@ -960,9 +960,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/darkflightEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Darkflight",
         "fromItemIngameIds": []
@@ -974,14 +974,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/dragonmancerEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Dragonmancer",
         "fromItemIngameIds": [
-            3,
-            8
+            "3",
+            "8"
         ]
     },
     {
@@ -991,9 +991,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/evokerEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Evoker",
         "fromItemIngameIds": []
@@ -1005,14 +1005,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/guardianEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Guardian",
         "fromItemIngameIds": [
-            7,
-            8
+            "7",
+            "8"
         ]
     },
     {
@@ -1022,9 +1022,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/guildEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Guild",
         "fromItemIngameIds": []
@@ -1036,9 +1036,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/jadeEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Jade",
         "fromItemIngameIds": []
@@ -1050,14 +1050,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/lagoonEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Lagoon",
         "fromItemIngameIds": [
-            8,
-            9
+            "8",
+            "9"
         ]
     },
     {
@@ -1067,14 +1067,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/mageEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Mage",
         "fromItemIngameIds": [
-            4,
-            8
+            "4",
+            "8"
         ]
     },
     {
@@ -1084,14 +1084,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/mirageEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Mirage",
         "fromItemIngameIds": [
-            6,
-            8
+            "6",
+            "8"
         ]
     },
     {
@@ -1101,25 +1101,11 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/mysticEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Mystic",
-        "fromItemIngameIds": []
-    },
-    {
-        "id": 1994,
-        "key": "ragewingemblem",
-        "name": "Ragewing Emblem",
-        "imageUrl": "../tft-assets/ddragon/set7.5/items/ragewingEmblem.png",
-        "requiredSlots": 1,
-        "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
-        "isPbe": false,
-        "affectedTrait": null,
         "fromItemIngameIds": []
     },
     {
@@ -1129,9 +1115,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/scalescornEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Scalescorn",
         "fromItemIngameIds": []
@@ -1143,14 +1129,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/shimmerscaleEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Shimmerscale",
         "fromItemIngameIds": [
-            1,
-            8
+            "1",
+            "8"
         ]
     },
     {
@@ -1160,14 +1146,14 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/swiftshotEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Swiftshot",
         "fromItemIngameIds": [
-            2,
-            8
+            "2",
+            "8"
         ]
     },
     {
@@ -1177,9 +1163,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/tempestEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Tempest",
         "fromItemIngameIds": []
@@ -1191,9 +1177,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/warriorEmblem.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": "Warrior",
         "fromItemIngameIds": []
@@ -1205,9 +1191,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/bulwarkSOath.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1219,9 +1205,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/urfAngelSStaff.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1233,9 +1219,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/bansheeSSilence.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1247,9 +1233,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/blessedBloodthirster.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1261,9 +1247,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/blueBlessing.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1275,9 +1261,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rosethornVest.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1289,9 +1275,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/chaliceOfCharity.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1303,9 +1289,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/luminousDeathblade.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1317,9 +1303,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/dragonSWill.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1331,9 +1317,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/brinkOfDawn.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1345,9 +1331,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/dvarapalaStoneplate.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1359,9 +1345,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/demonSlayer.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1373,9 +1359,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/guinsooSReckoning.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1387,9 +1373,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/fistOfFairness.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1401,9 +1387,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/hextechLifeblade.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1415,9 +1401,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zenithEdge.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1429,9 +1415,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/covalentSpark.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1443,9 +1429,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/glamorousGauntlet.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1457,9 +1443,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/eternalWhisper.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1471,9 +1457,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/locketOfTargonPrime.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1485,9 +1471,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/moreMoreEllonomicon.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1499,9 +1485,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/quickestsilver.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1513,9 +1499,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rabadonSAscendedDeathcap.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1527,9 +1513,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rapidLightcannon.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1541,9 +1527,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/absolution.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1555,9 +1541,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/runaanSTempest.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1569,9 +1555,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/shroudOfReverance.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1583,9 +1569,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/spearOfHirana.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1597,9 +1583,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/statikkFavor.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1611,9 +1597,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/sunlightCape.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1625,9 +1611,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/rascalSGloves.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1639,9 +1625,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/titanSVow.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1653,9 +1639,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/warmogSPride.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1667,9 +1653,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zekeSHarmony.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1681,9 +1667,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/mistral.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1695,9 +1681,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/zzRotsInvitation.png",
         "requiredSlots": 1,
         "isUnique": true,
-        "isRadiantItem": true,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": true,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": null,
         "fromItemIngameIds": []
@@ -1709,9 +1695,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/bFSword.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1723,9 +1709,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/chainVest.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1737,9 +1723,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/giantSBelt.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1751,9 +1737,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/needlesslyLargeRod.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1765,9 +1751,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/negatronCloak.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1779,9 +1765,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/recurveBow.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1793,9 +1779,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/sparringGloves.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1807,9 +1793,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/spatula.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
@@ -1821,9 +1807,9 @@
         "imageUrl": "../tft-assets/ddragon/set7.5/items/tearOfTheGoddess.png",
         "requiredSlots": 1,
         "isUnique": false,
-        "isRadiantItem": false,
-        "isArtifactItem": false,
-        "isShimmerScaleItem": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
         "isPbe": false,
         "affectedTrait": false,
         "fromItemIngameIds": []
