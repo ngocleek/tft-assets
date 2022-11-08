@@ -1071,13 +1071,6 @@
         "tier": "gold"
     },
     {
-        "key": "whispersCrest",
-        "name": "Whispers Crest",
-        "desc": "Gain a Whispers Emblem and a Zyra.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/whispersCrest.png",
-        "tier": "gold"
-    },
-    {
         "key": "terrify",
         "name": "Terrify",
         "desc": "Your units take 15% less damage from enemies shrunken by Whispers champions. Gain a Sylas.",
@@ -1565,13 +1558,6 @@
         "name": "Warrior Crown",
         "desc": "Gain a Warrior Emblem, a Giant Slayer, and an Yone.",
         "imageUrl": "../tft-assets/ddragon/set7.5/augments/warriorCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "whispersCrown",
-        "name": "Whispers Crown",
-        "desc": "Gain a Whispers Emblem, a Titan's Resolve, and an Sylas.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/whispersCrown.png",
         "tier": "prismatic"
     }
 ]
