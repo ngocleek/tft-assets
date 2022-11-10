@@ -116,6 +116,20 @@
         "fromItemIngameIds": []
     },
     {
+        "id": 2905,
+        "key": "darkflightessence",
+        "name": "DarkflightEssence",
+        "imageUrl": "../tft-assets/ddragon/set7.5/items/darkflightEssence.png",
+        "requiredSlots": 1,
+        "isUnique": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
+        "isPbe": false,
+        "affectedTrait": null,
+        "fromItemIngameIds": []
+    },
+    {
         "id": 1805,
         "key": "determinedinvestor",
         "name": "Determined Investor",
@@ -905,7 +919,7 @@
         "isArtifact": false,
         "isShimmerScale": false,
         "isPbe": false,
-        "affectedTrait": null,
+        "affectedTrait": "Bruiser",
         "fromItemIngameIds": []
     },
     {
