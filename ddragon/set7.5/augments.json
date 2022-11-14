@@ -1078,13 +1078,6 @@
         "tier": "gold"
     },
     {
-        "key": "dragonSoul",
-        "name": "Dragon Soul",
-        "desc": "Your team counts as having 1 additional Dragon. Gain a Zippy and a Gargoyle Stoneplate.",
-        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonSoul.png",
-        "tier": "prismatic"
-    },
-    {
         "key": "bandOfThievesII",
         "name": "Band of Thieves II",
         "desc": "Gain 2 Thief's Gloves.",
@@ -1390,6 +1383,13 @@
         "name": "Darkflight Crown",
         "desc": "Gain a Darkflight Emblem, a Titan's Resolve, and an Rengar.",
         "imageUrl": "../tft-assets/ddragon/set7.5/augments/darkflightCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "dragonSoul",
+        "name": "Dragon Soul",
+        "desc": "Your team counts as having 1 additional Dragon. Gain a Zippy and a Gargoyle Stoneplate.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/dragonSoul.png",
         "tier": "prismatic"
     },
     {
