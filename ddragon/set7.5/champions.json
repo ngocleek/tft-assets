@@ -140,10 +140,10 @@
         ],
         "stats": {
             "armor": 60,
-            "attack_damage": 70,
+            "attack_damage": 85,
             "attack_range_slot": 1,
             "attack_speed": 0.6,
-            "dps": 42,
+            "dps": 51,
             "health": 800,
             "magical_resistance": 60,
             "starting_mana": 30
@@ -203,13 +203,13 @@
         ],
         "stats": {
             "armor": 35,
-            "attack_damage": 50,
+            "attack_damage": 55,
             "attack_range_slot": 1,
             "attack_speed": 0.75,
-            "dps": 38,
+            "dps": 41,
             "health": 700,
             "magical_resistance": 35,
-            "starting_mana": 50
+            "starting_mana": 30
         },
         "skill": {
             "name": "Pale Cascade",
@@ -334,7 +334,7 @@
             "attack_range_slot": 1,
             "attack_speed": 0.75,
             "dps": 45,
-            "health": 900,
+            "health": 1000,
             "magical_resistance": 60,
             "starting_mana": 30
         },
@@ -343,7 +343,7 @@
             "type": "Active",
             "desc": "Hecarim summons spectral riders that charge through his target, dealing magic damage and stunning enemies hit.",
             "stats": [
-                "Damage: 150 / 250 / 1200",
+                "Damage: 200 / 300 / 1500",
                 "Stun Duration: 1.5 / 2 / 8"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/hecarim.png"
@@ -437,7 +437,7 @@
             "type": "Active",
             "desc": "Jax enters a defensive stance for 2 seconds, dodgings all incoming attacks. When the stance ends, he strikes all nearby enemies, dealing magic damage and stunning them.",
             "stats": [
-                "Damage: 225 / 325 / 450",
+                "Damage: 225 / 350 / 750",
                 "Stun Duration: 1 / 1.25 / 1.5"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/jax.png"
@@ -467,13 +467,13 @@
         "skill": {
             "name": "Mercurial Justice",
             "type": "Active",
-            "desc": "Jayce transforms into his melee form, then slams the ground around his target, dealing magic damage and  gains bonus 45 Armor and Magic Resist for the rest of combat.\r\n\r\nMercury Judgement: Jayce calls lightning upon his target, smiting them for Magic damage and dealing an additional magic damage to other enemies in the area. He then heals for health and additional 20% per enemy struck.",
+            "desc": "Jayce transforms into his melee form, then slams the ground around his target, dealing magic damage and  gains bonus 40 Armor and Magic Resist for the rest of combat.\r\n\r\nMercury Judgement: Jayce calls lightning upon his target, smiting them for Magic damage and dealing an additional magic damage to other enemies in the area. He then heals for health and additional 20% per enemy struck.",
             "stats": [
-                "Transform Magic Damage: 275 / 350 / 900",
-                "Bonus Armor & Magic Resist: 45",
-                "Smite Magic Damage: 375 / 500 / 1500",
-                "Secondary Magic Damage: 125 / 175 / 650",
-                "Heal Amount: 150 / 210 / 550"
+                "Transform Magic Damage: 300 / 400 / 1500",
+                "Bonus Armor & Magic Resist: 40",
+                "Smite Magic Damage: 400 / 550 / 2000",
+                "Secondary Magic Damage: 225 / 275 / 1200",
+                "Heal Amount: 100 / 150 / 500"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/jayce.png"
         }
@@ -597,7 +597,7 @@
             "type": "Active",
             "desc": "Leona creates a barrier around herself, reducing all incoming damage for 4 seconds.",
             "stats": [
-                "Damage Reduction: 30 / 40 / 60"
+                "Damage Reduction: 35 / 45 / 70"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/leona.png"
         }
@@ -615,13 +615,13 @@
             "Mage"
         ],
         "stats": {
-            "armor": 40,
-            "attack_damage": 40,
+            "armor": 50,
+            "attack_damage": 50,
             "attack_range_slot": 1,
-            "attack_speed": 0.7,
-            "dps": 28,
+            "attack_speed": 0.75,
+            "dps": 38,
             "health": 750,
-            "magical_resistance": 40,
+            "magical_resistance": 50,
             "starting_mana": 0
         },
         "skill": {
@@ -708,10 +708,10 @@
         ],
         "stats": {
             "armor": 40,
-            "attack_damage": 70,
+            "attack_damage": 80,
             "attack_range_slot": 1,
-            "attack_speed": 0.5,
-            "dps": 35,
+            "attack_speed": 0.6,
+            "dps": 48,
             "health": 700,
             "magical_resistance": 40,
             "starting_mana": 90
@@ -745,7 +745,7 @@
             "dps": 33,
             "health": 600,
             "magical_resistance": 40,
-            "starting_mana": 60
+            "starting_mana": 30
         },
         "skill": {
             "name": "Fury of the Dawn",
@@ -836,7 +836,7 @@
         "stats": {
             "armor": 30,
             "attack_damage": 60,
-            "attack_range_slot": 3,
+            "attack_range_slot": 4,
             "attack_speed": 0.75,
             "dps": 45,
             "health": 650,
@@ -869,7 +869,7 @@
         "stats": {
             "armor": 30,
             "attack_damage": 60,
-            "attack_range_slot": 3,
+            "attack_range_slot": 4,
             "attack_speed": 0.75,
             "dps": 45,
             "health": 650,
@@ -902,7 +902,7 @@
         "stats": {
             "armor": 30,
             "attack_damage": 60,
-            "attack_range_slot": 3,
+            "attack_range_slot": 4,
             "attack_speed": 0.75,
             "dps": 45,
             "health": 650,
@@ -1028,13 +1028,13 @@
         ],
         "stats": {
             "armor": 35,
-            "attack_damage": 50,
+            "attack_damage": 55,
             "attack_range_slot": 1,
             "attack_speed": 0.75,
-            "dps": 38,
+            "dps": 41,
             "health": 700,
             "magical_resistance": 35,
-            "starting_mana": 40
+            "starting_mana": 30
         },
         "skill": {
             "name": "Elemental Blade",
@@ -1061,10 +1061,10 @@
         ],
         "stats": {
             "armor": 50,
-            "attack_damage": 45,
+            "attack_damage": 55,
             "attack_range_slot": 2,
             "attack_speed": 0.75,
-            "dps": 34,
+            "dps": 41,
             "health": 800,
             "magical_resistance": 50,
             "starting_mana": 15
@@ -1107,7 +1107,7 @@
             "type": "Active",
             "desc": "Rell forms a tether between herself and her lowest percent health ally, dealing magic damage to all enemies between herself and her bound ally. She also grants herself and her bound ally % of Rell's current Armor and Magic Resist for 4 seconds.",
             "stats": [
-                "Damage: 150 / 225 / 400",
+                "Damage: 160 / 240 / 440",
                 "Armor and Magic Resisit %: 35% / 40% / 50%"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/rell.png"
@@ -1164,7 +1164,7 @@
             "dps": 33,
             "health": 650,
             "magical_resistance": 40,
-            "starting_mana": 50
+            "starting_mana": 25
         },
         "skill": {
             "name": "Warrior's Wrath",
@@ -1235,8 +1235,8 @@
             "type": "Active",
             "desc": "Seraphine sings a serenade of the seas, granting a shield and bonus damage per attack to all allies within 2 hexes for 4 seconds.",
             "stats": [
-                "Shield Amount: 160 / 220 / 300",
-                "Damage per attack: 20 / 35 / 65"
+                "Shield Amount: 120 / 160 / 240",
+                "Damage per attack: 15 / 25 / 45"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/seraphine.png"
         }
@@ -1488,14 +1488,14 @@
             "dps": 36,
             "health": 800,
             "magical_resistance": 50,
-            "starting_mana": 70
+            "starting_mana": 60
         },
         "skill": {
             "name": "Petricite Burst",
             "type": "Active",
             "desc": "Sylas whirls his chains, dealing magic damage to enemies hit and shielding himself for 6 seconds. If Sylas has already shielded himself, he hits in a larger area and applies Mana-Reave to enemies hit, increasing the cost of their next ability by 35%.",
             "stats": [
-                "Damage: 110 / 170 / 240",
+                "Damage: 140 / 200 / 320",
                 "Shield Amount: 365 / 415 / 525"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/sylas.png"
@@ -1527,7 +1527,7 @@
             "type": "Active",
             "desc": "Taliyah throws 3 seastones at her target, each dealing magic damage to the first enemy hit.",
             "stats": [
-                "Damage: 145 / 215 / 325"
+                "Damage: 160 / 240 / 380"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/taliyah.png"
         }
@@ -1588,7 +1588,7 @@
             "stats": [
                 "% Attack Damage: 140% / 170% / 210%",
                 "Magic Damage: 130 / 160 / 200",
-                "Bonus Attack Damage: 35 / 50 / 80"
+                "Bonus Attack Damage: 50 / 75 / 120"
             ],
             "imageUrl": "../tft-assets/ddragon/set7.5/skills/tristana.png"
         }
@@ -1763,13 +1763,13 @@
             "Warrior"
         ],
         "stats": {
-            "armor": 40,
-            "attack_damage": 55,
+            "armor": 45,
+            "attack_damage": 65,
             "attack_range_slot": 1,
             "attack_speed": 0.7,
-            "dps": 39,
+            "dps": 46,
             "health": 650,
-            "magical_resistance": 40,
+            "magical_resistance": 45,
             "starting_mana": 0
         },
         "skill": {

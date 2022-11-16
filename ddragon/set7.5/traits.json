@@ -67,9 +67,9 @@
             "description": "Your team gains bonus maximum Health. Bruisers gain double this bonus.",
             "stats": {
                 "2": "180 Health",
-                "4": "350 Health",
-                "6": "600 Health",
-                "8": "1000 Health"
+                "4": "375 Health",
+                "6": "700 Health",
+                "8": "1500 Health"
             }
         },
         "isStrictStack": false,
@@ -263,9 +263,9 @@
         "synergy": {
             "description": "Evokers gain Mana whenever an ally or enemy casts an Ability.",
             "stats": {
-                "2": "4 Mana",
-                "3": "6 Mana",
-                "4": "8 Mana"
+                "2": "5 Mana",
+                "3": "8 Mana",
+                "4": "10 Mana"
             }
         },
         "isStrictStack": false,
@@ -340,7 +340,7 @@
                 "3": "80% Ability Power",
                 "5": "105% Ability Power",
                 "7": "135% Ability Power",
-                "9": "170% Ability Power"
+                "9": "195% Ability Power"
             }
         },
         "isStrictStack": false,
@@ -417,8 +417,8 @@
         "synergy": {
             "description": "Transforming grants bonus maximum Health.",
             "stats": {
-                "2": "50% bonus Health",
-                "4": "125% bonus Health"
+                "2": "60% bonus Health",
+                "4": "150% bonus Health"
             }
         },
         "isStrictStack": false,
@@ -759,7 +759,7 @@
             "black": "../tft-assets/ddragon/set7.5/traits/mirageBlack.svg"
         },
         "synergy": {
-            "description": "Mirage champions (2/4/6/8) gain a different Trait bonus from game to game.<br><br>Electric Overload: When attacking or being hit by an attack, Mirage units gain a chance to deal 9% of their maximum Health as magic damage to adjacent enemies.<br>\r\n(2) 20% chance<br>\r\n(4) 25% chance<br>\r\n(6) 33% chance<br>\r\n(8) 50% chance<br>\r\n-----------------------------------------\r\n<br>\r\nWarlord's Honor: After winning any combat, gain bonus Health and Ability Power.<br> Increases by 10% per win, stacks up to 5 times!<br>\r\n(2) 200 Health and 20 Ability Power<br>\r\n(4) 300 Health and 30 Ability Power<br>\r\n(6) 450 Health and 45 Ability Power<br>\r\n(8) 600 Health and 60 Ability Power<br>\r\n-----------------------------------------\r\n<br>Pirate's Greed: Gain a chest of loot after each player combat.<br>\r\n(2) Gain a deckhand's chest.<br>\r\n(4) Gain a lieutenant's chest.<br>\r\n(6) Gain a captain's chest.<br>\r\n(8) Gain a admiral's chest.<br>\r\n-----------------------------------------\r\n<br>Dawnbringer's Determination: Once per combat, rapidly heal at 50% Health<br>(2) Heal 40% maximum Health<br>\r\n(4) Heal 65% maximum Health<br>\r\n(6) Heal 65% maximum Health; heal a 2nd time<br>\r\n(8) Heal 110% maximum Health; heal a 2nd time<br>\r\n-----------------------------------------\r\n<br>Executioner's Edge: Always critically strike low Heath targets with Attacks and Abilities. Gain bonus Critial Strike Damage.<br>\r\n(2) at 50% Health, +20% Crit Damage<br>\r\n(4) at 65% Health, +30% Crit Damage<br>\r\n(6) at 80% Health, +40% Crit Damage<br>\r\n(8) at 100% Health, +50% Crit Damage<br>\r\n-----------------------------------------\r\n<br>Spellsword's Enchantment: Each player combat, gain Ability Power per attack.<br>\r\n(2) 5 Ability Power<br>\r\n(4) 8 Ability Power<br>\r\n(6) 12 Ability Power<br>\r\n(8) 20 Ability Power<br>\r\n-----------------------------------------\r\n<br>Duelist's Dexterity: Innate: Mirage units move faster.<br>Attacks grant bonus Attack Speed, up to 10 stacks.<br>\r\n(2) 6% Attack Speed per stack<br>\r\n(4) 12% Attack Speed per stack<br>\r\n(6) 20% Attack Speed per stack<br>\r\n(8) 30% Attack Speed per stack",
+            "description": "Mirage champions (2/4/6/8) gain a different Trait bonus from game to game.<br><br>Electric Overload: When attacking or being hit by an attack, Mirage units gain a chance to deal 9% of their maximum Health as magic damage to adjacent enemies.<br>\r\n(2) 20% chance<br>\r\n(4) 33% chance<br>\r\n(6) 50% chance<br>\r\n(8) 100% chance<br>\r\n-----------------------------------------\r\n<br>\r\nWarlord's Honor: After winning any combat, gain bonus Health and Ability Power.<br> Increases by 10% per win, stacks up to 5 times!<br>\r\n(2) 200 Health and 20 Ability Power<br>\r\n(4) 300 Health and 30 Ability Power<br>\r\n(6) 450 Health and 45 Ability Power<br>\r\n(8) 600 Health and 60 Ability Power<br>\r\n-----------------------------------------\r\n<br>Pirate's Greed: Gain a chest of loot after each player combat.<br>\r\n(2) Gain a deckhand's chest.<br>\r\n(4) Gain a lieutenant's chest.<br>\r\n(6) Gain a captain's chest.<br>\r\n(8) Gain a admiral's chest.<br>\r\n-----------------------------------------\r\n<br>Dawnbringer's Determination: Once per combat, rapidly heal at 50% Health<br>(2) Heal 40% maximum Health<br>\r\n(4) Heal 65% maximum Health<br>\r\n(6) Heal 65% maximum Health; heal a 2nd time<br>\r\n(8) Heal 110% maximum Health; heal a 2nd time<br>\r\n-----------------------------------------\r\n<br>Executioner's Edge: Always critically strike low Heath targets with Attacks and Abilities. Gain bonus Critial Strike Damage.<br>\r\n(2) at 50% Health, +20% Crit Damage<br>\r\n(4) at 65% Health, +30% Crit Damage<br>\r\n(6) at 80% Health, +40% Crit Damage<br>\r\n(8) at 100% Health, +50% Crit Damage<br>\r\n-----------------------------------------\r\n<br>Spellsword's Enchantment: Each player combat, gain Ability Power per attack.<br>\r\n(2) 5 Ability Power<br>\r\n(4) 8 Ability Power<br>\r\n(6) 12 Ability Power<br>\r\n(8) 20 Ability Power<br>\r\n-----------------------------------------\r\n<br>Duelist's Dexterity: Innate: Mirage units move faster.<br>Attacks grant bonus Attack Speed, up to 10 stacks.<br>\r\n(2) 6% Attack Speed per stack<br>\r\n(4) 12% Attack Speed per stack<br>\r\n(6) 20% Attack Speed per stack<br>\r\n(8) 30% Attack Speed per stack",
             "stats": {
                 "2": "??? (Randomly selected per game)",
                 "4": "??? (Randomly selected per game)",
@@ -848,7 +848,7 @@
                 "2": "+50% Attack Speed and +15% Omnivamp (healing for a percentage of damage dealt)",
                 "4": "+100% Attack Speed and +30% Omnivamp",
                 "6": "+150% Attack Speed and +45% Omnivamp",
-                "8": "+275% Attack Speed and +85% Omnivamp"
+                "8": "+325% Attack Speed and +85% Omnivamp"
             }
         },
         "isStrictStack": false,
@@ -959,10 +959,10 @@
         "synergy": {
             "description": "After 8 seconds, lightning strikes the battlefield. Enemies are stunned for 1 second and take a percent of their maximum Health as true damage. Then, Tempest champions deal increased damage.",
             "stats": {
-                "2": "5% lightning, 10% unit damage",
-                "4": "15% lightning, 30% unit damage",
-                "6": "25% lightning, 60% unit damage",
-                "8": "35% lightning, 120% unit damage"
+                "2": "10% lightning, 10% unit damage",
+                "4": "20% lightning, 30% unit damage",
+                "6": "30% lightning, 60% unit damage",
+                "8": "45% lightning, 120% unit damage"
             }
         },
         "isStrictStack": false,
@@ -1001,7 +1001,7 @@
             "stats": {
                 "2": "+1 Attack Damage and Ability Power",
                 "4": "+3 Attack Damage and Ability Power",
-                "6": "+6 Attack Damage and Ability Power"
+                "6": "+7 Attack Damage and Ability Power"
             }
         },
         "isStrictStack": false,

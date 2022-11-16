@@ -1190,6 +1190,13 @@
         "tier": "prismatic"
     },
     {
+        "key": "highEndShopping",
+        "name": "High End Shopping",
+        "desc": "Champions appear in your Shop as if you were 1 level higher. Gain 10 gold.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/highEndShopping.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "itemGrabBagII",
         "name": "Item Grab Bag II",
         "desc": "Gain 2 random completed items and 2 Reforgers.",
@@ -1208,6 +1215,13 @@
         "name": "Makeshift Armor III",
         "desc": "Your units with no items gain 65 Armor and Magic Resist.",
         "imageUrl": "../tft-assets/ddragon/set7.5/augments/makeshiftArmorIII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "levelUp",
+        "name": "Level Up!",
+        "desc": "When you buy experience points, gain an additional 3. You can now reach level 10.",
+        "imageUrl": "../tft-assets/ddragon/set7.5/augments/levelUp.png",
         "tier": "prismatic"
     },
     {
