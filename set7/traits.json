@@ -1,0 +1,968 @@
+[
+    {
+        "key": "Assassin",
+        "name": "Assassin",
+        "image": {
+            "default": "../tft-assets/set7/traits/assassin.svg",
+            "white": "../tft-assets/set7/traits/assassinWhite.svg",
+            "black": "../tft-assets/set7/traits/assassinBlack.svg"
+        },
+        "synergy": {
+            "description": "Innate: When combat starts, Assassins leap to the enemy backline.<br><br>Assassins' Abilities can critically strike and they gain bonus Critical Strike Chance and bonus Critical Strike Damage.",
+            "stats": {
+                "2": "+15% Crit Chance and +5% Crit Damage",
+                "4": "+30% Crit Chance and +25% Crit Damage",
+                "6": "+45% Crit Chance and +45% Crit Damage"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Bard",
+        "name": "Bard",
+        "image": {
+            "default": "../tft-assets/set7/traits/bard.svg",
+            "white": "../tft-assets/set7/traits/bardWhite.svg",
+            "black": "../tft-assets/set7/traits/bardBlack.svg"
+        },
+        "synergy": {
+            "description": "",
+            "stats": {
+                "1": "Allies that survive player combat have a 2% chance to create a Doot. Bard always creates a Doot when dancing.<br><br>Each Doot you collect increases your Shop odds for higher-tier champions by 1%."
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "gold",
+                "min": 1
+            }
+        ]
+    },
+    {
+        "key": "Bruiser",
+        "name": "Bruiser",
+        "image": {
+            "default": "../tft-assets/set7/traits/bruiser.svg",
+            "white": "../tft-assets/set7/traits/bruiserWhite.svg",
+            "black": "../tft-assets/set7/traits/bruiserBlack.svg"
+        },
+        "synergy": {
+            "description": "Your team gains bonus maximum Health. Bruisers gain double this bonus.",
+            "stats": {
+                "2": "200 Health",
+                "4": "325 Health",
+                "6": "500 Health",
+                "8": "800 Health"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7
+            },
+            {
+                "style": "chromatic",
+                "min": 8
+            }
+        ]
+    },
+    {
+        "key": "Cannoneer",
+        "name": "Cannoneer",
+        "image": {
+            "default": "../tft-assets/set7/traits/cannoneer.svg",
+            "white": "../tft-assets/set7/traits/cannoneerWhite.svg",
+            "black": "../tft-assets/set7/traits/cannoneerBlack.svg"
+        },
+        "synergy": {
+            "description": "Every 5th attack fires a cannon shot that explodes for physical damage around the target.",
+            "stats": {
+                "2": "125% Attack Damage",
+                "3": "225% Attack Damage",
+                "4": "325% Attack Damage",
+                "5": "425% Attack Damage"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 2
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4
+            },
+            {
+                "style": "chromatic",
+                "min": 5
+            }
+        ]
+    },
+    {
+        "key": "Cavalier",
+        "name": "Cavalier",
+        "image": {
+            "default": "../tft-assets/set7/traits/cavalier.svg",
+            "white": "../tft-assets/set7/traits/cavalierWhite.svg",
+            "black": "../tft-assets/set7/traits/cavalierBlack.svg"
+        },
+        "synergy": {
+            "description": "Innate: Charge quickly towards their target whenever they move.<br><br>Cavaliers gain Armor and Magic Resist. At the start of combat and after each charge, gain double the amount for 4 seconds.",
+            "stats": {
+                "2": "35 Armor, 35 Magic Resist",
+                "3": "55 Armor, 55 Magic Resist",
+                "4": "75 Armor, 75 Magic Resist",
+                "5": "100 Armor, 100 Magic Resist"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 2
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4
+            },
+            {
+                "style": "chromatic",
+                "min": 5
+            }
+        ]
+    },
+    {
+        "key": "Dragonmancer",
+        "name": "Dragonmancer",
+        "image": {
+            "default": "../tft-assets/set7/traits/dragonmancer.svg",
+            "white": "../tft-assets/set7/traits/dragonmancerWhite.svg",
+            "black": "../tft-assets/set7/traits/dragonmancerBlack.svg"
+        },
+        "synergy": {
+            "description": "Use the Dragonmancer Blessing item to choose a Hero. The Hero gains massively increased Health and Ability Power, which increases by 20% per star level of your Dragonmancers.",
+            "stats": {
+                "3": "+300 Health, +18 Ability Power",
+                "6": "+750 Health, +40 Ability Power",
+                "9": "+1400 Health, +70 Ability Power"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 8
+            },
+            {
+                "style": "chromatic",
+                "min": 9
+            }
+        ]
+    },
+    {
+        "key": "Dragons",
+        "name": "Dragon",
+        "image": {
+            "default": "../tft-assets/set7/traits/dragon.svg",
+            "white": "../tft-assets/set7/traits/dragonWhite.svg",
+            "black": "../tft-assets/set7/traits/dragonBlack.svg"
+        },
+        "synergy": {
+            "description": "",
+            "stats": {
+                "1": "Dragons provide +3 to the marked trait, but require 2 team slots. They also gain 700 bonus Health.<br><br>This trait is active with exactly 1 Dragon champion."
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "gold",
+                "min": 1,
+                "max": 1
+            },
+            {
+                "style": "chromatic",
+                "min": 2
+            }
+        ]
+    },
+    {
+        "key": "Evoker",
+        "name": "Evoker",
+        "image": {
+            "default": "../tft-assets/set7/traits/evoker.svg",
+            "white": "../tft-assets/set7/traits/evokerWhite.svg",
+            "black": "../tft-assets/set7/traits/evokerBlack.svg"
+        },
+        "synergy": {
+            "description": "Evokers gain Mana whenever an ally or enemy casts an Ability.",
+            "stats": {
+                "2": "3 Mana",
+                "4": "7 Mana",
+                "6": "12 Mana"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Guardian",
+        "name": "Guardian",
+        "image": {
+            "default": "../tft-assets/set7/traits/guardian.svg",
+            "white": "../tft-assets/set7/traits/guardianWhite.svg",
+            "black": "../tft-assets/set7/traits/guardianBlack.svg"
+        },
+        "synergy": {
+            "description": "Once per combat at 50% Health, Guardians shield themselves and their closest ally for a percent of their maximum Health. Shields stack!",
+            "stats": {
+                "2": "30% of max health shield",
+                "4": "50% of max health shield",
+                "6": "75% of max health shield"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Legend",
+        "name": "Legend",
+        "image": {
+            "default": "../tft-assets/set7/traits/legend.svg",
+            "white": "../tft-assets/set7/traits/legendWhite.svg",
+            "black": "../tft-assets/set7/traits/legendBlack.svg"
+        },
+        "synergy": {
+            "description": "",
+            "stats": {
+                "3": "Each combat: An adjacent ally sacrifices their life to the Legend, which gains 100% of their Health, Armor, and Magic Resistance, plus 30% of their Ability Power."
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "gold",
+                "min": 3
+            }
+        ]
+    },
+    {
+        "key": "Mage",
+        "name": "Mage",
+        "image": {
+            "default": "../tft-assets/set7/traits/mage.svg",
+            "white": "../tft-assets/set7/traits/mageWhite.svg",
+            "black": "../tft-assets/set7/traits/mageBlack.svg"
+        },
+        "synergy": {
+            "description": "Mages cast twice and have modified total Ability Power.",
+            "stats": {
+                "3": "75% Ability Power",
+                "5": "100% Ability Power",
+                "7": "125% Ability Power",
+                "9": "150% Ability Power"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 3,
+                "max": 4
+            },
+            {
+                "style": "silver",
+                "min": 5,
+                "max": 6
+            },
+            {
+                "style": "gold",
+                "min": 7,
+                "max": 8
+            },
+            {
+                "style": "chromatic",
+                "min": 9
+            }
+        ]
+    },
+    {
+        "key": "Mystic",
+        "name": "Mystic",
+        "image": {
+            "default": "../tft-assets/set7/traits/mystic.svg",
+            "white": "../tft-assets/set7/traits/mysticWhite.svg",
+            "black": "../tft-assets/set7/traits/mysticBlack.svg"
+        },
+        "synergy": {
+            "description": "Your team gains Magic Resist.",
+            "stats": {
+                "2": "50 Magic Resist",
+                "3": "100 Magic Resist",
+                "4": "175 Magic Resist",
+                "5": "300 Magic Resist"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 2
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4
+            },
+            {
+                "style": "chromatic",
+                "min": 5
+            }
+        ]
+    },
+    {
+        "key": "Shapeshifter",
+        "name": "Shapeshifter",
+        "image": {
+            "default": "../tft-assets/set7/traits/shapeshifter.svg",
+            "white": "../tft-assets/set7/traits/shapeshifterWhite.svg",
+            "black": "../tft-assets/set7/traits/shapeshifterBlack.svg"
+        },
+        "synergy": {
+            "description": "Transforming grants bonus maximum Health.",
+            "stats": {
+                "2": "40% bonus Health",
+                "4": "90% bonus Health",
+                "6": "145% bonus Health"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "SpellThief",
+        "name": "Spell Thief",
+        "image": {
+            "default": "../tft-assets/set7/traits/spellThief.svg",
+            "white": "../tft-assets/set7/traits/spellThiefWhite.svg",
+            "black": "../tft-assets/set7/traits/spellThiefBlack.png"
+        },
+        "synergy": {
+            "description": "",
+            "stats": {
+                "1": "Nab a new Ability after each cast and at the start of every round."
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "gold",
+                "min": 1
+            }
+        ]
+    },
+    {
+        "key": "Starcaller",
+        "name": "Starcaller",
+        "image": {
+            "default": "../tft-assets/set7/traits/starcaller.svg",
+            "white": "../tft-assets/set7/traits/starcallerWhite.svg",
+            "black": "../tft-assets/set7/traits/starcallerBlack.svg"
+        },
+        "synergy": {
+            "description": "",
+            "stats": {
+                "1": "The first Starcaller to cast their Ability during player combat heals you for (2/3/75), depending on their star level. Excess healing disintegrates an enemy champion."
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "gold",
+                "min": 1
+            }
+        ]
+    },
+    {
+        "key": "Swiftshot",
+        "name": "Swiftshot",
+        "image": {
+            "default": "../tft-assets/set7/traits/swiftshot.svg",
+            "white": "../tft-assets/set7/traits/swiftshotWhite.svg",
+            "black": "../tft-assets/set7/traits/swiftshotBlack.svg"
+        },
+        "synergy": {
+            "description": "Innate: gain 2 hex Attack Range.<br><br>Swhiftshots gain Attack Speed for each hex between themselves and their target.",
+            "stats": {
+                "2": "10% Attack Speed",
+                "4": "20% Attack Speed",
+                "6": "40% Attack Speed"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Warrior",
+        "name": "Warrior",
+        "image": {
+            "default": "../tft-assets/set7/traits/warrior.svg",
+            "white": "../tft-assets/set7/traits/warriorWhite.svg",
+            "black": "../tft-assets/set7/traits/warriorBlack.svg"
+        },
+        "synergy": {
+            "description": "Warrior attacks have a 50% chance to increase the damage of their next attack.",
+            "stats": {
+                "2": "+80% damage",
+                "4": "+175% damage",
+                "6": "+325% damage"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Astral",
+        "name": "Astral",
+        "image": {
+            "default": "../tft-assets/set7/traits/astral.svg",
+            "white": "../tft-assets/set7/traits/astralWhite.svg",
+            "black": "../tft-assets/set7/traits/astralBlack.png"
+        },
+        "synergy": {
+            "description": "Every 5th Shop has increased odds to show Astral champions, and also grants an Astral orb.<br>Your team gains bonus Ability Power.",
+            "stats": {
+                "3": "10 Ability Power",
+                "6": "40 Ability Power; orb value increases",
+                "9": "80 Ability Power; orbs may contain components"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 8
+            },
+            {
+                "style": "chromatic",
+                "min": 9
+            }
+        ]
+    },
+    {
+        "key": "Guild",
+        "name": "Guild",
+        "image": {
+            "default": "../tft-assets/set7/traits/guild.svg",
+            "white": "../tft-assets/set7/traits/guildWhite.svg",
+            "black": "../tft-assets/set7/traits/guildBlack.png"
+        },
+        "synergy": {
+            "description": "Grant a unique bonus to your team; Guild members gain double the amount. Increases for each Guild member in play!<br><br>Sejuani: +100 Health<br><br>Twitch: +10% Attack Speed<br><br>Ryze: +10 Ability Power<br><br>Talon: +8 Attack Damage<br><br>Bard: +2 Mana per attack<br><br>Emblem: +3% Omnivamp (healing for a percentage of damage dealt)",
+            "stats": {
+                "1": "100% Guild bonus",
+                "2": "120% Guild bonus",
+                "3": "140% Guild bonus",
+                "4": "160% Guild bonus",
+                "5": "180% Guild bonus",
+                "6": "200% Guild bonus",
+                "7": "250% Guild bonus"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 1,
+                "max": 2
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 4
+            },
+            {
+                "style": "gold",
+                "min": 5,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Jade",
+        "name": "Jade",
+        "image": {
+            "default": "../tft-assets/set7/traits/jade.svg",
+            "white": "../tft-assets/set7/traits/jadeWhite.svg",
+            "black": "../tft-assets/set7/traits/jadeBlack.svg"
+        },
+        "synergy": {
+            "description": "Summon movable Jade Statues that grow in power.<br><br>Each combat, allies who start combat adjacent to a statue gain maximum Health healing every 2 seconds and bonus Attack Speed. When a statue is destroyed, it deals 33% of its Health as magic damage to nearby enemies.",
+            "stats": {
+                "3": "1 statue, +2% healing, +15% Attack Speed",
+                "6": "2 statues, +4% healing, +40% Attack Speed",
+                "9": "3 statues, +8% healing, +70% Attack Speed",
+                "12": "4 statues, +25% healing, +200% Attack Speed"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "style": "silver",
+                "min": 6,
+                "max": 8
+            },
+            {
+                "style": "gold",
+                "min": 9,
+                "max": 11
+            },
+            {
+                "style": "chromatic",
+                "min": 12
+            }
+        ]
+    },
+    {
+        "key": "Mirage",
+        "name": "Mirage",
+        "image": {
+            "default": "../tft-assets/set7/traits/mirage.svg",
+            "white": "../tft-assets/set7/traits/mirageWhite.svg",
+            "black": "../tft-assets/set7/traits/mirageBlack.svg"
+        },
+        "synergy": {
+            "description": "Mirage champions (2/4/6/8) gain a different Trait bonus from game to game.<br><br>Electric Overload: When attacking or being hit by an attack, gain a chance to deal 8% of their maximum Health as magic damage to adjacent enemies.<br>\r\n(2) 20% chance<br>\r\n(4) 25% chance<br>\r\n(6) 33% chance<br>\r\n(8) 50% chance<br>\r\n-----------------------------------------\r\n<br>\r\nWarlord's Honor: After winning any combat, gain bonus Health and Ability Power.<br> Increases by 10% per win, stacks up to 5 times!<br>\r\n(2) 200 Health and 20 Ability Power<br>\r\n(4) 350 Health and 35 Ability Power<br>\r\n(6) 500 Health and 50 Ability Power<br>\r\n(8) 700 Health and 70 Ability Power<br>\r\n-----------------------------------------\r\n<br>Pirate's Greed: Gain a chest of loot after each player combat.<br>\r\n(2) Gain a deckhand's chest.<br>\r\n(4) Gain a lieutenant's chest.<br>\r\n(6) Gain a captain's chest.<br>\r\n(8) Gain a admiral's chest.<br>\r\n-----------------------------------------\r\n<br>Dawnbringer's Determination: Once per combat, rapidly heal at 50% Health<br>(2) Heal 40% maximum Health<br>\r\n(4) Heal 65% maximum Health<br>\r\n(6) Heal 65% maximum Health; heal a 2nd time<br>\r\n(8) Heal 110% maximum Health; heal a 2nd time<br>\r\n-----------------------------------------\r\n<br>Executioner's Edge: Always critically strike low Heath targets with Attacks and Abilities. Gain bonus Critial Strike Damage.<br>\r\n(2) at 50% Health, +20% Crit Damage<br>\r\n(4) at 65% Health, +30% Crit Damage<br>\r\n(6) at 80% Health, +40% Crit Damage<br>\r\n(8) at 100% Health, +50% Crit Damage<br>\r\n-----------------------------------------\r\n<br>Spellsword's Enchantment: Each player combat, gain Ability Power per attack.<br>\r\n(2) 6 Ability Power<br>\r\n(4) 10 Ability Power<br>\r\n(6) 14 Ability Power<br>\r\n(8) 18 Ability Power<br>\r\n-----------------------------------------\r\n<br>Duelist's Dexterity: Innate: Mirage units move faster.<br>Attacks grant bonus Attack Speed, up to 10 stacks.<br>\r\n(2) 6% Attack Speed per stack<br>\r\n(4) 12% Attack Speed per stack<br>\r\n(6) 20% Attack Speed per stack<br>\r\n(8) 30% Attack Speed per stack",
+            "stats": {
+                "2": "??? (Randomly selected per game)",
+                "4": "??? (Randomly selected per game)",
+                "6": "??? (Randomly selected per game)",
+                "8": "??? (Randomly selected per game)"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7
+            },
+            {
+                "style": "chromatic",
+                "min": 8
+            }
+        ]
+    },
+    {
+        "key": "Ragewing",
+        "name": "Ragewing",
+        "image": {
+            "default": "../tft-assets/set7/traits/ragewing.svg",
+            "white": "../tft-assets/set7/traits/ragewingWhite.svg",
+            "black": "../tft-assets/set7/traits/ragewingBlack.svg"
+        },
+        "synergy": {
+            "description": "Innate: Convert Mana to Rage; attacks generate 15 Rage. After casting an Ability, enrage for 4 seconds: +25% Attack Speed but can't gain Rage.<br><br>Gain bonus stats when enraged:",
+            "stats": {
+                "3": "+50% Attack Speed and +25% Omnnivamp",
+                "6": "+135% Attack Speed and +50% Omnnivamp",
+                "9": "+250% Attack Speed and +75% Omnnivamp"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "style": "silver",
+                "min": 6,
+                "max": 8
+            },
+            {
+                "style": "gold",
+                "min": 9
+            }
+        ]
+    },
+    {
+        "key": "Revel",
+        "name": "Revel",
+        "image": {
+            "default": "../tft-assets/set7/traits/revel.svg",
+            "white": "../tft-assets/set7/traits/revelWhite.svg",
+            "black": "../tft-assets/set7/traits/revelBlack.svg"
+        },
+        "synergy": {
+            "description": "After dealing damage with an Ability, launch a firecracker that deals magic damage to a random enemy.",
+            "stats": {
+                "2": "110 magic damage",
+                "3": "150 magic damage",
+                "4": "210 magic damage",
+                "5": "290 magic damage"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 2
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4
+            },
+            {
+                "style": "chromatic",
+                "min": 5
+            }
+        ]
+    },
+    {
+        "key": "Scalescorn",
+        "name": "Scalescorn",
+        "image": {
+            "default": "../tft-assets/set7/traits/scalescorn.svg",
+            "white": "../tft-assets/set7/traits/scalescornWhite.svg",
+            "black": "../tft-assets/set7/traits/scalescornBlack.svg"
+        },
+        "synergy": {
+            "description": "If you don't have a Dragon on your team, Scalescorn champions deal bonus magic damage and take 20% reduced damage from enemies with more than 2200 Health.",
+            "stats": {
+                "2": "15% magic damage",
+                "4": "50% magic damage",
+                "6": "115% magic damage"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
+            }
+        ]
+    },
+    {
+        "key": "Shimmerscale",
+        "name": "Shimmerscale",
+        "image": {
+            "default": "../tft-assets/set7/traits/shimmerscale.svg",
+            "white": "../tft-assets/set7/traits/shimmerscaleWhite.svg",
+            "black": "../tft-assets/set7/traits/shimmerscaleBlack.svg"
+        },
+        "synergy": {
+            "description": "Grant exclusive random Shimmerscale items.",
+            "stats": {
+                "3": "1 unique item",
+                "5": "2 unique items",
+                "7": "4 unique items",
+                "9": "5 unique items, which includes Crown of Champions"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 3,
+                "max": 4
+            },
+            {
+                "style": "silver",
+                "min": 5,
+                "max": 6
+            },
+            {
+                "style": "gold",
+                "min": 7,
+                "max": 8
+            },
+            {
+                "style": "chromatic",
+                "min": 9
+            }
+        ]
+    },
+    {
+        "key": "Tempest",
+        "name": "Tempest",
+        "image": {
+            "default": "../tft-assets/set7/traits/tempest.svg",
+            "white": "../tft-assets/set7/traits/tempestWhite.svg",
+            "black": "../tft-assets/set7/traits/tempestBlack.svg"
+        },
+        "synergy": {
+            "description": "After 8 seconds, lightning strikes that battlefield. Enemies are stunned for 1 second(s) and take a percent of their maximum Health as true damage. Tempest champions gaian Attack Speed.",
+            "stats": {
+                "2": "5% damage, 20% Attack Speed",
+                "4": "20% damage, 50% Attack Speed",
+                "6": "35% damage, 120% Attack Speed",
+                "8": "50% damage, 250% Attack Speed"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7
+            },
+            {
+                "style": "chromatic",
+                "min": 8
+            }
+        ]
+    },
+    {
+        "key": "Trainer",
+        "name": "Trainer",
+        "image": {
+            "default": "../tft-assets/set7/traits/trainer.svg",
+            "white": "../tft-assets/set7/traits/trainerWhite.svg",
+            "black": "../tft-assets/set7/traits/trainerBlack.svg"
+        },
+        "synergy": {
+            "description": "Every round, each Trainer feeds 1 Snax per star level to Nomsy, adding Health and Ability Power. Nomsy's star level increases every 25 Snax!",
+            "stats": {
+                "2": "Summon Nomsy!",
+                "3": "Nomsy's Ability deals 200% more damage"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 2
+            },
+            {
+                "style": "gold",
+                "min": 3
+            }
+        ]
+    },
+    {
+        "key": "Whispers",
+        "name": "Whispers",
+        "image": {
+            "default": "../tft-assets/set7/traits/whispers.svg",
+            "white": "../tft-assets/set7/traits/whispersWhite.svg",
+            "black": "../tft-assets/set7/traits/whispersBlack.svg"
+        },
+        "synergy": {
+            "description": "Whispers damage shrinks enemies, reducing their Armor and Magic Resist by 40% for 6 seconds.<br><br>When they damage a shrunken enemy, Whispers gain stacking bonuses:",
+            "stats": {
+                "2": "+1 Attack Damage and Ability Power",
+                "4": "+3 Attack Damage and Ability Power",
+                "6": "+5 Attack Damage and Ability Power",
+                "8": "+8 Attack Damage and Ability Power"
+            }
+        },
+        "isStrictStack": false,
+        "styles": [
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7
+            },
+            {
+                "style": "chromatic",
+                "min": 8
+            }
+        ]
+    }
+]
