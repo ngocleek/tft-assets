@@ -1,0 +1,2042 @@
+[
+    {
+        "key": "aoshin",
+        "name": "Ao Shin",
+        "cost": 8,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aoShin.png",
+        "origins": [
+            "Tempest"
+        ],
+        "classes": [
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 35,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.8,
+            "dps": 48,
+            "health": 800,
+            "magical_resistance": 35,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Lightning Rain",
+            "type": "Active",
+            "desc": "Ao Shin fires a barrage of 20 lightning strikes at random enemies. Each strike deals magic damage and drains 10 Mana from his target.",
+            "stats": [
+                "Damage: 185 / 275 / 2000"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aoShin.png"
+        }
+    },
+    {
+        "key": "aphelios",
+        "name": "Aphelios",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aphelios.jpg",
+        "origins": [
+            "Darkflight"
+        ],
+        "classes": [
+            "Cannoneer"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 42,
+            "health": 500,
+            "magical_resistance": 20,
+            "starting_mana": 80
+        },
+        "skill": {
+            "name": "Binding Eclipse",
+            "type": "Active",
+            "desc": "Aphelios uses his infernumcannon to blast bolts in a cone towards his target, each dealing physical damage to the first enemy hit. Subsequent hits against the same enemy deal 80% less damage. Then he uses his Gravitum cannon to stun all enemies hit.",
+            "stats": [
+                "Stun Duration: 1.25 / 1.5 / 1.75",
+                "Secondary Bolts: 5 / 5 / 7"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aphelios.png"
+        }
+    },
+    {
+        "key": "aurelionsol",
+        "name": "Aurelion Sol",
+        "cost": 8,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aurelionSol.png",
+        "origins": [
+            "Astral"
+        ],
+        "classes": [
+            "Dragons",
+            "Evoker"
+        ],
+        "stats": {
+            "armor": 35,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 45,
+            "health": 800,
+            "magical_resistance": 35,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Black Hole",
+            "type": "Active",
+            "desc": "Aurelion Sol summons an unstable black hole underneath a random enemy. After 2 seconds it implodes, dealing magic damage to all enemies in the area and increasing their damage taken by 20% for 10 seconds.<br><br>Black holes generated after 18 seconds of combat are larger and deal 20% more damage.",
+            "stats": [
+                "Magic Damage: 325 / 550 / 4000"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aurelionSol.png"
+        }
+    },
+    {
+        "key": "bard",
+        "name": "Bard",
+        "cost": 5,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/bard.png",
+        "origins": [
+            "Guild"
+        ],
+        "classes": [
+            "Mystic",
+            "Bard"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 42,
+            "health": 850,
+            "magical_resistance": 40,
+            "starting_mana": 160
+        },
+        "skill": {
+            "name": "Tempered Fate",
+            "type": "Active",
+            "desc": "Bard sends magical energy toward the largest group of enemies, stunning them for a few seconds and causing them to take increased damage while stunned. If he hits at least 1 enemy, Bard dances in celebration.",
+            "stats": [
+                "Stasis Duration: 1.25 / 2 / 15",
+                "Increased Damage: 15% / 20% / 9999%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/bard.png"
+        }
+    },
+    {
+        "key": "braum",
+        "name": "Braum",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/braum.png",
+        "origins": [
+            "Scalescorn"
+        ],
+        "classes": [
+            "Guardian"
+        ],
+        "stats": {
+            "armor": 60,
+            "attack_damage": 85,
+            "attack_range_slot": 1,
+            "attack_speed": 0.6,
+            "dps": 51,
+            "health": 800,
+            "magical_resistance": 60,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Unbreakable",
+            "type": "Active",
+            "desc": "Braum raises his shield for 4 seconds, reducing his damage taken from that direction.",
+            "stats": [
+                "Damage Reduction: 70% / 75% / 85%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/braum.png"
+        }
+    },
+    {
+        "key": "daeja",
+        "name": "Daeja",
+        "cost": 7,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/daeja.png",
+        "origins": [
+            "Mirage"
+        ],
+        "classes": [
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 20,
+            "attack_range_slot": 4,
+            "attack_speed": 0.6,
+            "dps": 12,
+            "health": 800,
+            "magical_resistance": 40,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Windblast",
+            "type": "Active",
+            "desc": "Passive: Daeja's attacks launch three barrages that each deal bonus magic damage and reduce the target's Magic Resist by 5.<br><br>Active: Daeja sends a wind blast toward the largest group of enemies, dealing magic damage.",
+            "stats": [
+                "Passive Damage: 25 / 40 / 150",
+                "Windblast Damage: 250 / 335 / 1350"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/daeja.png"
+        }
+    },
+    {
+        "key": "diana",
+        "name": "Diana",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/diana.png",
+        "origins": [
+            "Scalescorn"
+        ],
+        "classes": [
+            "Assassin"
+        ],
+        "stats": {
+            "armor": 35,
+            "attack_damage": 55,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 41,
+            "health": 700,
+            "magical_resistance": 35,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Pale Cascade",
+            "type": "Active",
+            "desc": "Diana shields herself for 6 seconds and summons number of orbs around her. These orbs burst magic damage when they hit an enemy. When the final orb bursts, her shield refreshes.",
+            "stats": [
+                "Orbs: 5 / 6 / 7",
+                "Damage: 90 / 105 / 120",
+                "Shield Amount: 300 / 350 / 400"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/diana.png"
+        }
+    },
+    {
+        "key": "ezreal",
+        "name": "Ezreal",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/ezreal.png",
+        "origins": [
+            "Tempest"
+        ],
+        "classes": [
+            "Swiftshot"
+        ],
+        "stats": {
+            "armor": 15,
+            "attack_damage": 35,
+            "attack_range_slot": 3,
+            "attack_speed": 0.7,
+            "dps": 25,
+            "health": 500,
+            "magical_resistance": 15,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Mystic Shot",
+            "type": "Active",
+            "desc": "Ezreal fires an energy bolt towards his target. The first enemy hit takes magic damage and grants Ezreal 10% bonus Attack Speed, stacking up to 5 times.",
+            "stats": [
+                "Damage: 200 / 275 / 415"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/ezreal.png"
+        }
+    },
+    {
+        "key": "gnar",
+        "name": "Gnar",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/gnar.png",
+        "origins": [
+            "Jade"
+        ],
+        "classes": [
+            "Shapeshifter"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 50,
+            "attack_range_slot": 2,
+            "attack_speed": 0.7,
+            "dps": 35,
+            "health": 750,
+            "magical_resistance": 40,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Mega Gnar",
+            "type": "Active",
+            "desc": "Gnar tarnsforms into Mega Form, jumping to his target and knocking up nearby enemies for 1 second. Gnar also gains Attack Damage and Armor, but reduces his Attack Range to 1.",
+            "stats": [
+                "Attack Damage: 60 / 90 / 150",
+                "Armor: 40 / 60 / 90"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/gnar.png"
+        }
+    },
+    {
+        "key": "graves",
+        "name": "Graves",
+        "cost": 4,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/graves.jpg",
+        "origins": [
+            "Tempest"
+        ],
+        "classes": [
+            "Cannoneer"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 65,
+            "attack_range_slot": 3,
+            "attack_speed": 0.65,
+            "dps": 42,
+            "health": 800,
+            "magical_resistance": 30,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Quickdraw",
+            "type": "Active",
+            "desc": "Passive: Graves' attacks spread in a cone of 4 bullets in front of him, each striking the first enemy hit for 100% of his Attack Damage.\r\n\r\nActive: Graves dashes towards his target, quickly fires two attacks, and grants himself Armor and Magic Resist for 4 seconds.",
+            "stats": [
+                "Armor and Magic Resist: 30 / 40 / 80"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/graves.png"
+        }
+    },
+    {
+        "key": "hecarim",
+        "name": "Hecarim",
+        "cost": 4,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/hecarim.png",
+        "origins": [
+            "Ragewing"
+        ],
+        "classes": [
+            "Cavalier"
+        ],
+        "stats": {
+            "armor": 60,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 45,
+            "health": 1000,
+            "magical_resistance": 60,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Onslaught of Shadows",
+            "type": "Active",
+            "desc": "Hecarim summons spectral riders that charge through his target, dealing magic damage and stunning enemies hit.",
+            "stats": [
+                "Damage: 200 / 300 / 1500",
+                "Stun Duration: 1.5 / 2 / 8"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/hecarim.png"
+        }
+    },
+    {
+        "key": "heimerdinger",
+        "name": "Heimerdinger",
+        "cost": 0,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/heimerdinger.png",
+        "origins": [],
+        "classes": [],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 50,
+            "attack_range_slot": 4,
+            "attack_speed": 0.65,
+            "dps": 33,
+            "health": 600,
+            "magical_resistance": 25,
+            "starting_mana": 50
+        },
+        "skill": {
+            "name": "Egg Toss",
+            "type": "Active",
+            "desc": "Heimerdinger lobs an egg at the highest Health enemy, dealing magic damage and stunning them for 0.5 second.",
+            "stats": [
+                "Magic Damage: 225 / 325 / 475"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/heimerdinger.png"
+        }
+    },
+    {
+        "key": "idas",
+        "name": "Idas",
+        "cost": 7,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/idas.png",
+        "origins": [
+            "Shimmerscale"
+        ],
+        "classes": [
+            "Guardian",
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 60,
+            "attack_damage": 90,
+            "attack_range_slot": 1,
+            "attack_speed": 0.55,
+            "dps": 50,
+            "health": 950,
+            "magical_resistance": 60,
+            "starting_mana": 80
+        },
+        "skill": {
+            "name": "Golden Scales",
+            "type": "Active",
+            "desc": "Idas hardens her scales for 2 seconds, reducing incoming damage. She then roars, healing herself and shielding other allies for 5 seconds. The shield grants 30% attack speed while it holds.",
+            "stats": [
+                "Damage Reduction: 30 / 50 / 300",
+                "Heal: 450 / 600 / 3000",
+                "Shield Amount: 150 / 250 / 1200"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/idas.png"
+        }
+    },
+    {
+        "key": "jax",
+        "name": "Jax",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/jax.jpg",
+        "origins": [
+            "Jade",
+            "Shimmerscale"
+        ],
+        "classes": [
+            "Bruiser"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 55,
+            "attack_range_slot": 1,
+            "attack_speed": 0.7,
+            "dps": 39,
+            "health": 750,
+            "magical_resistance": 45,
+            "starting_mana": 70
+        },
+        "skill": {
+            "name": "Counter Strike",
+            "type": "Active",
+            "desc": "Jax enters a defensive stance for 2 seconds, dodgings all incoming attacks. When the stance ends, he strikes all nearby enemies, dealing magic damage and stunning them.",
+            "stats": [
+                "Damage: 225 / 350 / 750",
+                "Stun Duration: 1 / 1.25 / 1.5"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/jax.png"
+        }
+    },
+    {
+        "key": "jayce",
+        "name": "Jayce",
+        "cost": 4,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/jayce.jpg",
+        "origins": [
+            "Guild"
+        ],
+        "classes": [
+            "Shapeshifter"
+        ],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 90,
+            "attack_range_slot": 3,
+            "attack_speed": 0.8,
+            "dps": 72,
+            "health": 900,
+            "magical_resistance": 25,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Mercurial Justice",
+            "type": "Active",
+            "desc": "Jayce transforms into his melee form, then slams the ground around his target, dealing magic damage and  gains bonus 40 Armor and Magic Resist for the rest of combat.\r\n\r\nMercury Judgement: Jayce calls lightning upon his target, smiting them for Magic damage and dealing an additional magic damage to other enemies in the area. He then heals for health and additional 20% per enemy struck.",
+            "stats": [
+                "Transform Magic Damage: 300 / 400 / 1500",
+                "Bonus Armor & Magic Resist: 40",
+                "Smite Magic Damage: 400 / 550 / 2000",
+                "Secondary Magic Damage: 225 / 275 / 1200",
+                "Heal Amount: 100 / 150 / 500"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/jayce.png"
+        }
+    },
+    {
+        "key": "kaisa",
+        "name": "Kai'sa",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/kaiSa.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Dragonmancer"
+        ],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 35,
+            "attack_range_slot": 4,
+            "attack_speed": 0.8,
+            "dps": 28,
+            "health": 550,
+            "magical_resistance": 25,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Tidal Burst",
+            "type": "Active",
+            "desc": "Kai'sa fires missiles split between her target and nearby enemies that each deal magic damage.This increases by 2 missiles each cast, up to Maximum missiles. When at maximum missiles, each missiles deals 10% more damage.",
+            "stats": [
+                "Magic Damage: 35 / 55 / 85"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/kaiSa.png"
+        }
+    },
+    {
+        "key": "karma",
+        "name": "Karma",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/karma.png",
+        "origins": [
+            "Jade"
+        ],
+        "classes": [
+            "Dragonmancer"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 40,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 28,
+            "health": 500,
+            "magical_resistance": 20,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Inner Flame",
+            "type": "Active",
+            "desc": "Karma fires a burst of energy towards her target, dealing magic damage in a small area around the first enemy hit.",
+            "stats": [
+                "Magic Damage: 200 / 265 / 380"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/karma.png"
+        }
+    },
+    {
+        "key": "leesin",
+        "name": "Lee Sin",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/leeSin.png",
+        "origins": [
+            "Tempest"
+        ],
+        "classes": [
+            "Dragonmancer"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 55,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 41,
+            "health": 800,
+            "magical_resistance": 50,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Dragon's Rage",
+            "type": "Active",
+            "desc": "Lee Sin kicks his target, stunning them for 1.25 seconds and knocking them back. The target and all enemies they hit take magic damage.",
+            "stats": [
+                "Damage: 215 / 285 / 385"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/leeSin.png"
+        }
+    },
+    {
+        "key": "leona",
+        "name": "Leona",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/leona.png",
+        "origins": [
+            "Mirage"
+        ],
+        "classes": [
+            "Guardian"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 75,
+            "attack_range_slot": 1,
+            "attack_speed": 0.55,
+            "dps": 41,
+            "health": 650,
+            "magical_resistance": 45,
+            "starting_mana": 40
+        },
+        "skill": {
+            "name": "Solar Barrier",
+            "type": "Active",
+            "desc": "Leona creates a barrier around herself, reducing all incoming damage for 4 seconds.",
+            "stats": [
+                "Damage Reduction: 35 / 45 / 70"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/leona.png"
+        }
+    },
+    {
+        "key": "lillia",
+        "name": "Lillia",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/lillia.png",
+        "origins": [
+            "Scalescorn"
+        ],
+        "classes": [
+            "Cavalier",
+            "Mage"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 50,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 38,
+            "health": 750,
+            "magical_resistance": 50,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Watch Out!",
+            "type": "Active",
+            "desc": "Lillia strikes a small area around her target's current location, dealing magic damage spread amongst all enemies hit and bonus magic damage to the enemy at the center of the blast.",
+            "stats": [
+                "Magic Damage: 215 / 275 / 370",
+                "Bonus Magic Damage: 190 / 240 / 340"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/lillia.png"
+        }
+    },
+    {
+        "key": "lulu",
+        "name": "Lulu",
+        "cost": 0,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/lulu.png",
+        "origins": [],
+        "classes": [],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 50,
+            "attack_range_slot": 4,
+            "attack_speed": 0.65,
+            "dps": 33,
+            "health": 600,
+            "magical_resistance": 25,
+            "starting_mana": 50
+        },
+        "skill": {
+            "name": "Whimsy",
+            "type": "Active",
+            "desc": "Lulu enchants the nearest units. Enchanted allies gain Attack Speed for 5 seconds. Enchanted enemies are stunned and transformed into harmless dragonlings for 1 seconds. If there are fewer units nearby, Lulu will enchant herself.",
+            "stats": [
+                "Number of Targets: 3 / 3 / 3",
+                "Attack Speed %: 40% / 50% / 70%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/lulu.png"
+        }
+    },
+    {
+        "key": "lux",
+        "name": "Lux",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/lux.jpg",
+        "origins": [
+            "Astral"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 30,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 21,
+            "health": 600,
+            "magical_resistance": 20,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Cosmic Spark",
+            "type": "Active",
+            "desc": "Lux fires a star towards the farthest enemy, dealing magic damage to the first enemy struck, and to subsequent enemies.",
+            "stats": [
+                "Damage: 325 / 410 / 525",
+                "Damage: 175 / 210 / 240"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/lux.png"
+        }
+    },
+    {
+        "key": "malphite",
+        "name": "Malphite",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/malphite.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Bruiser"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 80,
+            "attack_range_slot": 1,
+            "attack_speed": 0.6,
+            "dps": 48,
+            "health": 700,
+            "magical_resistance": 40,
+            "starting_mana": 90
+        },
+        "skill": {
+            "name": "Coral Shield",
+            "type": "Active",
+            "desc": "Malphite shields himself for 5 seconds.",
+            "stats": [
+                "Base Shield Amount: 200 / 250 / 325"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/malphite.png"
+        }
+    },
+    {
+        "key": "nasus",
+        "name": "Nasus",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nasus.jpg",
+        "origins": [
+            "Shimmerscale"
+        ],
+        "classes": [
+            "Guardian"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.55,
+            "dps": 33,
+            "health": 600,
+            "magical_resistance": 40,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Fury of the Dawn",
+            "type": "Active",
+            "desc": "Nasus surrounds him self in light for 6 seconds, gaining maximum health and dealing magic damage to adjacent enemies every second.",
+            "stats": [
+                "Bonus Health: 225 / 350 / 650",
+                "Damage Per Second: 70 / 100 / 205"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nasus.png"
+        }
+    },
+    {
+        "key": "nidalee",
+        "name": "Nidalee",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nidalee.png",
+        "origins": [
+            "Astral"
+        ],
+        "classes": [
+            "Shapeshifter"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 42,
+            "health": 600,
+            "magical_resistance": 30,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Primal Surge",
+            "type": "Active",
+            "desc": "Nidalee transforms into Cougar Form for the rest of combat, reducing her Attack Range to 1 and gaining bonus movement speed and Attack Speed. While in cougar form, every 3rd attack swipes her target physical damage.",
+            "stats": [
+                "Attack Speed: 40% / 45% / 50%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nidalee.png"
+        }
+    },
+    {
+        "key": "nilah",
+        "name": "Nilah",
+        "cost": 4,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nilah.png",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Assassin"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 70,
+            "attack_range_slot": 2,
+            "attack_speed": 0.75,
+            "dps": 53,
+            "health": 800,
+            "magical_resistance": 45,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Apotheosis",
+            "type": "Active",
+            "desc": "Nilah cracks her whip-blade at her target, dashing through them and dealing magic damage. If this does damage to a shield, she steals % of the damage she deals to it for 4 seconds. If her target is shielded or killed, she instantly recasts.",
+            "stats": [
+                "Damage: 130 / 200 / 700",
+                "Shield Steal: 80% / 100% / 300%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nilah.png"
+        }
+    },
+    {
+        "key": "nomsycannoneerforbuilder",
+        "name": "Nomsy (Cannoneer)",
+        "cost": 6,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyCannoneer.jpg",
+        "origins": [
+            "Prodigy"
+        ],
+        "classes": [
+            "Dragons",
+            "Cannoneer"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 45,
+            "health": 650,
+            "magical_resistance": 30,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Fireballs!",
+            "type": "Active",
+            "desc": "Nomsy bellows, lobbing a massive fireball towards her current target that explodes on impact, dealing magic damage to enemies within 1 hex, and bouncing additional fireballs outward that deal % of the damage.",
+            "stats": [
+                "Magic Damage: 190 / 270 / 420",
+                "Percentage Damage: 30% / 35% / 40%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyCannoneer.png"
+        }
+    },
+    {
+        "key": "nomsyevokerforbuilder",
+        "name": "Nomsy (Evoker)",
+        "cost": 6,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyEvoker.jpg",
+        "origins": [
+            "Prodigy"
+        ],
+        "classes": [
+            "Dragons",
+            "Evoker"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 45,
+            "health": 650,
+            "magical_resistance": 30,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Fireballs!",
+            "type": "Active",
+            "desc": "Nomsy bellows, lobbing a massive fireball towards her current target that explodes on impact, dealing magic damage to enemies within 1 hex, and bouncing additional fireballs outward that deal % of the damage.",
+            "stats": [
+                "Magic Damage: 190 / 270 / 420",
+                "Percentage Damage: 30% / 35% / 40%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyEvoker.png"
+        }
+    },
+    {
+        "key": "nomsymageforbuilder",
+        "name": "Nomsy (Mage)",
+        "cost": 6,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyMage.jpg",
+        "origins": [
+            "Prodigy"
+        ],
+        "classes": [
+            "Mage",
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 45,
+            "health": 650,
+            "magical_resistance": 30,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Fireballs!",
+            "type": "Active",
+            "desc": "Nomsy bellows, lobbing a massive fireball towards her current target that explodes on impact, dealing magic damage to enemies within 1 hex, and bouncing additional fireballs outward that deal % of the damage.",
+            "stats": [
+                "Magic Damage: 190 / 270 / 420",
+                "Percentage Damage: 30% / 35% / 40%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyMage.png"
+        }
+    },
+    {
+        "key": "nunu",
+        "name": "Nunu",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nunu.png",
+        "origins": [
+            "Mirage"
+        ],
+        "classes": [
+            "Cavalier"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 65,
+            "attack_range_slot": 1,
+            "attack_speed": 0.55,
+            "dps": 36,
+            "health": 850,
+            "magical_resistance": 50,
+            "starting_mana": 40
+        },
+        "skill": {
+            "name": "Consume",
+            "type": "Active",
+            "desc": "Nunu encourages Willump to bite his target, dealing magic damage. If Willump's target has less Health than he does before the bite, it deals an additional 50% damage.",
+            "stats": [
+                "Damage: 375 / 525 / 925"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nunu.png"
+        }
+    },
+    {
+        "key": "olaf",
+        "name": "Olaf",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/olaf.png",
+        "origins": [
+            "Scalescorn"
+        ],
+        "classes": [
+            "Bruiser",
+            "Warrior"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 55,
+            "attack_range_slot": 1,
+            "attack_speed": 0.7,
+            "dps": 39,
+            "health": 800,
+            "magical_resistance": 50,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Recklessness",
+            "type": "Active",
+            "desc": "Passive: Olaf seeks glorious death, permanently gaining 5 Attack Damage (10 in Hyper Roll) whenever he dies.<br><br>Active: Olaf strikes his target, dealing physical damage and gaining Attack Speed for 4 seconds. If he's below 50% Health, the Attack Speed is doubled.",
+            "stats": [
+                "Attack Speed: 35% / 50% / 75%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/olaf.png"
+        }
+    },
+    {
+        "key": "pantheon",
+        "name": "Pantheon",
+        "cost": 4,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/pantheon.jpg",
+        "origins": [
+            "Whispers"
+        ],
+        "classes": [
+            "Warrior"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.65,
+            "dps": 39,
+            "health": 1000,
+            "magical_resistance": 50,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Aegis Assault",
+            "type": "Active",
+            "desc": "Passive: Pantheon takes less damage.\r\n\r\nActive: Pantheon braces his shield for 2 seconds, doubling the effectiveness of his passive and dealing physical damage in the area in front of him over the duration. Enemies hit have their incoming healing reduced by 50% for 3 seconds.",
+            "stats": [
+                "Damage Reduction: 20% / 25% / 40%",
+                "Base Damage: 75 / 110 / 700"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/pantheon.png"
+        }
+    },
+    {
+        "key": "qiyana",
+        "name": "Qiyana",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/qiyana.png",
+        "origins": [
+            "Tempest"
+        ],
+        "classes": [
+            "Assassin"
+        ],
+        "stats": {
+            "armor": 35,
+            "attack_damage": 55,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 41,
+            "health": 700,
+            "magical_resistance": 35,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Elemental Blade",
+            "type": "Active",
+            "desc": "Qiyana dashes to the best position to strike enemies with her blade, dealing magic damage in a short line and disarming enemies hit.",
+            "stats": [
+                "Magic Damage: 225 / 300 / 450",
+                "Duration: 1.5 / 1.75 / 2"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/qiyana.png"
+        }
+    },
+    {
+        "key": "rakan",
+        "name": "Rakan",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/rakan.jpg",
+        "origins": [
+            "Ragewing"
+        ],
+        "classes": [
+            "Guardian",
+            "Mystic"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 55,
+            "attack_range_slot": 2,
+            "attack_speed": 0.75,
+            "dps": 41,
+            "health": 800,
+            "magical_resistance": 50,
+            "starting_mana": 15
+        },
+        "skill": {
+            "name": "Disarming Diversion",
+            "type": "Active",
+            "desc": "Rakan dashes the furthest enemy within his attack range, disarming all units he passes through, and taunting his target.\r\n\r\nThen for 4 seconds, Rakan creates a shield on himself and his attacks grant him an additional shield.",
+            "stats": [
+                "Shield Amount: 230 / 350 / 650",
+                "Disarm Duration: 1.5 / 1.5 / 1.5",
+                "Bonus Shield: 50 / 70 / 100"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/rakan.png"
+        }
+    },
+    {
+        "key": "rell",
+        "name": "Rell",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/rell.jpg",
+        "origins": [
+            "Darkflight"
+        ],
+        "classes": [
+            "Cavalier"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 50,
+            "attack_range_slot": 1,
+            "attack_speed": 0.6,
+            "dps": 30,
+            "health": 700,
+            "magical_resistance": 45,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Iron Bond",
+            "type": "Active",
+            "desc": "Rell forms a tether between herself and her lowest percent health ally, dealing magic damage to all enemies between herself and her bound ally. She also grants herself and her bound ally % of Rell's current Armor and Magic Resist for 4 seconds.",
+            "stats": [
+                "Damage: 160 / 240 / 440",
+                "Armor and Magic Resisit %: 35% / 40% / 50%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/rell.png"
+        }
+    },
+    {
+        "key": "rengar",
+        "name": "Rengar",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/rengar.jpg",
+        "origins": [
+            "Darkflight"
+        ],
+        "classes": [
+            "Assassin"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 70,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 53,
+            "health": 700,
+            "magical_resistance": 30,
+            "starting_mana": 70
+        },
+        "skill": {
+            "name": "Unseen Predator",
+            "type": "Active",
+            "desc": "Rengar leaps to the lowest armor enemy, dealing physical damage and next 2 attack gets faster.",
+            "stats": [
+                "Percent of Attack Damage: 240% / 245% / 275%",
+                "Bonus Damage: 60 / 80 / 100"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/rengar.png"
+        }
+    },
+    {
+        "key": "sejuani",
+        "name": "Sejuani",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sejuani.png",
+        "origins": [
+            "Guild"
+        ],
+        "classes": [
+            "Cavalier"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.55,
+            "dps": 33,
+            "health": 650,
+            "magical_resistance": 40,
+            "starting_mana": 25
+        },
+        "skill": {
+            "name": "Warrior's Wrath",
+            "type": "Active",
+            "desc": "Sejuani swings her mace wide, hitting all enemies in a cone magic damage. She quickly strike again, repeating the damage on her target and the enemy directly behind it and stunning them.",
+            "stats": [
+                "Stun Duration: 1.5 / 1.75 / 2"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sejuani.png"
+        }
+    },
+    {
+        "key": "senna",
+        "name": "Senna",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/senna.png",
+        "origins": [
+            "Ragewing"
+        ],
+        "classes": [
+            "Cannoneer"
+        ],
+        "stats": {
+            "armor": 15,
+            "attack_damage": 50,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 35,
+            "health": 500,
+            "magical_resistance": 15,
+            "starting_mana": 15
+        },
+        "skill": {
+            "name": "Last Embrace",
+            "type": "Active",
+            "desc": "Senna launches black mist toward the farthest enemy, striking the first enemy hit and dealing physical damage (% of Attack Damage) on a small area and an additional bonus magic damage to the target hit.",
+            "stats": [
+                "Bonus Damage: 300 / 450 / 650",
+                "% Attack Damage: 200% / 240% / 300%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/senna.png"
+        }
+    },
+    {
+        "key": "seraphine",
+        "name": "Seraphine",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/seraphine.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Mystic",
+            "Evoker"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 50,
+            "attack_range_slot": 3,
+            "attack_speed": 0.7,
+            "dps": 35,
+            "health": 750,
+            "magical_resistance": 30,
+            "starting_mana": 100
+        },
+        "skill": {
+            "name": "Serenade of the Seas",
+            "type": "Active",
+            "desc": "Seraphine sings a serenade of the seas, granting a shield and bonus damage per attack to all allies within 2 hexes for 4 seconds.",
+            "stats": [
+                "Shield Amount: 120 / 160 / 240",
+                "Damage per attack: 15 / 25 / 45"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/seraphine.png"
+        }
+    },
+    {
+        "key": "sett",
+        "name": "Sett",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sett.png",
+        "origins": [
+            "Ragewing"
+        ],
+        "classes": [
+            "Dragonmancer"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 65,
+            "attack_range_slot": 1,
+            "attack_speed": 0.7,
+            "dps": 46,
+            "health": 650,
+            "magical_resistance": 40,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Knuckle Down",
+            "type": "Active",
+            "desc": "For the next 4 seconds, Sett gains Armor and Magic Resist, and every other punch deals bonus physical damage.",
+            "stats": [
+                "Armor and Magic Resist: 50 / 60 / 80",
+                "Attack Damage %: 150 / 155 / 170"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sett.png"
+        }
+    },
+    {
+        "key": "shiohyu",
+        "name": "Shi Oh Yu",
+        "cost": 7,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/shiOhYu.png",
+        "origins": [
+            "Jade"
+        ],
+        "classes": [
+            "Mystic",
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 60,
+            "attack_damage": 75,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 56,
+            "health": 850,
+            "magical_resistance": 60,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Jade Form",
+            "type": "Active",
+            "desc": "Shi Oh Yu enters Jade stance, gaining damage reduction, immunity to crowd control, and empowering her next 3 attacks with special effects that deal damage.<br><br>Attack 1: Deals physical damage and knocks the target into the air for 1 second.<br>Attack 2: Deals true damage<br>Attack 3: Ends the stance, dealing physical damage to all enemies in a line and knocking them up for 1 second.",
+            "stats": [
+                "% Attack Damage: 250 / 300 / 1000",
+                "Damage Reduction: 20% / 25% / 40%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/shiOhYu.png"
+        }
+    },
+    {
+        "key": "shyvana",
+        "name": "Shyvana",
+        "cost": 8,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/shyvana.png",
+        "origins": [
+            "Ragewing"
+        ],
+        "classes": [
+            "Dragons",
+            "Shapeshifter"
+        ],
+        "stats": {
+            "armor": 70,
+            "attack_damage": 120,
+            "attack_range_slot": 1,
+            "attack_speed": 0.8,
+            "dps": 96,
+            "health": 900,
+            "magical_resistance": 70,
+            "starting_mana": 15
+        },
+        "skill": {
+            "name": "Dragon's Descent",
+            "type": "Active",
+            "desc": "Shyvana transforms into Dragon Form for the rest of combat, replacing her ability with Flame Breath. She then becomes untargetable before dive-bombing the largest group of enemies, dealing magic damage and stunning them for 1.25 seconds.<br><br>Flame Breath: Shyvana breathes fire in a cone, dealing magic damage.",
+            "stats": [
+                "First Damage: 80 / 150 / 1500",
+                "Damage: 700 / 1200 / 20000",
+                "Stun: 1.25 / 1.25 / 10"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/shyvana.png"
+        }
+    },
+    {
+        "key": "skarner",
+        "name": "Skarner",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/skarner.png",
+        "origins": [
+            "Astral"
+        ],
+        "classes": [
+            "Bruiser"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.6,
+            "dps": 36,
+            "health": 650,
+            "magical_resistance": 45,
+            "starting_mana": 40
+        },
+        "skill": {
+            "name": "Crystalline Exoskeleton",
+            "type": "Active",
+            "desc": "Skarner shields himself for 8 seconds, and gains Attack Speed while it holds.",
+            "stats": [
+                "Shield Amount: 300 / 375 / 450",
+                "Attack Speed: 160% / 180% / 200%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/skarner.png"
+        }
+    },
+    {
+        "key": "sohm",
+        "name": "Sohm",
+        "cost": 7,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sohm.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Mage",
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 30,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 23,
+            "health": 800,
+            "magical_resistance": 30,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Tideblossom",
+            "type": "Active",
+            "desc": "Sohm sends out a tide to an unmarked target, marking them with a Tideblossom transfer to nearby target if the enemy dies.<br><br>After 3 casts, his next cast instead summons a vortex under each Tideblossom, daling magic damage to enemies in the area.",
+            "stats": [
+                "Magic Damage: 165 / 225 / 600",
+                "Magic Damage: 285 / 400 / 1400"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sohm.png"
+        }
+    },
+    {
+        "key": "soraka",
+        "name": "Soraka",
+        "cost": 5,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/soraka.png",
+        "origins": [
+            "Jade"
+        ],
+        "classes": [
+            "Starcaller"
+        ],
+        "stats": {
+            "armor": 30,
+            "attack_damage": 40,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 28,
+            "health": 800,
+            "magical_resistance": 30,
+            "starting_mana": 100
+        },
+        "skill": {
+            "name": "Starfall",
+            "type": "Active",
+            "desc": "Passive: While any ally is below 50% Health, Soraka gains an additional 15 mana per attack.<br><br>Active: Soraka calls down a shower of stars over the next 2 seconds. Allies are healed each time a star hits them.",
+            "stats": [
+                "Healing: 105 / 165 / 1000"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/soraka.png"
+        }
+    },
+    {
+        "key": "syfen",
+        "name": "Sy'fen",
+        "cost": 7,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/syFen.png",
+        "origins": [
+            "Whispers"
+        ],
+        "classes": [
+            "Bruiser",
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 60,
+            "attack_damage": 90,
+            "attack_range_slot": 1,
+            "attack_speed": 0.7,
+            "dps": 63,
+            "health": 900,
+            "magical_resistance": 60,
+            "starting_mana": 100
+        },
+        "skill": {
+            "name": "Rampage",
+            "type": "Active",
+            "desc": "Sy'fen charges toward the farthest enemy within 2.5 hexes, dealing physical damage and knocking up enemies they pass through.<br><br>After charging, Sy'fen bites an enemy, dealing physical damage and ignoring 33% of the target's Armor.",
+            "stats": [
+                "Bite Percent of Attack Damage: 450% / 550% / 2500%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/syFen.png"
+        }
+    },
+    {
+        "key": "sylas",
+        "name": "Sylas",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sylas.png",
+        "origins": [
+            "Whispers"
+        ],
+        "classes": [
+            "Bruiser",
+            "Mage"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.6,
+            "dps": 36,
+            "health": 800,
+            "magical_resistance": 50,
+            "starting_mana": 60
+        },
+        "skill": {
+            "name": "Petricite Burst",
+            "type": "Active",
+            "desc": "Sylas whirls his chains, dealing magic damage to enemies hit and shielding himself for 6 seconds. If Sylas has already shielded himself, he hits in a larger area and applies Mana-Reave to enemies hit, increasing the cost of their next ability by 35%.",
+            "stats": [
+                "Damage: 140 / 200 / 320",
+                "Shield Amount: 365 / 415 / 525"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sylas.png"
+        }
+    },
+    {
+        "key": "taliyah",
+        "name": "Taliyah",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/taliyah.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "stats": {
+            "armor": 15,
+            "attack_damage": 30,
+            "attack_range_slot": 4,
+            "attack_speed": 0.7,
+            "dps": 21,
+            "health": 550,
+            "magical_resistance": 15,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Seastone Volley",
+            "type": "Active",
+            "desc": "Taliyah throws 3 seastones at her target, each dealing magic damage to the first enemy hit.",
+            "stats": [
+                "Damage: 160 / 240 / 380"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/taliyah.png"
+        }
+    },
+    {
+        "key": "terra",
+        "name": "Terra",
+        "cost": 8,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/terra.jpg",
+        "origins": [
+            "Monolith"
+        ],
+        "classes": [
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 100,
+            "attack_damage": 80,
+            "attack_range_slot": 1,
+            "attack_speed": 0.65,
+            "dps": 52,
+            "health": 1050,
+            "magical_resistance": 100,
+            "starting_mana": 30
+        },
+        "skill": {
+            "name": "Earthquake",
+            "type": "Active",
+            "desc": "Terra stomps three times causing an earthquake around them, dealing physical damage. At the end of the earthquake Terra's scales are hardened for 8 seconds, granting Armor and Magic Resist.",
+            "stats": [
+                "Armor and Magic Resist Damage Percent: 150% / 200% / 2500%",
+                "Armor and Magic Resist Buff: 130 / 165 / 4000"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/terra.png"
+        }
+    },
+    {
+        "key": "tristana",
+        "name": "Tristana",
+        "cost": 0,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/tristana.png",
+        "origins": [],
+        "classes": [],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 60,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 45,
+            "health": 600,
+            "magical_resistance": 25,
+            "starting_mana": 50
+        },
+        "skill": {
+            "name": "Explosive Charge",
+            "type": "Active",
+            "desc": "Passive: Tristana grants Nomsy bonus Attack Damage.<br><br>Tristana fires up to 1 explosive charges, prioritizing the closest targets without a charge. Charges detonate after 1 seconds, dealing physical damage to nearby enemies and an additional magic damage to the target.",
+            "stats": [
+                "% Attack Damage: 140% / 170% / 210%",
+                "Magic Damage: 130 / 160 / 200",
+                "Bonus Attack Damage: 50 / 75 / 120"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/tristana.png"
+        }
+    },
+    {
+        "key": "twitch",
+        "name": "Twitch",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/twitch.png",
+        "origins": [
+            "Guild"
+        ],
+        "classes": [
+            "Swiftshot"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 55,
+            "attack_range_slot": 3,
+            "attack_speed": 0.7,
+            "dps": 39,
+            "health": 550,
+            "magical_resistance": 20,
+            "starting_mana": 40
+        },
+        "skill": {
+            "name": "Blast Potion",
+            "type": "Active",
+            "desc": "Twitch hurls an exploding flask at his target, dealing physical damage and reducing the Armor of enemies hit by 40% for 5 seconds.",
+            "stats": [
+                "Base Damage: 40 / 80 / 150"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/twitch.png"
+        }
+    },
+    {
+        "key": "swain",
+        "name": "Tyrant Swain",
+        "cost": 7,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/tyrantSwain.jpg",
+        "origins": [
+            "Darkflight"
+        ],
+        "classes": [
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 70,
+            "attack_damage": 40,
+            "attack_range_slot": 2,
+            "attack_speed": 0.6,
+            "dps": 24,
+            "health": 900,
+            "magical_resistance": 70,
+            "starting_mana": 60
+        },
+        "skill": {
+            "name": "Dragon Master's Decree",
+            "type": "Active",
+            "desc": "Swain releases his dragonling flock, launching 8 dragonlings toward nearby enemies that each deal magic damage to their target, then return to Swain and heal him for 12% of his missing Health.",
+            "stats": [
+                "Damage: 90 / 130 / 600"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/tyrantSwain.png"
+        }
+    },
+    {
+        "key": "varus",
+        "name": "Varus",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/varus.png",
+        "origins": [
+            "Astral"
+        ],
+        "classes": [
+            "Swiftshot"
+        ],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 55,
+            "attack_range_slot": 3,
+            "attack_speed": 0.7,
+            "dps": 39,
+            "health": 650,
+            "magical_resistance": 25,
+            "starting_mana": 75
+        },
+        "skill": {
+            "name": "Chain of Constellations",
+            "type": "Active",
+            "desc": "Varus sends out a cosmic tendril towards his target that strikes the first enemy hit, dealing physical damage and stunning them. Tendrils then spread to 3 nearby enemies, dealing magic damage and stunning them for the remainder of the duration.",
+            "stats": [
+                "Stun Duration: 1.5 / 1.75 / 2",
+                "Magic Damage: 150 / 250 / 400"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/varus.png"
+        }
+    },
+    {
+        "key": "vladimir",
+        "name": "Vladimir",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/vladimir.png",
+        "origins": [
+            "Astral"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 40,
+            "attack_range_slot": 2,
+            "attack_speed": 0.6,
+            "dps": 24,
+            "health": 700,
+            "magical_resistance": 45,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Transfusion",
+            "type": "Active",
+            "desc": "Vladimir deals magic damage to his target and heals himself.",
+            "stats": [
+                "Damage: 275 / 325 / 375",
+                "Heal: 275 / 325 / 375"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/vladimir.png"
+        }
+    },
+    {
+        "key": "volibear",
+        "name": "Volibear",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/volibear.png",
+        "origins": [
+            "Shimmerscale"
+        ],
+        "classes": [
+            "Dragonmancer"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 50,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 38,
+            "health": 800,
+            "magical_resistance": 50,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Relentless Storm",
+            "type": "Active",
+            "desc": "Volibear rages, gaining bonus Health. For the rest of combat, every 3rd attack deals bonus magic damage to the target, and magic damage to additional enemies.",
+            "stats": [
+                "Damage: 115 / 170 / 240",
+                "Bonus Health: 400 / 700 / 1200"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/volibear.png"
+        }
+    },
+    {
+        "key": "monkeyking",
+        "name": "Wukong",
+        "cost": 1,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/wukong.jpg",
+        "origins": [
+            "Jade"
+        ],
+        "classes": [
+            "Warrior"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 65,
+            "attack_range_slot": 1,
+            "attack_speed": 0.7,
+            "dps": 46,
+            "health": 650,
+            "magical_resistance": 45,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Crushing Blow",
+            "type": "Active",
+            "desc": "Wukong slams his target with his staff, dealing physical damage and stunning them.",
+            "stats": [
+                "% Attack Damage: 185% / 200% / 250%",
+                "Stun Duration: 1 / 1.25 / 1.5",
+                "Base Damage: 50 / 75 / 100"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/wukong.png"
+        }
+    },
+    {
+        "key": "xayah",
+        "name": "Xayah",
+        "cost": 4,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/xayah.png",
+        "origins": [
+            "Ragewing"
+        ],
+        "classes": [
+            "Swiftshot"
+        ],
+        "stats": {
+            "armor": 25,
+            "attack_damage": 70,
+            "attack_range_slot": 3,
+            "attack_speed": 0.75,
+            "dps": 53,
+            "health": 750,
+            "magical_resistance": 25,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Feathers FLY!",
+            "type": "Active",
+            "desc": "For 4 seconds Xayah's attacks also fire a feather physical damage, and extra feathers at enemies near her target. Feathers are left behind her targets.<br><br>At the end of this duration Xayah recalls her feathers. Each one deals physical damage to enemies hit.",
+            "stats": [
+                "Bonus Feathers: 2 / 2 / 4",
+                "Recall Damage: 13 / 20 / 75"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/xayah.png"
+        }
+    },
+    {
+        "key": "yasuo",
+        "name": "Yasuo",
+        "cost": 5,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/yasuo.png",
+        "origins": [
+            "Mirage"
+        ],
+        "classes": [
+            "Dragonmancer",
+            "Warrior"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 90,
+            "attack_range_slot": 1,
+            "attack_speed": 1,
+            "dps": 90,
+            "health": 1000,
+            "magical_resistance": 50,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Sweeping Blade",
+            "type": "Active",
+            "desc": "Yasuo shields himself for 2 and dashes through his target, slashing nearby enemies physical damage.<br><br>Every third cast his slash deals 250% damage, hits a larger area, and knocks up enemies for 1.5 seconds. If Yasuo hits only the last enemy left alive, he repeatedly slashes them until they die.",
+            "stats": [
+                "% Attack Damage: 150% / 180% / 3000%",
+                "Shield Amount: 180 / 240 / 2500"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/yasuo.png"
+        }
+    },
+    {
+        "key": "yone",
+        "name": "Yone",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/yone.png",
+        "origins": [
+            "Mirage"
+        ],
+        "classes": [
+            "Warrior"
+        ],
+        "stats": {
+            "armor": 40,
+            "attack_damage": 55,
+            "attack_range_slot": 1,
+            "attack_speed": 0.85,
+            "dps": 47,
+            "health": 800,
+            "magical_resistance": 40,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Way of the Hunter",
+            "type": "Passive",
+            "desc": "Passive: Yone's basic attacks alternate between dealing bonus magic damage and dealing bonus physical damage.",
+            "stats": [
+                "Bonus Damage: 85 / 125 / 180",
+                "% Attack Damage: 30% / 35% / 40%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/yone.png"
+        }
+    },
+    {
+        "key": "zac",
+        "name": "Zac",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zac.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Guardian"
+        ],
+        "stats": {
+            "armor": 45,
+            "attack_damage": 60,
+            "attack_range_slot": 1,
+            "attack_speed": 0.6,
+            "dps": 36,
+            "health": 800,
+            "magical_resistance": 45,
+            "starting_mana": 0
+        },
+        "skill": {
+            "name": "Unstable Current",
+            "type": "Active",
+            "desc": "Zac explodes outward towards enemies within 2 hexes, dealing % of their maximum Health as magic damage and healing himself.",
+            "stats": [
+                "Percent Maximum Health: 10% / 12% / 18%",
+                "Heal: 220 / 250 / 300"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zac.png"
+        }
+    },
+    {
+        "key": "zeri",
+        "name": "Zeri",
+        "cost": 3,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zeri.jpg",
+        "origins": [
+            "Lagoon"
+        ],
+        "classes": [
+            "Cannoneer"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 65,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 49,
+            "health": 600,
+            "magical_resistance": 20,
+            "starting_mana": 20
+        },
+        "skill": {
+            "name": "Watershock Laser",
+            "type": "Active",
+            "desc": "Zeri fires a water pluse filled with electricity at the closest enemy within 2 hexes, otherwise at the enemy that is closest to the center of the board. The pulse explodes on contact, dealing physical damage and creating a laser behind the target that deals magic damage to all enemies hit.",
+            "stats": [
+                "Damage: 200 / 300 / 600",
+                "Percent of Attack Damage: 110% / 115% / 120%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zeri.png"
+        }
+    },
+    {
+        "key": "zippy",
+        "name": "Zippy",
+        "cost": 6,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zippy.png",
+        "origins": [
+            "Guild"
+        ],
+        "classes": [
+            "Dragons"
+        ],
+        "stats": {
+            "armor": 50,
+            "attack_damage": 85,
+            "attack_range_slot": 1,
+            "attack_speed": 0.75,
+            "dps": 64,
+            "health": 800,
+            "magical_resistance": 50,
+            "starting_mana": 40
+        },
+        "skill": {
+            "name": "Somersault Assault",
+            "type": "Active",
+            "desc": "Zippy shields himself for 2 seconds and somersaults toward the highest percent health enemy, dealing physical damage and knocking them back slightly.",
+            "stats": [
+                "Shield Amount: 375 / 450 / 650",
+                "Percent of Attack Damage: 400% / 425% / 600%"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zippy.webp"
+        }
+    },
+    {
+        "key": "zoe",
+        "name": "Zoe",
+        "cost": 5,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zoe.png",
+        "origins": [
+            "Shimmerscale"
+        ],
+        "classes": [
+            "Mage",
+            "SpellThief"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 45,
+            "attack_range_slot": 4,
+            "attack_speed": 0.75,
+            "dps": 34,
+            "health": 800,
+            "magical_resistance": 20,
+            "starting_mana": 40
+        },
+        "skill": {
+            "name": "Nothing!",
+            "type": "Active",
+            "desc": "Zoe doesn't have her own spell. As a Spell Thief, she will borrow Abilities from other dimensions during combat and cast them as if they were her own.",
+            "stats": [],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zoe.png"
+        }
+    },
+    {
+        "key": "zyra",
+        "name": "Zyra",
+        "cost": 2,
+        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zyra.jpg",
+        "origins": [
+            "Whispers"
+        ],
+        "classes": [
+            "Evoker"
+        ],
+        "stats": {
+            "armor": 20,
+            "attack_damage": 40,
+            "attack_range_slot": 4,
+            "attack_speed": 0.65,
+            "dps": 26,
+            "health": 600,
+            "magical_resistance": 20,
+            "starting_mana": 50
+        },
+        "skill": {
+            "name": "Grasping Spines",
+            "type": "Active",
+            "desc": "Zyra summons vines in the row with the most enemies, dealing magic damage and stunning them.",
+            "stats": [
+                "Damage: 225 / 325 / 550",
+                "Stun Duration: 1 / 1.25 / 1.5"
+            ],
+            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zyra.png"
+        }
+    }
+]
