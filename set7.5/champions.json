@@ -3,7 +3,7 @@
         "key": "aoshin",
         "name": "Ao Shin",
         "cost": 8,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aoShin.png",
+        "imageUrl": "../tft-assets/set7.5/champions/aoShin.png",
         "origins": [
             "Tempest"
         ],
@@ -27,14 +27,14 @@
             "stats": [
                 "Damage: 185 / 275 / 2000"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aoShin.png"
+            "imageUrl": "../tft-assets/set7.5/skills/aoShin.png"
         }
     },
     {
         "key": "aphelios",
         "name": "Aphelios",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aphelios.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/aphelios.jpg",
         "origins": [
             "Darkflight"
         ],
@@ -59,14 +59,14 @@
                 "Stun Duration: 1.25 / 1.5 / 1.75",
                 "Secondary Bolts: 5 / 5 / 7"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aphelios.png"
+            "imageUrl": "../tft-assets/set7.5/skills/aphelios.png"
         }
     },
     {
         "key": "aurelionsol",
         "name": "Aurelion Sol",
         "cost": 8,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/aurelionSol.png",
+        "imageUrl": "../tft-assets/set7.5/champions/aurelionSol.png",
         "origins": [
             "Astral"
         ],
@@ -91,14 +91,14 @@
             "stats": [
                 "Magic Damage: 325 / 550 / 4000"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/aurelionSol.png"
+            "imageUrl": "../tft-assets/set7.5/skills/aurelionSol.png"
         }
     },
     {
         "key": "bard",
         "name": "Bard",
         "cost": 5,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/bard.png",
+        "imageUrl": "../tft-assets/set7.5/champions/bard.png",
         "origins": [
             "Guild"
         ],
@@ -124,14 +124,14 @@
                 "Stasis Duration: 1.25 / 2 / 15",
                 "Increased Damage: 15% / 20% / 9999%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/bard.png"
+            "imageUrl": "../tft-assets/set7.5/skills/bard.png"
         }
     },
     {
         "key": "braum",
         "name": "Braum",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/braum.png",
+        "imageUrl": "../tft-assets/set7.5/champions/braum.png",
         "origins": [
             "Scalescorn"
         ],
@@ -155,14 +155,14 @@
             "stats": [
                 "Damage Reduction: 70% / 75% / 85%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/braum.png"
+            "imageUrl": "../tft-assets/set7.5/skills/braum.png"
         }
     },
     {
         "key": "daeja",
         "name": "Daeja",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/daeja.png",
+        "imageUrl": "../tft-assets/set7.5/champions/daeja.png",
         "origins": [
             "Mirage"
         ],
@@ -187,14 +187,14 @@
                 "Passive Damage: 25 / 40 / 150",
                 "Windblast Damage: 250 / 335 / 1350"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/daeja.png"
+            "imageUrl": "../tft-assets/set7.5/skills/daeja.png"
         }
     },
     {
         "key": "diana",
         "name": "Diana",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/diana.png",
+        "imageUrl": "../tft-assets/set7.5/champions/diana.png",
         "origins": [
             "Scalescorn"
         ],
@@ -220,14 +220,14 @@
                 "Damage: 90 / 105 / 120",
                 "Shield Amount: 300 / 350 / 400"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/diana.png"
+            "imageUrl": "../tft-assets/set7.5/skills/diana.png"
         }
     },
     {
         "key": "ezreal",
         "name": "Ezreal",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/ezreal.png",
+        "imageUrl": "../tft-assets/set7.5/champions/ezreal.png",
         "origins": [
             "Tempest"
         ],
@@ -251,14 +251,14 @@
             "stats": [
                 "Damage: 200 / 275 / 415"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/ezreal.png"
+            "imageUrl": "../tft-assets/set7.5/skills/ezreal.png"
         }
     },
     {
         "key": "gnar",
         "name": "Gnar",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/gnar.png",
+        "imageUrl": "../tft-assets/set7.5/champions/gnar.png",
         "origins": [
             "Jade"
         ],
@@ -283,14 +283,14 @@
                 "Attack Damage: 60 / 90 / 150",
                 "Armor: 40 / 60 / 90"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/gnar.png"
+            "imageUrl": "../tft-assets/set7.5/skills/gnar.png"
         }
     },
     {
         "key": "graves",
         "name": "Graves",
         "cost": 4,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/graves.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/graves.jpg",
         "origins": [
             "Tempest"
         ],
@@ -314,14 +314,14 @@
             "stats": [
                 "Armor and Magic Resist: 30 / 40 / 80"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/graves.png"
+            "imageUrl": "../tft-assets/set7.5/skills/graves.png"
         }
     },
     {
         "key": "hecarim",
         "name": "Hecarim",
         "cost": 4,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/hecarim.png",
+        "imageUrl": "../tft-assets/set7.5/champions/hecarim.png",
         "origins": [
             "Ragewing"
         ],
@@ -346,14 +346,14 @@
                 "Damage: 200 / 300 / 1500",
                 "Stun Duration: 1.5 / 2 / 8"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/hecarim.png"
+            "imageUrl": "../tft-assets/set7.5/skills/hecarim.png"
         }
     },
     {
         "key": "heimerdinger",
         "name": "Heimerdinger",
         "cost": 0,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/heimerdinger.png",
+        "imageUrl": "../tft-assets/set7.5/champions/heimerdinger.png",
         "origins": [],
         "classes": [],
         "stats": {
@@ -373,14 +373,14 @@
             "stats": [
                 "Magic Damage: 225 / 325 / 475"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/heimerdinger.png"
+            "imageUrl": "../tft-assets/set7.5/skills/heimerdinger.png"
         }
     },
     {
         "key": "idas",
         "name": "Idas",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/idas.png",
+        "imageUrl": "../tft-assets/set7.5/champions/idas.png",
         "origins": [
             "Shimmerscale"
         ],
@@ -407,14 +407,14 @@
                 "Heal: 450 / 600 / 3000",
                 "Shield Amount: 150 / 250 / 1200"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/idas.png"
+            "imageUrl": "../tft-assets/set7.5/skills/idas.png"
         }
     },
     {
         "key": "jax",
         "name": "Jax",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/jax.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/jax.jpg",
         "origins": [
             "Jade",
             "Shimmerscale"
@@ -440,14 +440,14 @@
                 "Damage: 225 / 350 / 750",
                 "Stun Duration: 1 / 1.25 / 1.5"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/jax.png"
+            "imageUrl": "../tft-assets/set7.5/skills/jax.png"
         }
     },
     {
         "key": "jayce",
         "name": "Jayce",
         "cost": 4,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/jayce.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/jayce.jpg",
         "origins": [
             "Guild"
         ],
@@ -475,14 +475,14 @@
                 "Secondary Magic Damage: 225 / 275 / 1200",
                 "Heal Amount: 100 / 150 / 500"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/jayce.png"
+            "imageUrl": "../tft-assets/set7.5/skills/jayce.png"
         }
     },
     {
         "key": "kaisa",
         "name": "Kai'sa",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/kaiSa.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/kaiSa.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -506,14 +506,14 @@
             "stats": [
                 "Magic Damage: 35 / 55 / 85"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/kaiSa.png"
+            "imageUrl": "../tft-assets/set7.5/skills/kaiSa.png"
         }
     },
     {
         "key": "karma",
         "name": "Karma",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/karma.png",
+        "imageUrl": "../tft-assets/set7.5/champions/karma.png",
         "origins": [
             "Jade"
         ],
@@ -537,14 +537,14 @@
             "stats": [
                 "Magic Damage: 200 / 265 / 380"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/karma.png"
+            "imageUrl": "../tft-assets/set7.5/skills/karma.png"
         }
     },
     {
         "key": "leesin",
         "name": "Lee Sin",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/leeSin.png",
+        "imageUrl": "../tft-assets/set7.5/champions/leeSin.png",
         "origins": [
             "Tempest"
         ],
@@ -568,14 +568,14 @@
             "stats": [
                 "Damage: 215 / 285 / 385"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/leeSin.png"
+            "imageUrl": "../tft-assets/set7.5/skills/leeSin.png"
         }
     },
     {
         "key": "leona",
         "name": "Leona",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/leona.png",
+        "imageUrl": "../tft-assets/set7.5/champions/leona.png",
         "origins": [
             "Mirage"
         ],
@@ -599,14 +599,14 @@
             "stats": [
                 "Damage Reduction: 35 / 45 / 70"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/leona.png"
+            "imageUrl": "../tft-assets/set7.5/skills/leona.png"
         }
     },
     {
         "key": "lillia",
         "name": "Lillia",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/lillia.png",
+        "imageUrl": "../tft-assets/set7.5/champions/lillia.png",
         "origins": [
             "Scalescorn"
         ],
@@ -632,14 +632,14 @@
                 "Magic Damage: 215 / 275 / 370",
                 "Bonus Magic Damage: 190 / 240 / 340"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/lillia.png"
+            "imageUrl": "../tft-assets/set7.5/skills/lillia.png"
         }
     },
     {
         "key": "lulu",
         "name": "Lulu",
         "cost": 0,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/lulu.png",
+        "imageUrl": "../tft-assets/set7.5/champions/lulu.png",
         "origins": [],
         "classes": [],
         "stats": {
@@ -660,14 +660,14 @@
                 "Number of Targets: 3 / 3 / 3",
                 "Attack Speed %: 40% / 50% / 70%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/lulu.png"
+            "imageUrl": "../tft-assets/set7.5/skills/lulu.png"
         }
     },
     {
         "key": "lux",
         "name": "Lux",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/lux.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/lux.jpg",
         "origins": [
             "Astral"
         ],
@@ -692,14 +692,14 @@
                 "Damage: 325 / 410 / 525",
                 "Damage: 175 / 210 / 240"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/lux.png"
+            "imageUrl": "../tft-assets/set7.5/skills/lux.png"
         }
     },
     {
         "key": "malphite",
         "name": "Malphite",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/malphite.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/malphite.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -723,14 +723,14 @@
             "stats": [
                 "Base Shield Amount: 200 / 250 / 325"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/malphite.png"
+            "imageUrl": "../tft-assets/set7.5/skills/malphite.png"
         }
     },
     {
         "key": "nasus",
         "name": "Nasus",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nasus.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/nasus.jpg",
         "origins": [
             "Shimmerscale"
         ],
@@ -755,14 +755,14 @@
                 "Bonus Health: 225 / 350 / 650",
                 "Damage Per Second: 70 / 100 / 205"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nasus.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nasus.png"
         }
     },
     {
         "key": "nidalee",
         "name": "Nidalee",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nidalee.png",
+        "imageUrl": "../tft-assets/set7.5/champions/nidalee.png",
         "origins": [
             "Astral"
         ],
@@ -786,14 +786,14 @@
             "stats": [
                 "Attack Speed: 40% / 45% / 50%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nidalee.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nidalee.png"
         }
     },
     {
         "key": "nilah",
         "name": "Nilah",
         "cost": 4,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nilah.png",
+        "imageUrl": "../tft-assets/set7.5/champions/nilah.png",
         "origins": [
             "Lagoon"
         ],
@@ -818,14 +818,14 @@
                 "Damage: 130 / 200 / 700",
                 "Shield Steal: 80% / 100% / 300%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nilah.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nilah.png"
         }
     },
     {
         "key": "nomsycannoneerforbuilder",
         "name": "Nomsy (Cannoneer)",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyCannoneer.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/nomsyCannoneer.jpg",
         "origins": [
             "Prodigy"
         ],
@@ -851,14 +851,14 @@
                 "Magic Damage: 190 / 270 / 420",
                 "Percentage Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyCannoneer.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nomsyCannoneer.png"
         }
     },
     {
         "key": "nomsyevokerforbuilder",
         "name": "Nomsy (Evoker)",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyEvoker.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/nomsyEvoker.jpg",
         "origins": [
             "Prodigy"
         ],
@@ -884,14 +884,14 @@
                 "Magic Damage: 190 / 270 / 420",
                 "Percentage Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyEvoker.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nomsyEvoker.png"
         }
     },
     {
         "key": "nomsymageforbuilder",
         "name": "Nomsy (Mage)",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nomsyMage.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/nomsyMage.jpg",
         "origins": [
             "Prodigy"
         ],
@@ -917,14 +917,14 @@
                 "Magic Damage: 190 / 270 / 420",
                 "Percentage Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nomsyMage.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nomsyMage.png"
         }
     },
     {
         "key": "nunu",
         "name": "Nunu",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/nunu.png",
+        "imageUrl": "../tft-assets/set7.5/champions/nunu.png",
         "origins": [
             "Mirage"
         ],
@@ -948,14 +948,14 @@
             "stats": [
                 "Damage: 375 / 525 / 925"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/nunu.png"
+            "imageUrl": "../tft-assets/set7.5/skills/nunu.png"
         }
     },
     {
         "key": "olaf",
         "name": "Olaf",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/olaf.png",
+        "imageUrl": "../tft-assets/set7.5/champions/olaf.png",
         "origins": [
             "Scalescorn"
         ],
@@ -980,14 +980,14 @@
             "stats": [
                 "Attack Speed: 35% / 50% / 75%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/olaf.png"
+            "imageUrl": "../tft-assets/set7.5/skills/olaf.png"
         }
     },
     {
         "key": "pantheon",
         "name": "Pantheon",
         "cost": 4,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/pantheon.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/pantheon.jpg",
         "origins": [
             "Whispers"
         ],
@@ -1012,14 +1012,14 @@
                 "Damage Reduction: 20% / 25% / 40%",
                 "Base Damage: 75 / 110 / 700"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/pantheon.png"
+            "imageUrl": "../tft-assets/set7.5/skills/pantheon.png"
         }
     },
     {
         "key": "qiyana",
         "name": "Qiyana",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/qiyana.png",
+        "imageUrl": "../tft-assets/set7.5/champions/qiyana.png",
         "origins": [
             "Tempest"
         ],
@@ -1044,14 +1044,14 @@
                 "Magic Damage: 225 / 300 / 450",
                 "Duration: 1.5 / 1.75 / 2"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/qiyana.png"
+            "imageUrl": "../tft-assets/set7.5/skills/qiyana.png"
         }
     },
     {
         "key": "rakan",
         "name": "Rakan",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/rakan.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/rakan.jpg",
         "origins": [
             "Ragewing"
         ],
@@ -1078,14 +1078,14 @@
                 "Disarm Duration: 1.5 / 1.5 / 1.5",
                 "Bonus Shield: 50 / 70 / 100"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/rakan.png"
+            "imageUrl": "../tft-assets/set7.5/skills/rakan.png"
         }
     },
     {
         "key": "rell",
         "name": "Rell",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/rell.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/rell.jpg",
         "origins": [
             "Darkflight"
         ],
@@ -1110,14 +1110,14 @@
                 "Damage: 160 / 240 / 440",
                 "Armor and Magic Resisit %: 35% / 40% / 50%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/rell.png"
+            "imageUrl": "../tft-assets/set7.5/skills/rell.png"
         }
     },
     {
         "key": "rengar",
         "name": "Rengar",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/rengar.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/rengar.jpg",
         "origins": [
             "Darkflight"
         ],
@@ -1142,14 +1142,14 @@
                 "Percent of Attack Damage: 240% / 245% / 275%",
                 "Bonus Damage: 60 / 80 / 100"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/rengar.png"
+            "imageUrl": "../tft-assets/set7.5/skills/rengar.png"
         }
     },
     {
         "key": "sejuani",
         "name": "Sejuani",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sejuani.png",
+        "imageUrl": "../tft-assets/set7.5/champions/sejuani.png",
         "origins": [
             "Guild"
         ],
@@ -1173,14 +1173,14 @@
             "stats": [
                 "Stun Duration: 1.5 / 1.75 / 2"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sejuani.png"
+            "imageUrl": "../tft-assets/set7.5/skills/sejuani.png"
         }
     },
     {
         "key": "senna",
         "name": "Senna",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/senna.png",
+        "imageUrl": "../tft-assets/set7.5/champions/senna.png",
         "origins": [
             "Ragewing"
         ],
@@ -1205,14 +1205,14 @@
                 "Bonus Damage: 300 / 450 / 650",
                 "% Attack Damage: 200% / 240% / 300%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/senna.png"
+            "imageUrl": "../tft-assets/set7.5/skills/senna.png"
         }
     },
     {
         "key": "seraphine",
         "name": "Seraphine",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/seraphine.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/seraphine.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -1238,14 +1238,14 @@
                 "Shield Amount: 120 / 160 / 240",
                 "Damage per attack: 15 / 25 / 45"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/seraphine.png"
+            "imageUrl": "../tft-assets/set7.5/skills/seraphine.png"
         }
     },
     {
         "key": "sett",
         "name": "Sett",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sett.png",
+        "imageUrl": "../tft-assets/set7.5/champions/sett.png",
         "origins": [
             "Ragewing"
         ],
@@ -1270,14 +1270,14 @@
                 "Armor and Magic Resist: 50 / 60 / 80",
                 "Attack Damage %: 150 / 155 / 170"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sett.png"
+            "imageUrl": "../tft-assets/set7.5/skills/sett.png"
         }
     },
     {
         "key": "shiohyu",
         "name": "Shi Oh Yu",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/shiOhYu.png",
+        "imageUrl": "../tft-assets/set7.5/champions/shiOhYu.png",
         "origins": [
             "Jade"
         ],
@@ -1303,14 +1303,14 @@
                 "% Attack Damage: 250 / 300 / 1000",
                 "Damage Reduction: 20% / 25% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/shiOhYu.png"
+            "imageUrl": "../tft-assets/set7.5/skills/shiOhYu.png"
         }
     },
     {
         "key": "shyvana",
         "name": "Shyvana",
         "cost": 8,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/shyvana.png",
+        "imageUrl": "../tft-assets/set7.5/champions/shyvana.png",
         "origins": [
             "Ragewing"
         ],
@@ -1337,14 +1337,14 @@
                 "Damage: 700 / 1200 / 20000",
                 "Stun: 1.25 / 1.25 / 10"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/shyvana.png"
+            "imageUrl": "../tft-assets/set7.5/skills/shyvana.png"
         }
     },
     {
         "key": "skarner",
         "name": "Skarner",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/skarner.png",
+        "imageUrl": "../tft-assets/set7.5/champions/skarner.png",
         "origins": [
             "Astral"
         ],
@@ -1369,14 +1369,14 @@
                 "Shield Amount: 300 / 375 / 450",
                 "Attack Speed: 160% / 180% / 200%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/skarner.png"
+            "imageUrl": "../tft-assets/set7.5/skills/skarner.png"
         }
     },
     {
         "key": "sohm",
         "name": "Sohm",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sohm.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/sohm.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -1402,14 +1402,14 @@
                 "Magic Damage: 165 / 225 / 600",
                 "Magic Damage: 285 / 400 / 1400"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sohm.png"
+            "imageUrl": "../tft-assets/set7.5/skills/sohm.png"
         }
     },
     {
         "key": "soraka",
         "name": "Soraka",
         "cost": 5,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/soraka.png",
+        "imageUrl": "../tft-assets/set7.5/champions/soraka.png",
         "origins": [
             "Jade"
         ],
@@ -1433,14 +1433,14 @@
             "stats": [
                 "Healing: 105 / 165 / 1000"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/soraka.png"
+            "imageUrl": "../tft-assets/set7.5/skills/soraka.png"
         }
     },
     {
         "key": "syfen",
         "name": "Sy'fen",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/syFen.png",
+        "imageUrl": "../tft-assets/set7.5/champions/syFen.png",
         "origins": [
             "Whispers"
         ],
@@ -1465,14 +1465,14 @@
             "stats": [
                 "Bite Percent of Attack Damage: 450% / 550% / 2500%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/syFen.png"
+            "imageUrl": "../tft-assets/set7.5/skills/syFen.png"
         }
     },
     {
         "key": "sylas",
         "name": "Sylas",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/sylas.png",
+        "imageUrl": "../tft-assets/set7.5/champions/sylas.png",
         "origins": [
             "Whispers"
         ],
@@ -1498,14 +1498,14 @@
                 "Damage: 140 / 200 / 320",
                 "Shield Amount: 365 / 415 / 525"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/sylas.png"
+            "imageUrl": "../tft-assets/set7.5/skills/sylas.png"
         }
     },
     {
         "key": "taliyah",
         "name": "Taliyah",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/taliyah.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/taliyah.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -1529,14 +1529,14 @@
             "stats": [
                 "Damage: 160 / 240 / 380"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/taliyah.png"
+            "imageUrl": "../tft-assets/set7.5/skills/taliyah.png"
         }
     },
     {
         "key": "terra",
         "name": "Terra",
         "cost": 8,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/terra.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/terra.jpg",
         "origins": [
             "Monolith"
         ],
@@ -1561,14 +1561,14 @@
                 "Armor and Magic Resist Damage Percent: 150% / 200% / 2500%",
                 "Armor and Magic Resist Buff: 130 / 165 / 4000"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/terra.png"
+            "imageUrl": "../tft-assets/set7.5/skills/terra.png"
         }
     },
     {
         "key": "tristana",
         "name": "Tristana",
         "cost": 0,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/tristana.png",
+        "imageUrl": "../tft-assets/set7.5/champions/tristana.png",
         "origins": [],
         "classes": [],
         "stats": {
@@ -1590,14 +1590,14 @@
                 "Magic Damage: 130 / 160 / 200",
                 "Bonus Attack Damage: 50 / 75 / 120"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/tristana.png"
+            "imageUrl": "../tft-assets/set7.5/skills/tristana.png"
         }
     },
     {
         "key": "twitch",
         "name": "Twitch",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/twitch.png",
+        "imageUrl": "../tft-assets/set7.5/champions/twitch.png",
         "origins": [
             "Guild"
         ],
@@ -1621,14 +1621,14 @@
             "stats": [
                 "Base Damage: 40 / 80 / 150"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/twitch.png"
+            "imageUrl": "../tft-assets/set7.5/skills/twitch.png"
         }
     },
     {
         "key": "swain",
         "name": "Tyrant Swain",
         "cost": 7,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/tyrantSwain.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/tyrantSwain.jpg",
         "origins": [
             "Darkflight"
         ],
@@ -1652,14 +1652,14 @@
             "stats": [
                 "Damage: 90 / 130 / 600"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/tyrantSwain.png"
+            "imageUrl": "../tft-assets/set7.5/skills/tyrantSwain.png"
         }
     },
     {
         "key": "varus",
         "name": "Varus",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/varus.png",
+        "imageUrl": "../tft-assets/set7.5/champions/varus.png",
         "origins": [
             "Astral"
         ],
@@ -1684,14 +1684,14 @@
                 "Stun Duration: 1.5 / 1.75 / 2",
                 "Magic Damage: 150 / 250 / 400"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/varus.png"
+            "imageUrl": "../tft-assets/set7.5/skills/varus.png"
         }
     },
     {
         "key": "vladimir",
         "name": "Vladimir",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/vladimir.png",
+        "imageUrl": "../tft-assets/set7.5/champions/vladimir.png",
         "origins": [
             "Astral"
         ],
@@ -1716,14 +1716,14 @@
                 "Damage: 275 / 325 / 375",
                 "Heal: 275 / 325 / 375"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/vladimir.png"
+            "imageUrl": "../tft-assets/set7.5/skills/vladimir.png"
         }
     },
     {
         "key": "volibear",
         "name": "Volibear",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/volibear.png",
+        "imageUrl": "../tft-assets/set7.5/champions/volibear.png",
         "origins": [
             "Shimmerscale"
         ],
@@ -1748,14 +1748,14 @@
                 "Damage: 115 / 170 / 240",
                 "Bonus Health: 400 / 700 / 1200"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/volibear.png"
+            "imageUrl": "../tft-assets/set7.5/skills/volibear.png"
         }
     },
     {
         "key": "monkeyking",
         "name": "Wukong",
         "cost": 1,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/wukong.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/wukong.jpg",
         "origins": [
             "Jade"
         ],
@@ -1781,14 +1781,14 @@
                 "Stun Duration: 1 / 1.25 / 1.5",
                 "Base Damage: 50 / 75 / 100"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/wukong.png"
+            "imageUrl": "../tft-assets/set7.5/skills/wukong.png"
         }
     },
     {
         "key": "xayah",
         "name": "Xayah",
         "cost": 4,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/xayah.png",
+        "imageUrl": "../tft-assets/set7.5/champions/xayah.png",
         "origins": [
             "Ragewing"
         ],
@@ -1813,14 +1813,14 @@
                 "Bonus Feathers: 2 / 2 / 4",
                 "Recall Damage: 13 / 20 / 75"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/xayah.png"
+            "imageUrl": "../tft-assets/set7.5/skills/xayah.png"
         }
     },
     {
         "key": "yasuo",
         "name": "Yasuo",
         "cost": 5,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/yasuo.png",
+        "imageUrl": "../tft-assets/set7.5/champions/yasuo.png",
         "origins": [
             "Mirage"
         ],
@@ -1846,14 +1846,14 @@
                 "% Attack Damage: 150% / 180% / 3000%",
                 "Shield Amount: 180 / 240 / 2500"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/yasuo.png"
+            "imageUrl": "../tft-assets/set7.5/skills/yasuo.png"
         }
     },
     {
         "key": "yone",
         "name": "Yone",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/yone.png",
+        "imageUrl": "../tft-assets/set7.5/champions/yone.png",
         "origins": [
             "Mirage"
         ],
@@ -1878,14 +1878,14 @@
                 "Bonus Damage: 85 / 125 / 180",
                 "% Attack Damage: 30% / 35% / 40%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/yone.png"
+            "imageUrl": "../tft-assets/set7.5/skills/yone.png"
         }
     },
     {
         "key": "zac",
         "name": "Zac",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zac.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/zac.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -1910,14 +1910,14 @@
                 "Percent Maximum Health: 10% / 12% / 18%",
                 "Heal: 220 / 250 / 300"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zac.png"
+            "imageUrl": "../tft-assets/set7.5/skills/zac.png"
         }
     },
     {
         "key": "zeri",
         "name": "Zeri",
         "cost": 3,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zeri.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/zeri.jpg",
         "origins": [
             "Lagoon"
         ],
@@ -1942,14 +1942,14 @@
                 "Damage: 200 / 300 / 600",
                 "Percent of Attack Damage: 110% / 115% / 120%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zeri.png"
+            "imageUrl": "../tft-assets/set7.5/skills/zeri.png"
         }
     },
     {
         "key": "zippy",
         "name": "Zippy",
         "cost": 6,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zippy.png",
+        "imageUrl": "../tft-assets/set7.5/champions/zippy.png",
         "origins": [
             "Guild"
         ],
@@ -1974,14 +1974,14 @@
                 "Shield Amount: 375 / 450 / 650",
                 "Percent of Attack Damage: 400% / 425% / 600%"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zippy.webp"
+            "imageUrl": "../tft-assets/set7.5/skills/zippy.webp"
         }
     },
     {
         "key": "zoe",
         "name": "Zoe",
         "cost": 5,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zoe.png",
+        "imageUrl": "../tft-assets/set7.5/champions/zoe.png",
         "origins": [
             "Shimmerscale"
         ],
@@ -2004,14 +2004,14 @@
             "type": "Active",
             "desc": "Zoe doesn't have her own spell. As a Spell Thief, she will borrow Abilities from other dimensions during combat and cast them as if they were her own.",
             "stats": [],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zoe.png"
+            "imageUrl": "../tft-assets/set7.5/skills/zoe.png"
         }
     },
     {
         "key": "zyra",
         "name": "Zyra",
         "cost": 2,
-        "imageUrl": "../tft-assets/ddragon/set7.5/champions/zyra.jpg",
+        "imageUrl": "../tft-assets/set7.5/champions/zyra.jpg",
         "origins": [
             "Whispers"
         ],
@@ -2036,7 +2036,7 @@
                 "Damage: 225 / 325 / 550",
                 "Stun Duration: 1 / 1.25 / 1.5"
             ],
-            "imageUrl": "../tft-assets/ddragon/set7.5/skills/zyra.png"
+            "imageUrl": "../tft-assets/set7.5/skills/zyra.png"
         }
     }
 ]
