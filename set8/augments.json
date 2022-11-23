@@ -23,7 +23,7 @@
     {
         "key": "burningSpirit",
         "name": "Burning Spirit",
-        "desc": "Gain an Annie. When you field her, your team gains 15 Ability Power, tripled while they are below 50% Health.",
+        "desc": "Gain an Annie. When you field her, your team gains 12 Ability Power, tripled while they are below 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/burningSpirit.jpg",
         "tier": "silver"
     },
@@ -135,7 +135,7 @@
     {
         "key": "ruthlessBlades",
         "name": "Ruthless Blades",
-        "desc": "Gain a Draven. When you field him, your team gains 40% Critical Strike Chance.",
+        "desc": "Gain a Draven. When you field him, your team gains 55% Critical Strike Chance.",
         "imageUrl": "../tft-assets/set8/augments/ruthlessBlades.jpg",
         "tier": "silver"
     },
@@ -730,7 +730,7 @@
     {
         "key": "boxingLessons",
         "name": "Boxing Lessons",
-        "desc": "Gain a Vi. When you field her, your team gains 275 bonus Health.",
+        "desc": "Gain a Vi. When you field her, your team gains 250 bonus Health.",
         "imageUrl": "../tft-assets/set8/augments/boxingLessons.jpg",
         "tier": "silver"
     },
@@ -779,7 +779,7 @@
     {
         "key": "zoomies",
         "name": "Zoomies!",
-        "desc": "Gain a Yuumi. She grants your team 18% Attack Speed and Movement Speed.",
+        "desc": "Gain a Yuumi. When you field her, your team 20% Attack Speed, and zooms towards their targets.",
         "imageUrl": "../tft-assets/set8/augments/zoomies.jpg",
         "tier": "silver"
     },
@@ -877,7 +877,7 @@
     {
         "key": "standUnitedI",
         "name": "Stand United I",
-        "desc": "Your units gain 1 Attack Damage and Ability Power per Trait active across your army.",
+        "desc": "Your units gain 1.5% Attack Damage and 1.5 Ability Power per Trait active across your army.",
         "imageUrl": "../tft-assets/set8/augments/standUnitedI.png",
         "tier": "silver"
     },
@@ -1661,7 +1661,7 @@
     {
         "key": "binaryAirdrop",
         "name": "Binary Airdrop",
-        "desc": "Your champions equipped with 2 items temporarily gain a random completed item at the start of combat.",
+        "desc": "Your champions equipped with 2 items temporarily gain a random completed item at the start of combat. Gain 1 random item components.",
         "imageUrl": "../tft-assets/set8/augments/binaryAirdrop.png",
         "tier": "prismatic"
     },
@@ -1822,7 +1822,7 @@
     {
         "key": "doubleTroubleIII",
         "name": "Double Trouble III",
-        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 40% Attack Damage and 40 Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 45% Attack Damage and 45 Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
         "imageUrl": "../tft-assets/set8/augments/doubleTroubleIII.png",
         "tier": "prismatic"
     },
@@ -1885,7 +1885,7 @@
     {
         "key": "luckyGloves",
         "name": "Lucky Gloves",
-        "desc": "Thief's Gloves will always give your champions items that they can use well. Gain a Thief's Gloves.",
+        "desc": "Thief's Gloves will always give your champions items. Gain 3 Sparring Gloves.",
         "imageUrl": "../tft-assets/set8/augments/luckyGloves.png",
         "tier": "prismatic"
     },
