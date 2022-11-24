@@ -285,7 +285,7 @@
             "desc": "Passive: +75 Magic Resist<br><br>Active: Cho'gath breathes a cosmic beam in a forward arc that deals magic damage and Mana Reaves the target.<br><br>Mana Reave: increase maximum Mana util the next cast",
             "stats": [
                 "Magic Resist Bonus: 75 / 100 / 150",
-                "Magic Resist Ratio: 125% / 175% 225%",
+                "Magic Resist Ratio: 150% / 200% / 250%",
                 "Mana Cost Increase: 35% / 35% / 50%",
                 "Bonus Damage: 70 / 105 / 165"
             ],
@@ -383,7 +383,7 @@
             "desc": "Ezreal fires an orb of physical sabotage at his target, Chilling them for 4 seconds. Then he fires another shot, which deals magic damage to the target and nearby enemies.<br><br>Chill: reduce Attack Speed",
             "stats": [
                 "Attack Speed Reduction: 30 / 40 / 50",
-                "Damage: 240 / 360 / 575"
+                "Damage: 250 / 375 / 600"
             ],
             "imageUrl": "../tft-assets/set8/skills/ezreal.png"
         }
@@ -1894,7 +1894,7 @@
             "type": "Active",
             "desc": "Zoe launches a bubble at the nearest non-infected enemy, infecting them with a virus that deals magic damage over 10 seconds. Infected enemies take more damage.",
             "stats": [
-                "Damage: 475 / 715 / 1500",
+                "Damage: 400 / 600 / 1100",
                 "Percent Bonus Damage: 10% / 10% / 20%"
             ],
             "imageUrl": "../tft-assets/set8/skills/zoe.png"

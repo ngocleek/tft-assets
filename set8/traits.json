@@ -11,7 +11,7 @@
             "description": "This trait is active only when you have exactly 1 or 4 unique Aces.",
             "stats": {
                 "1": "Execute enemies under 10% Health",
-                "4": "Execute enemies under 25% Health"
+                "4": "Execute enemies under 30% Health"
             }
         },
         "isStrictStack": false,
@@ -142,8 +142,8 @@
             "description": "Innate: Taunt nearby enemies after the start of combat.<br><br>Your team gains bonus Armor, and Defenders gain more.<br><br>Taunt: enemies that are able and in range must attack the taunter",
             "stats": {
                 "2": "+30 Armor, +60 for Defenders",
-                "4": "+60 Armor, +120 for Defenders",
-                "6": "+100 Armor, +200 for Defenders"
+                "4": "+75 Armor, +150 for Defenders",
+                "6": "+125 Armor, +250 for Defenders"
             }
         },
         "isStrictStack": false,
@@ -238,8 +238,8 @@
             "description": "Hackers gain Omnivamp and summon a H4ckerr!m. Any unit placed in the rider hex will be sent to the enemy backline and is untargetable for the first 2 seconds of combat.<br><br>Omnivamp: heal for a percentage of damage dealt",
             "stats": {
                 "2": "20% Omnivamp",
-                "3": "40% Omnivamp",
-                "4": "60% Omnivamp"
+                "3": "45% Omnivamp",
+                "4": "75% Omnivamp"
             }
         },
         "isStrictStack": false,
@@ -272,8 +272,8 @@
             "description": "When Heart units cast their Ability, your team gains stacking Ability Power for the rest of combat.",
             "stats": {
                 "2": "+4 Ability Power",
-                "4": "+6 Ability Power",
-                "6": "+10 Ability Power"
+                "4": "+8 Ability Power",
+                "6": "+12 Ability Power"
             }
         },
         "isStrictStack": false,
@@ -306,9 +306,9 @@
             "description": "Your team heals a percentage of their maximum Health every 2 seconds, and Mascots heal double the amount.<br><br>\r\nWhen Mascots die, they retreat to the sidelines to cheer on your team. Your team's healing increased by 1% for each cheering Mascot.",
             "stats": {
                 "2": "1.5% healing",
-                "4": "2.5% healing",
-                "6": "4.5% healing",
-                "8": "7% healing"
+                "4": "3.5% healing",
+                "6": "6% healing",
+                "8": "10% healing"
             }
         },
         "isStrictStack": false,
@@ -433,9 +433,9 @@
             "black": "../tft-assets/set8/traits/spellslingerBlack.svg"
         },
         "synergy": {
-            "description": "Every 5 seconds, the next attack instead fires a magic orb at a random target, which explodes for 80% Ability Power as magic damage.<br><br>Spellslingers gain:",
+            "description": "Every 5 seconds, the next attack instead fires a magic orb at a random target, which explodes for 50% Ability Power as magic damage.<br><br>Spellslingers gain:",
             "stats": {
-                "2": "+20 Ability Power",
+                "2": "+25 Ability Power",
                 "4": "+60 Ability Power",
                 "6": "+100 Ability Power",
                 "8": "+150 Ability Power, Orb Damage 200%"
@@ -505,7 +505,7 @@
             "stats": {
                 "2": "[Initialize ADMIN cause and effect]",
                 "4": "[Add another effect to the program]",
-                "6": "Boost previous tier by 60%"
+                "6": "Boost previous tier by 160%"
             }
         },
         "isStrictStack": false,
@@ -759,8 +759,8 @@
             "stats": {
                 "3": "40% additional mana",
                 "5": "70% additional mana",
-                "7": "100% additional mana",
-                "9": "150% additional mana"
+                "7": "120% additional mana",
+                "9": "200% additional mana"
             }
         },
         "isStrictStack": false,

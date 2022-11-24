@@ -44,7 +44,7 @@
     {
         "key": "laserFocus",
         "name": "Laser Focus",
-        "desc": "Gain an Ashe. She gains 30% Attack Speed, doubled while her Ability is active.",
+        "desc": "Gain an Ashe. She gains 20% Attack Speed, doubled while her Ability is active.",
         "imageUrl": "../tft-assets/set8/augments/laserFocus.jpg",
         "tier": "silver"
     },
@@ -93,7 +93,7 @@
     {
         "key": "rocketGrab",
         "name": "Rocket Grab",
-        "desc": "Gain a Blitzcrank. Combat Start: He pulls the farthest enemy and stuns them for 1.5 seconds.",
+        "desc": "Gain a Blitzcrank. Gain a 200 Health. Combat Start: He pulls the farthest enemy and stuns them for 1.5 seconds.",
         "imageUrl": "../tft-assets/set8/augments/rocketGrab.jpg",
         "tier": "silver"
     },
@@ -219,7 +219,7 @@
     {
         "key": "getPaid",
         "name": "Get Paid",
-        "desc": "Gain a Gangplank. When you field him, your team has a 25% chance to gain 2 gold on kill.",
+        "desc": "Gain a Gangplank. When you field him, your team has a 33% chance to gain 1 gold on kill.",
         "imageUrl": "../tft-assets/set8/augments/getPaid.jpg",
         "tier": "silver"
     },
@@ -359,7 +359,7 @@
     {
         "key": "lucentBarrier",
         "name": "Lucent Barrier",
-        "desc": "Gain a Lux. Combat Start: She grants her 2 nearest allies a 400 Health Shield and 20 Ability Power.",
+        "desc": "Gain a Lux. Combat Start: She grants her 2 nearest allies a 400 Health Shield and 40 Ability Power.",
         "imageUrl": "../tft-assets/set8/augments/lucentBarrier.jpg",
         "tier": "silver"
     },
@@ -415,7 +415,7 @@
     {
         "key": "soulEater",
         "name": "Soul Eater",
-        "desc": "Gain a Nasus. When you field him, he and his allies heal 150 Health on takedowns.",
+        "desc": "Gain a Nasus. When you field him, he and his allies heal 200 Health on takedowns.",
         "imageUrl": "../tft-assets/set8/augments/soulEater.jpg",
         "tier": "silver"
     },
@@ -506,7 +506,7 @@
     {
         "key": "cullTheMeek",
         "name": "Cull the Meek",
-        "desc": "Gain a Renekton. When you field him, your team deals 10% bonus damage, tripled against enemies below 50% Health.",
+        "desc": "Gain a Renekton. When you field him, your team deals 12% bonus damage, tripled against enemies below 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/cullTheMeek.jpg",
         "tier": "silver"
     },
@@ -1192,7 +1192,7 @@
     {
         "key": "celestialBlessingII",
         "name": "Celestial Blessing II",
-        "desc": "Your units heal for 20% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 350 Health.",
+        "desc": "Your units heal for 20% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 300 Health.",
         "imageUrl": "../tft-assets/set8/augments/celestialBlessingII.png",
         "tier": "gold"
     },
@@ -1668,7 +1668,7 @@
     {
         "key": "celestialBlessingIII",
         "name": "Celestial Blessing III",
-        "desc": "Your units heal for 35% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 450 Health.",
+        "desc": "Your units heal for 25% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 400 Health.",
         "imageUrl": "../tft-assets/set8/augments/celestialBlessingIII.png",
         "tier": "prismatic"
     },
@@ -1682,7 +1682,7 @@
     {
         "key": "cyberneticShellIII",
         "name": "Cybernetic Shell III",
-        "desc": "Your champions holding an item gain 250 Health and 40 Armor.",
+        "desc": "Your champions holding an item gain 180 Health and 40 Armor.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticShellIII.png",
         "tier": "prismatic"
     },
@@ -1794,7 +1794,7 @@
     {
         "key": "theGoldenEgg",
         "name": "The Golden Egg",
-        "desc": "Gain a massive golden egg that hatches in 11 turns. If you won vs player, receive bonus turn.",
+        "desc": "Gain a massive golden egg that hatches in 10 turns. If you won vs player, receive bonus turn.",
         "imageUrl": "../tft-assets/set8/augments/theGoldenEgg.png",
         "tier": "prismatic"
     },
