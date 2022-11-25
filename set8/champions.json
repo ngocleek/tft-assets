@@ -87,7 +87,7 @@
             "starting_mana": 40
         },
         "skill": {
-            "name": "Change Weapons",
+            "name": "Weapons of the Faithful",
             "type": "Active",
             "desc": "Player select a weapon when place Aphelios on board.<br><br>Binding Eclipse<br>Aphelios casts forth a lunar spotlight towards the largest group of units, dealing physical damage and stunning all enemies in the area.<br><hr>Duskwave<br>Aphelios unleashes a wave of energy in a cone in his target's direction, dealing magic damage to all units hit and locking on to them. After a delay, Aplhelios fires a volley of attacks at each locked-on target, dealing physical damage.<br><hr>Onslaught<br>Aphelion enters an onslaught for 1.75 seconds, automatically performing 6 attacks over the duration at the nearest 2 enemies, dealing physical damage to each enemy.<hr>",
             "stats": [
@@ -95,10 +95,10 @@
                 "Binding Eclipse Stun Duration: 1.5 / 2 / 15",
                 "　",
                 "Duskwave Percent of Attack Damage: 225% / 225% / 800%",
-                "Duskwave Magic Damage: 65 / 100 / 2000",
+                "Duskwave Magic Damage: 55 / 85 / 2000",
                 "Duskwave Num Bullets: 7 / 7 / 15",
                 "　",
-                "Onslaught Base Damage: 65 / 100 / 2000"
+                "Onslaught Base Damage: 55 / 85 / 2000"
             ],
             "imageUrl": "../tft-assets/set8/skills/aphelios.png"
         }
@@ -157,7 +157,7 @@
         "skill": {
             "name": "Meteor Shower",
             "type": "Active",
-            "desc": "Aurelion Sol calls down meteors on random enemies that explode on impact. Each meteor deals magic damage and applies a burn for 10 seconds, dealing % of the target's maximum Health as true damage and reducing incoming healing by 25%.",
+            "desc": "Aurelion Sol calls down meteors on random enemies that explode on impact. Each meteor deals magic damage and applies a burn for 10 seconds, dealing % of the target's maximum Health as true damage and reducing incoming healing by 33%.",
             "stats": [
                 "Meteors: 3 / 3 / 5",
                 "Damage: 200 / 300 / 600",
@@ -350,7 +350,7 @@
             "type": "Active",
             "desc": "Ekko dives in, granting himself a shield for 5 seconds and taunts nearby enemies. When the shield breaks, he emits a time field, dealing damage to nearby enemies and slowing their attack speed by 50% for 2 seconds.",
             "stats": [
-                "Shield Amount: 500 / 650 / 2000",
+                "Shield Amount: 550 / 700 / 3000",
                 "Damage: 100 / 150 / 1500"
             ],
             "imageUrl": "../tft-assets/set8/skills/ekko.png"
@@ -400,13 +400,13 @@
             "Corrupted"
         ],
         "stats": {
-            "armor": 50,
+            "armor": 60,
             "attack_damage": 50,
             "attack_range_slot": 1,
             "attack_speed": 0.75,
             "dps": 38,
             "health": 1100,
-            "magical_resistance": 50,
+            "magical_resistance": 60,
             "starting_mana": 90
         },
         "skill": {
@@ -415,7 +415,7 @@
             "desc": "Fiddlesticks teleports into the largest cluster of enemies and fears them. For the next a few seconds, Fiddle drains the life from nearby enemies dealing magic damage per second and healing himself for 20% of the damage dealt.",
             "stats": [
                 "Fear Duration: 1 / 1 / 5",
-                "Magic Damage: 110 / 165 / 2000",
+                "Magic Damage: 120 / 180 / 2000",
                 "Spell Duration: 5 / 5 / 30"
             ],
             "imageUrl": "../tft-assets/set8/skills/fiddlesticks.png"
@@ -543,7 +543,7 @@
             "type": "Active",
             "desc": "Janna sends a twister towards the largest group of enemies. The twister expands when it reaches its destination, knocking all nearby enemies up in the air, Stunning them for 1.5 seconds, and dealing 70 magic damage each second for 3 seconds.",
             "stats": [
-                "Damage: 210 / 320 / 9000",
+                "Damage: 70 / 100 / 3000",
                 "Stun Duration: 1.5 / 2 / 3"
             ],
             "imageUrl": "../tft-assets/set8/skills/janna.png"
@@ -751,25 +751,25 @@
             "MechaPRIME"
         ],
         "classes": [
-            "Aegis",
-            "Renegade"
+            "Renegade",
+            "Aegis"
         ],
         "stats": {
             "armor": 60,
             "attack_damage": 75,
             "attack_range_slot": 1,
-            "attack_speed": 0.8,
-            "dps": 60,
-            "health": 1000,
+            "attack_speed": 0.7,
+            "dps": 53,
+            "health": 1200,
             "magical_resistance": 60,
-            "starting_mana": 20
+            "starting_mana": 0
         },
         "skill": {
             "name": "Deus Ex Machina",
             "type": "Active",
             "desc": "Leona locks onto and calls an orbital laser strike onto her target.<br><br>After a short delay a laser fires on the locked on target dealing true damage per second to the target and dealing magic damage to nearby enemies.",
             "stats": [
-                "Max Health Reduction Per Sec: 450 / 650 / 5000",
+                "Max Health Reduction Per Sec: 500 / 750 / 5000",
                 "Damage: 80 / 120 / 2000"
             ],
             "imageUrl": "../tft-assets/set8/skills/leona.png"
@@ -1279,7 +1279,7 @@
             "type": "Active",
             "desc": "Senna fires a laser beam in the direction of a nearby enemy. dealing physical damage to all enemies in a line.",
             "stats": [
-                "Percent of Attack Damage: 150% / 160% / 180%",
+                "Percent of Attack Damage: 170% / 180% / 190%",
                 "Bonus Damage: 45 / 65 / 120"
             ],
             "imageUrl": "../tft-assets/set8/skills/senna.png"
@@ -1699,9 +1699,9 @@
             "type": "Active",
             "desc": "Viego becomes unstoppable, leaping to the largest cluster of nearby enemies and slamming his sword down on the enemy with the lowest Health, dealing magic damage to the primary target and magic damage to enemies nearby. If Viego kills an enemy, he casts again with reduced damage.",
             "stats": [
-                "Damage: 250 / 375 / 900",
-                "AOE Damage: 125 / 195 / 450",
-                "Falloff Percent: 25% / 20% / 1%"
+                "Damage: 260 / 390 / 900",
+                "AOE Damage: 130 / 195 / 450",
+                "Falloff Percent: 15% / 15% / 1%"
             ],
             "imageUrl": "../tft-assets/set8/skills/viego.png"
         }
@@ -1824,7 +1824,7 @@
         "skill": {
             "name": "Symbiotic Split",
             "type": "Active",
-            "desc": "Passive: Upon dying, split into smaller Zac Blobs with % of Zac's maximum Health that taunt nearby enemies.<br><br>Active: Zac bounces into the air and slams down, dealing magic damage to nearby enemies. Then he heals 18% of his missing Health.",
+            "desc": "Passive: Upon dying, split into smaller Zac Blobs with % of Zac's maximum Health that taunt nearby enemies.<br><br>Active: Zac bounces into the air and slams down, dealing magic damage to nearby enemies. Then he heals 20% of his missing Health.",
             "stats": [
                 "Blobs: 2 / 2 / 4",
                 "Blob Health: 40% / 40% / 50%",

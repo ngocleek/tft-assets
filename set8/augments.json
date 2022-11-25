@@ -513,7 +513,7 @@
     {
         "key": "reverberation",
         "name": "Reverberation",
-        "desc": "Gain a Riven. She gains 40 Ability Power and her Ability is additionally cast on her lowest Health ally.",
+        "desc": "Gain a Riven. She gains 20 Ability Power and her Ability is additionally cast on her lowest Health ally.",
         "imageUrl": "../tft-assets/set8/augments/reverberation.jpg",
         "tier": "silver"
     },
@@ -527,7 +527,7 @@
     {
         "key": "styleAndFlair",
         "name": "Style and Flair",
-        "desc": "Gain a Samira. She gains 30% Attack Damage. When she scores a takedown, she restores 35% of her maximum Mana.",
+        "desc": "Gain a Samira. She gains 25% Attack Damage. When she scores a takedown, she restores 50% of her maximum Mana.",
         "imageUrl": "../tft-assets/set8/augments/styleAndFlair.jpg",
         "tier": "silver"
     },
@@ -541,14 +541,14 @@
     {
         "key": "glacialPrison",
         "name": "Glacial Prison",
-        "desc": "Gain a Sejuani. She gains 25 Armor and Magic Resist and her Ability hits the entire board.",
+        "desc": "Gain a Sejuani. She gains 20 Armor and Magic Resist and her Ability hits the entire board.",
         "imageUrl": "../tft-assets/set8/augments/glacialPrison.jpg",
         "tier": "silver"
     },
     {
         "key": "shatter",
         "name": "Shatter",
-        "desc": "Gain a Sejuani. Her Ability stuns for 0.5 seconds longer and enemies take 20% more damage while stunned.",
+        "desc": "Gain a Sejuani. Her Ability stuns for 1 seconds longer and enemies take 20% more damage while stunned.",
         "imageUrl": "../tft-assets/set8/augments/shatter.jpg",
         "tier": "silver"
     },
@@ -660,7 +660,7 @@
     {
         "key": "beTheStone",
         "name": "Be the Stone",
-        "desc": "Gain a Taliyah. Combat Start: She shields the 3 highest Health allies for 100% of their maximum Health.",
+        "desc": "Gain a Taliyah. Combat Start: She shields the 3 highest Health allies for 60% of their maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/beTheStone.jpg",
         "tier": "silver"
     },
@@ -1192,7 +1192,7 @@
     {
         "key": "celestialBlessingII",
         "name": "Celestial Blessing II",
-        "desc": "Your units heal for 20% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 300 Health.",
+        "desc": "Your units heal for 15% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 300 Health.",
         "imageUrl": "../tft-assets/set8/augments/celestialBlessingII.png",
         "tier": "gold"
     },
@@ -1339,7 +1339,7 @@
     {
         "key": "sunfireBoard",
         "name": "Sunfire Board",
-        "desc": "At the start of combat, burn all enemies for 10% of their maximum Health over 20 seconds and reduce healing received by 50%.",
+        "desc": "At the start of combat, burn all enemies for 10% of their maximum Health over 20 seconds and reduce healing received by 33%.",
         "imageUrl": "../tft-assets/set8/augments/sunfireBoard.png",
         "tier": "gold"
     },

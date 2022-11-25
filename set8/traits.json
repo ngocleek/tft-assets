@@ -39,10 +39,10 @@
         "synergy": {
             "description": "Your team gains bonus Magic Resist, and Aegis units gain more.",
             "stats": {
-                "2": "+25 Magic Resist, +50 for Aegis",
-                "3": "+40 Magic Resist, +80 for Aegis",
-                "4": "+60 Magic Resist, +120 for Aegis",
-                "5": "+85 Magic Resist, +170 for Aegis"
+                "2": "+20 Magic Resist, +40 for Aegis",
+                "3": "+35 Magic Resist, +70 for Aegis",
+                "4": "+50 Magic Resist, +100 for Aegis",
+                "5": "+75 Magic Resist, +150 for Aegis"
             }
         },
         "isStrictStack": false,
@@ -175,10 +175,10 @@
         "synergy": {
             "description": "Innate: increased movement speed.<br><br>Duelists' basic attacks grant bonus Attack Speed, up to 10 stacks.",
             "stats": {
-                "2": "+5% Attack Speed per stack",
-                "4": "+10% Attack Speed per stack",
-                "6": "+18% Attack Speed per stack",
-                "8": "+25% Attack Speed per stack"
+                "2": "+6% Attack Speed per stack",
+                "4": "+12% Attack Speed per stack",
+                "6": "+20% Attack Speed per stack",
+                "8": "+30% Attack Speed per stack"
             }
         },
         "isStrictStack": false,
@@ -213,7 +213,7 @@
             "black": "../tft-assets/set8/traits/forecasterBlack.svg"
         },
         "synergy": {
-            "description": "At the start of combat, Forecaster champions grant adjacent allies different buffs depending on the current weather, which changes every game.<br><br>Sunny Weather:<br>Combat start: Grant a 400/600/4000 Health shield to adjacent allies for 10/10/45 seconds.<br><br>Windy Weather:<br>Combat start: grant bonus Attack Damage and Ability Power to adjacent allies, increasing by 15/25/150% every 5 seconds.<br><br>Rainy Weather:<br>At the start of combat, Forecaster champions grant adjacent allies 15/30/100 mana until they have cast 1/1/100 spells.",
+            "description": "At the start of combat, Forecaster champions grant adjacent allies different buffs depending on the current weather, which changes every game.<br><br>Sunny Weather:<br>Combat start: Grant a 400/600/4000 Health shield to adjacent allies for 10/10/45 seconds.<br><br>Windy Weather:<br>Combat start: grant bonus Attack Damage and Ability Power to adjacent allies, increasing by 15/25/150% every 5 seconds.<br><br>Rainy Weather:<br>At the start of combat, Forecaster champions grant adjacent allies 20 / 40 / 100 mana until they have cast 1/1/100 spells.",
             "stats": {
                 "1": "??? (Randomly selected per game)"
             }
@@ -475,8 +475,8 @@
         "synergy": {
             "description": "Combat start: gain bonus Attack Damage now, and every 4 seconds.",
             "stats": {
-                "2": "+15% Attack Damage",
-                "4": "+30% Attack Damage"
+                "2": "+12% Attack Damage",
+                "4": "+25% Attack Damage"
             }
         },
         "isStrictStack": false,
@@ -535,7 +535,7 @@
             "black": "../tft-assets/set8/traits/animaSquadBlack.svg"
         },
         "synergy": {
-            "description": "Anima Squad members build fame for scoring champion kills. When they pause to celebrate a kill, they permanently gain 5 maximum Health per point of fame. Fame immediately benefits the whole Anima Squad.<br><br>Anima Squad also gains:",
+            "description": "Anima Squad members build fame for scoring champion kills. When they pause to celebrate a kill, they permanently gain 6 maximum Health per point of fame. Fame immediately benefits the whole Anima Squad.<br><br>Anima Squad also gains:",
             "stats": {
                 "3": "15% Attack Damage and 15 Ability Power",
                 "5": "35% Attack Damage and 35 Ability Power",
@@ -594,8 +594,8 @@
             "description": "If there is a Civilian alive, your team is inspired to protect them by gaining Mana every 2 seconds.",
             "stats": {
                 "1": "+2 Mana",
-                "2": "+4 Mana",
-                "3": "+7 Mana"
+                "2": "+5 Mana",
+                "3": "+10 Mana"
             }
         },
         "isStrictStack": false,
@@ -655,9 +655,9 @@
         "synergy": {
             "description": "When a LaserCorp agent attacks or is hit by an attack, their combat drone has a 50% chance to deal magic damage to the agent's target (0.5 second cooldown). When a LaserCorps agent dies, their drone is reassigned to the nearest living agent.<br><br>Drones lasers deal:",
             "stats": {
-                "3": "50 magic damage.",
-                "6": "130 magic damage.",
-                "9": "210 magic damage, and each agent gets a 2nd drone."
+                "3": "60 magic damage.",
+                "6": "150 magic damage.",
+                "9": "150 magic damage, and each agent gets a 2nd drone."
             }
         },
         "isStrictStack": false,
@@ -715,12 +715,12 @@
             "black": "../tft-assets/set8/traits/oxForceBlack.svg"
         },
         "synergy": {
-            "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, they become invulnerable for 1.5 seconds as they defend the city with their last breath.",
+            "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, they become invulnerable for 1 seconds as they defend the city with their last breath.",
             "stats": {
-                "2": "10% - 30% Attack Speed.",
+                "2": "20% - 40% Attack Speed.",
                 "4": "40% - 80% Attack Speed.",
-                "6": "80% - 160% Attack Speed.",
-                "8": "150% - 300% Attack Speed."
+                "6": "100% - 200% Attack Speed.",
+                "8": "200% - 400% Attack Speed."
             }
         },
         "isStrictStack": false,
@@ -797,7 +797,7 @@
         "synergy": {
             "description": "",
             "stats": {
-                "3": "Combat start: strike a pose that grants your team 20% bonus damage, which increases by 6% for every 3-star champion on your team."
+                "3": "Combat start: strike a pose that grants your team 20% bonus damage, which increases by 5% for every 3-star champion on your team."
             }
         },
         "isStrictStack": false,
