@@ -4,3 +4,5 @@ It seems that _Riot Games_ doesn't release any _Data Dragon_ pack for _Teamfight
 
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_Teamfight Tactics_](https://teamfighttactics.leagueoflegends.com/), distributed by Riot Games. A new version of Data Dragon is released some days after each new set release. This repository allows you to update automatically all files more easily.
+
+This repository maintains automatically. Use it at your own risk.

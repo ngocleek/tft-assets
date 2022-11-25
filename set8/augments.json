@@ -149,7 +149,7 @@
     {
         "key": "chronobreak",
         "name": "Chronobreak",
-        "desc": "Gain an Ekko. When you field him, he stuns all enemies for 3 seconds after 10 seconds of combat.",
+        "desc": "Gain an Ekko. When you field him, he stuns all enemies for 2 seconds after 10 seconds of combat.",
         "imageUrl": "../tft-assets/set8/augments/chronobreak.jpg",
         "tier": "silver"
     },
@@ -1416,7 +1416,7 @@
     {
         "key": "axiomArcII",
         "name": "Axiom Arc II",
-        "desc": "Your units gain 40 Mana on kill.",
+        "desc": "Your units gain 30 Mana on kill.",
         "imageUrl": "../tft-assets/set8/augments/axiomArcII.png",
         "tier": "gold"
     },
@@ -1430,7 +1430,7 @@
     {
         "key": "combatTraining",
         "name": "Combat Training",
-        "desc": "Your Champions permanently gain 1 Attack Damage every time they kill an enemy unit. Champions start with 8 Attack Damage.",
+        "desc": "Your Champions permanently gain 1 Attack Damage every time they kill an enemy unit. Champions start with 8% Attack Damage.",
         "imageUrl": "../tft-assets/set8/augments/combatTraining.png",
         "tier": "gold"
     },

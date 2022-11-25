@@ -511,7 +511,7 @@
             "type": "Active",
             "desc": "Gangplank sheds crowd control effects, then fires a flaming bullet at his target. It deals magic damage and Wounds the enemy for 8 seconds.<br><br>Wound: reduces healing received by 33%",
             "stats": [
-                "Damage: 240 / 360 / 540"
+                "Damage: 220 / 330 / 500"
             ],
             "imageUrl": "../tft-assets/set8/skills/gangplank.png"
         }
@@ -636,7 +636,7 @@
         "skill": {
             "name": "Starcharged",
             "type": "Active",
-            "desc": "Passive: Kai'Sa's attacks apply Plasma. Her next attack against a target with 2 stacks of Plasma deal magic damage.<br><br>Active: Kai'Sa gains Attack Speed for 6 seconds. This bonus stacks!",
+            "desc": "Passive: Kai'Sa's attacks apply Plasma. Her next attack against a target with 2 stacks of Plasma deal magic damage.<br><br>Active: Kai'Sa gains Attack Speed for 10 seconds. This bonus stacks!",
             "stats": [
                 "Attack Speed %: 45% / 60% / 75%",
                 "Damage: 150 / 225 / 385"
@@ -670,7 +670,7 @@
             "type": "Active",
             "desc": "Kayle's next 3 attacks deal physical damage to her target, and magic damage to enemies within 1 hex of the target.",
             "stats": [
-                "% Attack Damage: 130% / 130% / 130%",
+                "% Attack Damage: 140% / 140% / 140%",
                 "Damage: 20 / 30 / 45"
             ],
             "imageUrl": "../tft-assets/set8/skills/kayle.png"
@@ -694,7 +694,7 @@
             "attack_range_slot": 4,
             "attack_speed": 0.7,
             "dps": 32,
-            "health": 900,
+            "health": 650,
             "magical_resistance": 30,
             "starting_mana": 0
         },
@@ -1411,7 +1411,7 @@
             "type": "Active",
             "desc": "Soraka launches a star at her target, which deals magic damage and heals Soraka for 10% of her maximum Health. Every 3 casts, she launches stars at each of the nearest enemies.",
             "stats": [
-                "Damage: 265 / 400 / 800",
+                "Damage: 250 / 375 / 800",
                 "Empowered Stars: 3 / 3 / 5"
             ],
             "imageUrl": "../tft-assets/set8/skills/soraka.png"
@@ -1540,8 +1540,8 @@
             "type": "Active",
             "desc": "Talon jumps to the furthest unit from the center of the board and stabs them magic damage. If this kills them, Talon heals.",
             "stats": [
-                "Damage: 210 / 315 / 475",
-                "Heal: 150 / 200 / 250"
+                "Damage: 200 / 300 / 450",
+                "Heal: 100 / 200 / 250"
             ],
             "imageUrl": "../tft-assets/set8/skills/talon.png"
         }
