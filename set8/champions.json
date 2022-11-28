@@ -448,7 +448,7 @@
             "desc": "Fiora lunges at her enemy, dealing physical damage to all enemies hit. For the next 8 seconds, she takes 15% less damage and her attacks restore Health.",
             "stats": [
                 "Percent of Attack Damage: 225% / 225% / 250%",
-                "Heal: 25 / 35 / 45"
+                "Heal: 30 / 40 / 50"
             ],
             "imageUrl": "../tft-assets/set8/skills/fiora.png"
         }
@@ -575,8 +575,8 @@
             "type": "Passive",
             "desc": "Passive: Jax leaps to his target and deals bonus magic damage every 3rd attack. The bonus damage increases every third attack up to 8 times.",
             "stats": [
-                "Base Damage: 100 / 150 / 270",
-                "Stacking Damage: 35 / 50 / 90"
+                "Base Damage: 110 / 165  / 285",
+                "Stacking Damage: 30 / 45 / 75"
             ],
             "imageUrl": "../tft-assets/set8/skills/jax.png"
         }
@@ -1085,8 +1085,8 @@
             "type": "Active",
             "desc": "Passive: +50 Armor<br><br>Active: Rammus powers himself up and leaps to the largest group of nearby enemies, dealing magic damage, knocking them up for 1.25 seconds, and reducing their Attack Damage by 40% for 4 seconds.",
             "stats": [
-                "Armor: 50 / 75 / 125",
-                "Armor Ratio: 110% / 150% / 190%",
+                "Armor: 60 / 90 / 150",
+                "Armor Ratio: 130% / 175% / 225%",
                 "Bonus Damage: 30 / 50 / 80"
             ],
             "imageUrl": "../tft-assets/set8/skills/rammus.png"
@@ -1605,7 +1605,7 @@
             "desc": "Vayne fires a heavy bolt at her target, dealing true damage.",
             "stats": [
                 "Percent of Attack Damage: 120% / 120% / 130%",
-                "Bonus Physical Damage: 18 / 25 /40"
+                "Bonus Physical Damage: 18 / 25 / 40"
             ],
             "imageUrl": "../tft-assets/set8/skills/vayne.png"
         }
@@ -1634,8 +1634,8 @@
             "type": "Active",
             "desc": "Vel'koz Stun the enemy champion that has dealt the most damage this round for a few seconds, dealing magic damage to them.<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
-                "Damage: 275 / 415 / 675",
-                "Stun Duration: 1.5 / 2 / 2.5"
+                "Damage: 325 / 500 / 850",
+                "Stun Duration: 2 / 2.25 / 2.5"
             ],
             "imageUrl": "../tft-assets/set8/skills/velkoz.png"
         }

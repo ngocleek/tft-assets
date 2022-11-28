@@ -422,7 +422,7 @@
     {
         "key": "gifted",
         "name": "Gifted",
-        "desc": "Gain a Nilah. She gains 50 Ability Power. Combat Start: Your strongest Nilah grants her nearest ally a temporary copy of one of her normal items.",
+        "desc": "Gain a Nilah. She gains 40 Ability Power. Combat Start: Your strongest Nilah grants her nearest ally a temporary copy of one of her normal items.",
         "imageUrl": "../tft-assets/set8/augments/gifted.jpg",
         "tier": "silver"
     },
@@ -492,7 +492,7 @@
     {
         "key": "partnersInCrime",
         "name": "Partners in Crime",
-        "desc": "Gain a Viego. When you field him, your team gains 20% Omnivamp, tripled when 2 or less allies remain.",
+        "desc": "Gain a Viego. When you field him, your team gains 15% Omnivamp, tripled when 2 or less allies remain.",
         "imageUrl": "../tft-assets/set8/augments/partnersInCrime.jpg",
         "tier": "silver"
     },
@@ -891,7 +891,7 @@
     {
         "key": "featherweightsI",
         "name": "Featherweights I",
-        "desc": "Your 1 and 2 cost champions gain 25% Attack Speed and Move Speed.",
+        "desc": "Your 1 and 2 cost champions gain 20% Attack Speed and Move Speed.",
         "imageUrl": "../tft-assets/set8/augments/featherweightsI.png",
         "tier": "silver"
     },
@@ -919,7 +919,7 @@
     {
         "key": "ludenSEchoI",
         "name": "Luden's Echo I",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 40-130 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 40-100 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoI.png",
         "tier": "silver"
     },
@@ -1059,7 +1059,7 @@
     {
         "key": "aegisHeart",
         "name": "Aegis Heart",
-        "desc": "Gain an Aegis Emblem and a Vi.",
+        "desc": "Your team counts as having 1 additional Aegis. Gain a Vi.",
         "imageUrl": "../tft-assets/set8/augments/aegisHeart.png",
         "tier": "silver"
     },
@@ -1162,6 +1162,13 @@
         "tier": "silver"
     },
     {
+        "key": "aegisCrest",
+        "name": "Aegis Crest",
+        "desc": "Gain an Aegis Emblem and a Vi.",
+        "imageUrl": "../tft-assets/set8/augments/aegisCrest.png",
+        "tier": "gold"
+    },
+    {
         "key": "undergroundHeart",
         "name": "Underground Heart",
         "desc": "Your team counts as having 1 additional Underground. Gain a Vi.",
@@ -1255,7 +1262,7 @@
     {
         "key": "featherweightsII",
         "name": "Featherweights II",
-        "desc": "Your 1 and 2 cost champions gain 35% Attack Speed and Move Speed.",
+        "desc": "Your 1 and 2 cost champions gain 30% Attack Speed and Move Speed.",
         "imageUrl": "../tft-assets/set8/augments/featherweightsII.png",
         "tier": "gold"
     },
@@ -1527,7 +1534,7 @@
     },
     {
         "key": "sureshotCrest",
-        "name": "SureshotCrest",
+        "name": "Sureshot Crest",
         "desc": "Gain a Sureshot Emblem and a Sivir.",
         "imageUrl": "../tft-assets/set8/augments/sureshotCrest.png",
         "tier": "gold"
