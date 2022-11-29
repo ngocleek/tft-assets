@@ -80,8 +80,8 @@
             "description": "Brawlers gain additional maximum Health.",
             "stats": {
                 "2": "+20% maximum Health",
-                "4": "+30% maximum Health",
-                "6": "+50% maximum Health",
+                "4": "+35% maximum Health",
+                "6": "+60% maximum Health",
                 "8": "+90% maximum Health"
             }
         },
@@ -433,7 +433,7 @@
             "black": "../tft-assets/set8/traits/spellslingerBlack.svg"
         },
         "synergy": {
-            "description": "Every 5 seconds, the next attack instead fires a magic orb at a random target, which explodes for 50% Ability Power as magic damage.<br><br>Spellslingers gain:",
+            "description": "Every 5 seconds, the next attack instead fires a magic orb at a random target, which explodes for 50% Ability Power as magic damage.",
             "stats": {
                 "2": "+25 Ability Power",
                 "4": "+60 Ability Power",

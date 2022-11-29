@@ -212,7 +212,7 @@
     {
         "key": "flamingRicochet",
         "name": "Flaming Ricochet",
-        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 80% damage.",
+        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 60% damage.",
         "imageUrl": "../tft-assets/set8/augments/flamingRicochet.jpg",
         "tier": "silver"
     },
@@ -520,7 +520,7 @@
     {
         "key": "triumphantReturn",
         "name": "Triumphant Return",
-        "desc": "Gain a Riven. Combat Start: She grants herself and adjacent allies a shield for 10 seconds equal to 35% of their maximum Health.",
+        "desc": "Gain a Riven. Combat Start: She grants herself and adjacent allies a shield for 10 seconds equal to 40% of their maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/triumphantReturn.jpg",
         "tier": "silver"
     },
@@ -702,7 +702,7 @@
     {
         "key": "intoTheNight",
         "name": "Into the Night",
-        "desc": "Gain an Edge of Night and a Vayne. When you field her, allies equipped with Edge of Night gain 40% Attack Speed.",
+        "desc": "Gain an Edge of Night and a Vayne. When you field her, allies equipped with Edge of Night gain 50% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/intoTheNight.jpg",
         "tier": "silver"
     },
@@ -1234,7 +1234,7 @@
     {
         "key": "cyberneticUplinkII",
         "name": "Cybernetic Uplink II",
-        "desc": "Your champions holding an item gain 150 Health and restore 3 Mana per second.",
+        "desc": "Your champions holding an item gain 120 Health and restore 2.5 Mana per second.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticUplinkII.png",
         "tier": "gold"
     },
