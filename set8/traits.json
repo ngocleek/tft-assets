@@ -10,7 +10,7 @@
         "synergy": {
             "description": "This trait is active only when you have exactly 1 or 4 unique Aces.",
             "stats": {
-                "1": "Execute enemies under 10% Health",
+                "1": "Execute enemies under 12% Health",
                 "4": "Execute enemies under 30% Health"
             }
         },
@@ -80,9 +80,9 @@
             "description": "Brawlers gain additional maximum Health.",
             "stats": {
                 "2": "+20% maximum Health",
-                "4": "+35% maximum Health",
-                "6": "+60% maximum Health",
-                "8": "+90% maximum Health"
+                "4": "+40% maximum Health",
+                "6": "+70% maximum Health",
+                "8": "+111% maximum Health"
             }
         },
         "isStrictStack": false,
@@ -119,7 +119,7 @@
         "synergy": {
             "description": "",
             "stats": {
-                "1": "Combat starts: Lie dormant while absorbing the souls of allies that die. Gain 20 Ability Power for each soul.<br><br>Once per combat at 60% Health (or when your team has died), come alive and fight."
+                "1": "Combat starts: Lie dormant while absorbing the souls of allies that die. Gain 40 Ability Power for each soul.<br><br>Once per combat at 60% Health (or when your team has died), come alive and fight."
             }
         },
         "isStrictStack": false,
@@ -142,8 +142,8 @@
             "description": "Innate: Taunt nearby enemies after the start of combat.<br><br>Your team gains bonus Armor, and Defenders gain more.<br><br>Taunt: enemies that are able and in range must attack the taunter",
             "stats": {
                 "2": "+30 Armor, +60 for Defenders",
-                "4": "+75 Armor, +150 for Defenders",
-                "6": "+125 Armor, +250 for Defenders"
+                "4": "+80 Armor, +150 for Defenders",
+                "6": "+200 Armor, +250 for Defenders"
             }
         },
         "isStrictStack": false,
@@ -237,9 +237,9 @@
         "synergy": {
             "description": "Hackers gain Omnivamp and summon a H4ckerr!m. Any unit placed in the rider hex will be sent to the enemy backline and is untargetable for the first 2 seconds of combat.<br><br>Omnivamp: heal for a percentage of damage dealt",
             "stats": {
-                "2": "20% Omnivamp",
-                "3": "45% Omnivamp",
-                "4": "75% Omnivamp"
+                "2": "15% Omnivamp",
+                "3": "40% Omnivamp",
+                "4": "70% Omnivamp"
             }
         },
         "isStrictStack": false,
@@ -272,8 +272,8 @@
             "description": "When Heart units cast their Ability, your team gains stacking Ability Power for the rest of combat.",
             "stats": {
                 "2": "+4 Ability Power",
-                "4": "+8 Ability Power",
-                "6": "+12 Ability Power"
+                "4": "+6 Ability Power",
+                "6": "+9 Ability Power"
             }
         },
         "isStrictStack": false,
@@ -306,9 +306,9 @@
             "description": "Your team heals a percentage of their maximum Health every 2 seconds, and Mascots heal double the amount.<br><br>\r\nWhen Mascots die, they retreat to the sidelines to cheer on your team. Your team's healing increased by 1% for each cheering Mascot.",
             "stats": {
                 "2": "1.5% healing",
-                "4": "3.5% healing",
-                "6": "6% healing",
-                "8": "10% healing"
+                "4": "3.25% healing",
+                "6": "6.5% healing",
+                "8": "12% healing"
             }
         },
         "isStrictStack": false,
@@ -345,7 +345,7 @@
         "synergy": {
             "description": "",
             "stats": {
-                "2": "Once per combat at 50% Health, spawn a target dummy, move to a safe location, and restore 500 Health.",
+                "2": "Once per combat at 50% Health, spawn a target dummy, move to a safe location, and restore 350 Health.",
                 "3": "And, Prankster dummies stun the enemy that killed them for 1.5 seconds."
             }
         },
@@ -407,8 +407,8 @@
         "synergy": {
             "description": "Renegade units deal bonus damage, and the last sone standing deals more.",
             "stats": {
-                "3": "30% bonus damage, 30% for last alive",
-                "6": "60% bonus damage, 60% for last alive"
+                "3": "40% bonus damage, 20% for last alive",
+                "6": "80% bonus damage, 40% for last alive"
             }
         },
         "isStrictStack": false,
@@ -475,8 +475,8 @@
         "synergy": {
             "description": "Combat start: gain bonus Attack Damage now, and every 4 seconds.",
             "stats": {
-                "2": "+12% Attack Damage",
-                "4": "+25% Attack Damage"
+                "2": "+10% Attack Damage",
+                "4": "+20% Attack Damage"
             }
         },
         "isStrictStack": false,
@@ -505,7 +505,7 @@
             "stats": {
                 "2": "[Initialize ADMIN cause and effect]",
                 "4": "[Add another effect to the program]",
-                "6": "Boost previous tier by 160%"
+                "6": "Boost previous tier by 180%"
             }
         },
         "isStrictStack": false,
@@ -594,7 +594,7 @@
             "description": "If there is a Civilian alive, your team is inspired to protect them by gaining Mana every 2 seconds.",
             "stats": {
                 "1": "+2 Mana",
-                "2": "+5 Mana",
+                "2": "+4 Mana",
                 "3": "+10 Mana"
             }
         },
@@ -625,7 +625,7 @@
             "black": "../tft-assets/set8/traits/gadgeteenBlack.svg"
         },
         "synergy": {
-            "description": "Gadgeteens create random modified weapon which with powerful effects. Any champion can equip the items, but they fall apart after 1 player combat.<br><br>Gadgeteens make new items once the old ones have been used.",
+            "description": "Gadgeteens create random modified weapon which with powerful effects. Any champion can equip the items, but they fall apart after 1 player combat.",
             "stats": {
                 "3": "Create 1 item(s) every player combat",
                 "5": "Create 2 item(s) every player combat"
@@ -718,7 +718,7 @@
             "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, they become invulnerable for 1 seconds as they defend the city with their last breath.",
             "stats": {
                 "2": "20% - 40% Attack Speed.",
-                "4": "40% - 80% Attack Speed.",
+                "4": "50% - 100% Attack Speed.",
                 "6": "100% - 200% Attack Speed.",
                 "8": "200% - 400% Attack Speed."
             }
@@ -839,7 +839,7 @@
             "black": "../tft-assets/set8/traits/undergroundBlack.svg"
         },
         "synergy": {
-            "description": "The Underground must sneak through the sewers and crack 9 locks to open a vault. When the vault opens, you may choose to take the loot now, or attempt another heist for even better rewards.",
+            "description": "The Underground must sneak through the sewers and crack 10 locks to open a vault. When the vault opens, you may choose to take the loot now, or attempt another heist for even better rewards.",
             "stats": {
                 "3": "Crack 1 vault lock after a player combat win, and 3 after a player combat loss",
                 "5": "Crack 2 vault lock after a player combat win, and 5 after a player combat loss"

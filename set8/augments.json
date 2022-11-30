@@ -23,7 +23,7 @@
     {
         "key": "burningSpirit",
         "name": "Burning Spirit",
-        "desc": "Gain an Annie. When you field her, your team gains 12 Ability Power, tripled while they are below 50% Health.",
+        "desc": "Gain an Annie. When you field her, your team gains 15 Ability Power, tripled while they are below 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/burningSpirit.jpg",
         "tier": "silver"
     },
@@ -44,7 +44,7 @@
     {
         "key": "laserFocus",
         "name": "Laser Focus",
-        "desc": "Gain an Ashe. She gains 20% Attack Speed, doubled while her Ability is active.",
+        "desc": "Gain an Ashe. She gains 40% Attack Speed, doubled while her Ability is active.",
         "imageUrl": "../tft-assets/set8/augments/laserFocus.jpg",
         "tier": "silver"
     },
@@ -58,7 +58,7 @@
     {
         "key": "extinctionEvent",
         "name": "Extinction Event",
-        "desc": "Gain an Aurelion Sol. He gains 40 Ability Power and his Ability's meteors are larger.",
+        "desc": "Gain an Aurelion Sol. He gains 10 Ability Power and his Ability's meteors are larger.",
         "imageUrl": "../tft-assets/set8/augments/extinctionEvent.jpg",
         "tier": "silver"
     },
@@ -72,7 +72,7 @@
     {
         "key": "backForBlood",
         "name": "Back for Blood",
-        "desc": "Gain a Bel'Veth. She gains 20% Omnivamp, tripled while under 50% Health.",
+        "desc": "Gain a Bel'Veth. She gains 25% Omnivamp, tripled while under 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/backForBlood.jpg",
         "tier": "silver"
     },
@@ -93,21 +93,21 @@
     {
         "key": "rocketGrab",
         "name": "Rocket Grab",
-        "desc": "Gain a Blitzcrank. Gain a 200 Health. Combat Start: He pulls the farthest enemy and stuns them for 1.5 seconds.",
+        "desc": "Gain a Blitzcrank. Gain a 300 Health. Combat Start: He pulls the farthest enemy and stuns them for 1.5 seconds.",
         "imageUrl": "../tft-assets/set8/augments/rocketGrab.jpg",
         "tier": "silver"
     },
     {
         "key": "adaptiveDefensives",
         "name": "Adaptive Defensives",
-        "desc": "Gain a Camille. She gains 30% Attack Damage. The first time she drops below 50% Health, she gains a shield equal to 600% of her Attack Damage for 3 seconds.",
+        "desc": "Gain a Camille. She gains 35% Attack Damage. The first time she drops below 50% Health, she gains a shield equal to 600% of her Attack Damage .",
         "imageUrl": "../tft-assets/set8/augments/adaptiveDefensives.jpg",
         "tier": "silver"
     },
     {
         "key": "hextechRetribution",
         "name": "Hextech Retribution",
-        "desc": "Gain a Camille. When you field her, your team deals 15% bonus damage, increasing by an additional 5% whenever an ally dies.",
+        "desc": "Gain a Camille. When you field her, your team deals 10% bonus damage, increasing by an additional 5% whenever an ally dies.",
         "imageUrl": "../tft-assets/set8/augments/hextechRetribution.jpg",
         "tier": "silver"
     },
@@ -128,7 +128,7 @@
     {
         "key": "leagueOfDraven",
         "name": "League of Draven",
-        "desc": "Gain a Draven. He gains 25% Attack Damage. When he kills an enemy, there is a 30% chance to gain 1 gold.",
+        "desc": "Gain a Draven. He gains 30% Attack Damage. When he kills an enemy, there is a 30% chance to gain 1 gold.",
         "imageUrl": "../tft-assets/set8/augments/leagueOfDraven.jpg",
         "tier": "silver"
     },
@@ -142,7 +142,7 @@
     {
         "key": "resonance",
         "name": "Resonance",
-        "desc": "Gain an Ekko. His ability hits all enemies within 2 hexes and deals additional damage equal to 200% of his Magic Resistance.",
+        "desc": "Gain an Ekko. His ability hits all enemies within 2 hexes and deals additional damage equal to 300% of his Magic Resistance.",
         "imageUrl": "../tft-assets/set8/augments/resonance.jpg",
         "tier": "silver"
     },
@@ -156,7 +156,7 @@
     {
         "key": "risingSpellForce",
         "name": "Rising Spell Force",
-        "desc": "Gain an Ezreal. When he casts his Ability, he gains 15% Attack Speed and 15 Ability Power for the rest of combat (this can stack).",
+        "desc": "Gain an Ezreal. When he casts his Ability, he gains 20% Attack Speed and 20 Ability Power for the rest of combat (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/risingSpellForce.jpg",
         "tier": "silver"
     },
@@ -184,7 +184,7 @@
     {
         "key": "frontlineFencing",
         "name": "Frontline Fencing",
-        "desc": "Gain a Fiora. While her Ability is active, she gains 60 Armor and Magic Resist.",
+        "desc": "Gain a Fiora. While her Ability is active, she gains 150 Armor and Magic Resist.",
         "imageUrl": "../tft-assets/set8/augments/frontlineFencing.jpg",
         "tier": "silver"
     },
@@ -261,14 +261,14 @@
     {
         "key": "everyoneGoesBOOM",
         "name": "Everyone Goes BOOM!",
-        "desc": "Gain a Jinx. When you field her, your team gains 10% Attack Speed, tripled after the first enemy dies each combat.",
+        "desc": "Gain a Jinx. When you field her, your team gains 9% Attack Speed, tripled after the first enemy dies each combat.",
         "imageUrl": "../tft-assets/set8/augments/everyoneGoesBOOM.jpg",
         "tier": "silver"
     },
     {
         "key": "multiShot",
         "name": "Multi-Shot",
-        "desc": "Gain a Kai'Sa. Every 2 attacks, she fires a bonus attack at a nearby enemy.",
+        "desc": "Gain a Kai'Sa. Every 3 attacks, she fires a bonus attack at a nearby enemy.",
         "imageUrl": "../tft-assets/set8/augments/multiShot.jpg",
         "tier": "silver"
     },
@@ -310,21 +310,21 @@
     {
         "key": "flurry",
         "name": "Flurry",
-        "desc": "Gain a Lee Sin. He gains 50% Attack Speed, tripled for 3 seconds after casting his Ability.",
+        "desc": "Gain a Lee Sin. He gains 60% Attack Speed, tripled for 5 seconds after casting his Ability.",
         "imageUrl": "../tft-assets/set8/augments/flurry.jpg",
         "tier": "silver"
     },
     {
         "key": "invigorate",
         "name": "Invigorate",
-        "desc": "Gain a Lee Sin. When your field him, your team gains 15% Attack Speed, doubled for 4 seconds after being shielded.",
+        "desc": "Gain a Lee Sin. When your field him, your team gains 15% Attack Speed, doubled for 3 seconds after being shielded.",
         "imageUrl": "../tft-assets/set8/augments/invigorate.jpg",
         "tier": "silver"
     },
     {
         "key": "perfectedSolarFlare",
         "name": "Perfected Solar Flare",
-        "desc": "Gain a Leona. She gains 30 Ability Power and her maximum Mana is reduced by 20.",
+        "desc": "Gain a Leona. She gains 30 Ability Power and her maximum Mana is reduced by 30.",
         "imageUrl": "../tft-assets/set8/augments/perfectedSolarFlare.jpg",
         "tier": "silver"
     },
@@ -366,7 +366,7 @@
     {
         "key": "rockSolid",
         "name": "Rock Solid",
-        "desc": "Gain a Malphite. He gains Ability Power equal to 50% of his Armor and his Ability's Armor duration is increased by 4 seconds.",
+        "desc": "Gain a Malphite. He gains Ability Power equal to 75% of his Armor and his Ability's Armor duration is increased by 4 seconds.",
         "imageUrl": "../tft-assets/set8/augments/rockSolid.jpg",
         "tier": "silver"
     },
@@ -380,14 +380,14 @@
     {
         "key": "bunnyMercenary",
         "name": "Bunny Mercenary",
-        "desc": "Gain a Miss Fortune. Her Ability covers a wider cone and she gains a 300 Health shield while channeling.",
+        "desc": "Gain a Miss Fortune. Her Ability covers a wider cone and she gains a 250 Health shield while channeling.",
         "imageUrl": "../tft-assets/set8/augments/bunnyMercenary.jpg",
         "tier": "silver"
     },
     {
         "key": "makeItRain",
         "name": "Make It Rain",
-        "desc": "Gain a Miss Fortune. After every 3 player combats fielded, she grants 18 gold.",
+        "desc": "Gain a Miss Fortune. After every 3 player combats fielded, she grants 20 gold.",
         "imageUrl": "../tft-assets/set8/augments/makeItRain.jpg",
         "tier": "silver"
     },
@@ -415,7 +415,7 @@
     {
         "key": "soulEater",
         "name": "Soul Eater",
-        "desc": "Gain a Nasus. When you field him, he and his allies heal 200 Health on takedowns.",
+        "desc": "Gain a Nasus. When you field him, he and his allies heal 300 Health on takedowns.",
         "imageUrl": "../tft-assets/set8/augments/soulEater.jpg",
         "tier": "silver"
     },
@@ -471,7 +471,7 @@
     {
         "key": "spikedShell",
         "name": "Spiked Shell",
-        "desc": "Gain a Rammus. When struck by an attack, he deals magic damage equal to 100% of his Armor to all nearby enemies (once every 2.5 seconds).",
+        "desc": "Gain a Rammus. When struck by an attack, he deals magic damage equal to 180% of his Armor to all nearby enemies (once every 2.5 seconds).",
         "imageUrl": "../tft-assets/set8/augments/spikedShell.jpg",
         "tier": "silver"
     },
@@ -499,14 +499,14 @@
     {
         "key": "reignOfAnger",
         "name": "Reign of Anger",
-        "desc": "Gain a Renekton. He gains 30% Attack Speed and an additional 2% per 100 missing Health.",
+        "desc": "Gain a Renekton. He gains 40% Attack Speed and an additional 2% per 100 missing Health.",
         "imageUrl": "../tft-assets/set8/augments/reignOfAnger.jpg",
         "tier": "silver"
     },
     {
         "key": "cullTheMeek",
         "name": "Cull the Meek",
-        "desc": "Gain a Renekton. When you field him, your team deals 12% bonus damage, tripled against enemies below 50% Health.",
+        "desc": "Gain a Renekton. When you field him, your team deals 10% bonus damage, tripled against enemies below 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/cullTheMeek.jpg",
         "tier": "silver"
     },
@@ -527,14 +527,14 @@
     {
         "key": "styleAndFlair",
         "name": "Style and Flair",
-        "desc": "Gain a Samira. She gains 25% Attack Damage. When she scores a takedown, she restores 50% of her maximum Mana.",
+        "desc": "Gain a Samira. She gains 30% Attack Damage. When she scores a takedown, she restores 30% of her maximum Mana.",
         "imageUrl": "../tft-assets/set8/augments/styleAndFlair.jpg",
         "tier": "silver"
     },
     {
         "key": "daredevil",
         "name": "Daredevil",
-        "desc": "Gain a Samira. For every 10 Tactician Health missing, she grants your team 5% Attack Speed.",
+        "desc": "Gain a Samira. For every 10 Tactician Health missing, she grants your team 4.5% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/daredevil.jpg",
         "tier": "silver"
     },
@@ -569,7 +569,7 @@
     {
         "key": "punchProtocol",
         "name": "Punch Protocol",
-        "desc": "Gain a Sett. He gains 20 Armor and Magic Resist. His Ability knocks back the first enemy struck, destroying them if knocked off the battlefield.",
+        "desc": "Gain a Sett. He gains 40 Armor and Magic Resist. His Ability knocks back the first enemy struck, destroying them if knocked off the battlefield.",
         "imageUrl": "../tft-assets/set8/augments/punchProtocol.jpg",
         "tier": "silver"
     },
@@ -632,7 +632,7 @@
     {
         "key": "petriciteChains",
         "name": "Petricite Chains",
-        "desc": "Gain a Sylas. When you field him, your team gains 15 starting Mana and his Ability increases enemies' maximum Mana by 35%.",
+        "desc": "Gain a Sylas. When you field him, your team gains 30 starting Mana and his Ability increases enemies' maximum Mana by 35%.",
         "imageUrl": "../tft-assets/set8/augments/petriciteChains.jpg",
         "tier": "silver"
     },
@@ -653,7 +653,7 @@
     {
         "key": "stoneweaver",
         "name": "Stoneweaver",
-        "desc": "Gain a Taliyah. She gains 30 Ability Power and her Ability deals 40% more damage to enemies above 1800 maximum Health.",
+        "desc": "Gain a Taliyah. She gains 25 Ability Power and her Ability deals 30% more damage to enemies above 1600 maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/stoneweaver.jpg",
         "tier": "silver"
     },
@@ -702,14 +702,14 @@
     {
         "key": "intoTheNight",
         "name": "Into the Night",
-        "desc": "Gain an Edge of Night and a Vayne. When you field her, allies equipped with Edge of Night gain 50% Attack Speed.",
+        "desc": "Gain an Edge of Night and a Vayne. When you field her, allies equipped with Edge of Night gain 35% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/intoTheNight.jpg",
         "tier": "silver"
     },
     {
         "key": "frostburn",
         "name": "Frostburn",
-        "desc": "Gain a Vel'Koz. His Ability deals an additional 200% of its damage over the next 30 seconds (this can stack).",
+        "desc": "Gain a Vel'Koz. His Ability deals an additional 200% of its damage over the next 15 seconds (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/frostburn.jpg",
         "tier": "silver"
     },
@@ -751,14 +751,14 @@
     {
         "key": "reEnergize",
         "name": "Re-Energize",
-        "desc": "Gain a Wukong. When you field him, your team restores 50% of their Mana after their first cast each combat.",
+        "desc": "Gain a Wukong. When you field him, your team restores 75% of their Mana after their first cast each combat.",
         "imageUrl": "../tft-assets/set8/augments/reEnergize.jpg",
         "tier": "silver"
     },
     {
         "key": "siphoningWinds",
         "name": "Siphoning Winds",
-        "desc": "Gain a Yasuo. He gains 40% Omnivamp.",
+        "desc": "Gain a Yasuo. He gains 66% Omnivamp.",
         "imageUrl": "../tft-assets/set8/augments/siphoningWinds.jpg",
         "tier": "silver"
     },
@@ -772,7 +772,7 @@
     {
         "key": "predatoryPrecision",
         "name": "Predatory Precision",
-        "desc": "Gain a Yuumi. She gains 50 Ability Power, 75% Critical Strike Chance and her Ability can critically strike.",
+        "desc": "Gain a Yuumi. She gains 30 Ability Power, 75% Critical Strike Chance and her Ability can critically strike.",
         "imageUrl": "../tft-assets/set8/augments/predatoryPrecision.jpg",
         "tier": "silver"
     },
@@ -800,7 +800,7 @@
     {
         "key": "shadowJutsu",
         "name": "Shadow Jutsu",
-        "desc": "Gain a Zed. He gains 12% Attack Damage. When he kills an enemy, he gains 12% of their Attack Damage for the rest of combat.",
+        "desc": "Gain a Zed. He gains 15% Attack Damage. When he kills an enemy, he gains 15% of their Attack Damage for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/shadowJutsu.jpg",
         "tier": "silver"
     },
@@ -814,7 +814,7 @@
     {
         "key": "doubleBubble",
         "name": "Double Bubble",
-        "desc": "Gain a Zoe. Her Ability launches a second bubble at a different target, dealing 100% damage.",
+        "desc": "Gain a Zoe. Her Ability launches a second bubble at a different target, dealing 60% damage.",
         "imageUrl": "../tft-assets/set8/augments/doubleBubble.jpg",
         "tier": "silver"
     },
@@ -849,21 +849,21 @@
     {
         "key": "cyberneticImplantsI",
         "name": "Cybernetic Implants I",
-        "desc": "Your champions holding an item gain 100 Health and 8 Attack Damage.",
+        "desc": "Your champions holding an item gain 80 Health and 8 Attack Damage.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticImplantsI.png",
         "tier": "silver"
     },
     {
         "key": "cyberneticShellI",
         "name": "Cybernetic Shell I",
-        "desc": "Your champions holding an item gain 100 Health and 20 Armor.",
+        "desc": "Your champions holding an item gain 80 Health and 20 Armor.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticShellI.png",
         "tier": "silver"
     },
     {
         "key": "cyberneticUplinkI",
         "name": "Cybernetic Uplink I",
-        "desc": "Your champions holding an item gain 100 Health and restore 2 Mana per second.",
+        "desc": "Your champions holding an item gain 80 Health and restore 2 Mana per second.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticUplinkI.png",
         "tier": "silver"
     },
@@ -975,14 +975,14 @@
     {
         "key": "builtDifferentI",
         "name": "Built Different I",
-        "desc": "Your units with no Traits active gain 250-400 Health and 30-75% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 200-300 Health and 25-55% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/set8/augments/builtDifferentI.png",
         "tier": "silver"
     },
     {
         "key": "triForceI",
         "name": "TriForce I",
-        "desc": "Your Tier 3 champions gain 133 Health, 13 starting Mana, and 13% Attack Speed.",
+        "desc": "Your Tier 3 champions gain 75 Health, 10 starting Mana, and 10% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/triForceI.png",
         "tier": "silver"
     },
@@ -1017,7 +1017,7 @@
     {
         "key": "bigFriendI",
         "name": "Big Friend I",
-        "desc": "Your units that start combat next to a unit with over 2000 Health take 10% less damage for the rest of combat.",
+        "desc": "Your units that start combat next to a unit with over 1650 Health take 9% less damage for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/bigFriendI.png",
         "tier": "silver"
     },
@@ -1220,14 +1220,14 @@
     {
         "key": "cyberneticImplantsII",
         "name": "Cybernetic Implants II",
-        "desc": "Your champions holding an item gain 150 Health and 15 Attack Damage.",
+        "desc": "Your champions holding an item gain 120 Health and 15 Attack Damage.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticImplantsII.png",
         "tier": "gold"
     },
     {
         "key": "cyberneticShellII",
         "name": "Cybernetic Shell II",
-        "desc": "Your champions holding an item gain 150 Health and 30 Armor.",
+        "desc": "Your champions holding an item gain 120 Health and 30 Armor.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticShellII.png",
         "tier": "gold"
     },
@@ -1395,14 +1395,14 @@
     {
         "key": "builtDifferentII",
         "name": "Built Different II",
-        "desc": "Your units with no Traits active gain 300-525 Health and 50-80% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 250-350 Health and 40-75% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/set8/augments/builtDifferentII.png",
         "tier": "gold"
     },
     {
         "key": "triForceII",
         "name": "TriForce II",
-        "desc": "Your Tier 3 champions gain 133 Health, 23 starting Mana, and 23% Attack Speed.",
+        "desc": "Your Tier 3 champions gain 125 Health, 15 starting Mana, and 15% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/triForceII.png",
         "tier": "gold"
     },
@@ -1430,7 +1430,7 @@
     {
         "key": "bigFriendII",
         "name": "Big Friend II",
-        "desc": "Your units that start combat next to a unit with over 1650 Health take 18% less damage for the rest of combat.",
+        "desc": "Your units that start combat next to a unit with over 1650 Health take 15% less damage for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/bigFriendII.png",
         "tier": "gold"
     },
@@ -1465,7 +1465,7 @@
     {
         "key": "lastStand",
         "name": "Last Stand",
-        "desc": "The first time you would die, instead drop to 1 Health. After this effect triggers, your units gain 200 Health, 20 Armor and Magic Resist, and 20% Omnivamp.",
+        "desc": "The first time you would die, instead drop to 1 Health. After this effect triggers, your units gain 180 Health, 18 Armor and Magic Resist, and 18% Omnivamp.",
         "imageUrl": "../tft-assets/set8/augments/lastStand.png",
         "tier": "gold"
     },
@@ -1486,7 +1486,7 @@
     {
         "key": "scopedWeaponsI",
         "name": "Scoped Weapons I",
-        "desc": "Your units that start combat in the back 2 rows gain +1 Attack Range and 15% Attack Speed.",
+        "desc": "Your units that start combat in the back 2 rows gain +2 Attack Range and 10% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/scopedWeaponsI.png",
         "tier": "gold"
     },
@@ -1640,7 +1640,7 @@
     {
         "key": "threatLevelMaximum",
         "name": "Threat Level: Maximum",
-        "desc": "At the start of combat, your Threats gain 100 Maximum Health for every Threat champion on your board.",
+        "desc": "At the start of combat, your Threats gain 75 Maximum Health for every Threat champion on your board.",
         "imageUrl": "../tft-assets/set8/augments/threatLevelMaximum.png",
         "tier": "gold"
     },
@@ -1752,7 +1752,7 @@
     {
         "key": "highRoller",
         "name": "High Roller",
-        "desc": "Gain 3 Loaded Dice and 8 gold.",
+        "desc": "Gain 3 Loaded Dice and 6 gold.",
         "imageUrl": "../tft-assets/set8/augments/highRoller.png",
         "tier": "prismatic"
     },
@@ -1815,14 +1815,14 @@
     {
         "key": "builtDifferentIII",
         "name": "Built Different III",
-        "desc": "Your units with no Traits active gain 350-650 Health and 50-95% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 300-450 Health and 50-80% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/set8/augments/builtDifferentIII.png",
         "tier": "prismatic"
     },
     {
         "key": "triForceIII",
         "name": "Tri Force III",
-        "desc": "Your Tier 3 champions gain 333 Health, 33 starting Mana, and 33% Attack Speed.",
+        "desc": "Your Tier 3 champions gain 200 Health, 25 starting Mana, and 25% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/triForceIII.png",
         "tier": "prismatic"
     },
@@ -1836,7 +1836,7 @@
     {
         "key": "verdantVeil",
         "name": "Verdant Veil",
-        "desc": "Your units are immune to crowd control effects for the first 20 seconds of combat.",
+        "desc": "Your units are immune to crowd control effects for the first 20 seconds of combat. Gains 15% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/verdantVeil.png",
         "tier": "prismatic"
     },
@@ -1892,7 +1892,7 @@
     {
         "key": "luckyGloves",
         "name": "Lucky Gloves",
-        "desc": "Thief's Gloves will always give your champions items. Gain 3 Sparring Gloves.",
+        "desc": "Thief's Gloves will always give your champions items. Gain 2 Sparring Gloves.",
         "imageUrl": "../tft-assets/set8/augments/luckyGloves.png",
         "tier": "prismatic"
     },
@@ -1908,13 +1908,6 @@
         "name": "Cruel Pact",
         "desc": "Buying XP costs 6 Health instead of gold. But Heal 3 Health after a round.",
         "imageUrl": "../tft-assets/set8/augments/cruelPact.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "scopedWeaponsII",
-        "name": "Scoped Weapons II",
-        "desc": "Your units that start combat in the back 2 rows gain infinite Attack Range.",
-        "imageUrl": "../tft-assets/set8/augments/scopedWeaponsII.png",
         "tier": "prismatic"
     },
     {
