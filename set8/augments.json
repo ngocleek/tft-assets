@@ -9,7 +9,7 @@
     {
         "key": "behemoth",
         "name": "Behemoth",
-        "desc": "Gain an Alistar. He gains 500 bonus Health and his Ability deals bonus damage equal to 30% of his maximum Health.",
+        "desc": "Gain an Alistar. He gains 300 bonus Health and his Ability deals bonus damage equal to 30% of his maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/behemoth.jpg",
         "tier": "silver"
     },
@@ -128,7 +128,7 @@
     {
         "key": "leagueOfDraven",
         "name": "League of Draven",
-        "desc": "Gain a Draven. He gains 30% Attack Damage. When he kills an enemy, there is a 30% chance to gain 1 gold.",
+        "desc": "Gain a Draven. He gains 35% Attack Damage. When he kills an enemy, there is a 35% chance to gain 1 gold.",
         "imageUrl": "../tft-assets/set8/augments/leagueOfDraven.jpg",
         "tier": "silver"
     },
@@ -520,7 +520,7 @@
     {
         "key": "triumphantReturn",
         "name": "Triumphant Return",
-        "desc": "Gain a Riven. Combat Start: She grants herself and adjacent allies a shield for 10 seconds equal to 40% of their maximum Health.",
+        "desc": "Gain a Riven. Combat Start: She grants herself and adjacent allies a shield for 15 seconds equal to 40% of their maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/triumphantReturn.jpg",
         "tier": "silver"
     },
@@ -1045,7 +1045,7 @@
     {
         "key": "preparationI",
         "name": "Preparation I",
-        "desc": "Champions on your bench permanently gain 25, 3 Attack Damage and Ability Power every round, up to 4 times.",
+        "desc": "Champions on your bench permanently gain 25, 3% Attack Damage and 3 Ability Power every round, up to 4 times.",
         "imageUrl": "../tft-assets/set8/augments/preparationI.png",
         "tier": "silver"
     },
@@ -1479,7 +1479,7 @@
     {
         "key": "preparationII",
         "name": "Preparation II",
-        "desc": "Champions on your bench permanently gain 35, 4 Attack Damage and Ability Power every round, up to 4 times.",
+        "desc": "Champions on your bench permanently gain 35, @ADAP@ Attack Damage and Ability Power every round, up to 4 times.",
         "imageUrl": "../tft-assets/set8/augments/preparationII.png",
         "tier": "gold"
     },
@@ -1724,7 +1724,7 @@
     {
         "key": "featherweightsIII",
         "name": "Featherweights III",
-        "desc": "Your 1 and 2 cost units gain 60% Attack Speed and Move Speed.",
+        "desc": "Your 1 and 2 cost units gain 50% Attack Speed and Move Speed.",
         "imageUrl": "../tft-assets/set8/augments/featherweightsIII.png",
         "tier": "prismatic"
     },
@@ -1899,7 +1899,7 @@
     {
         "key": "preparationIII",
         "name": "Preparation III",
-        "desc": "Champions on your bench permanently gain 50, 7 Attack Damage and Ability Power every round, up to 4 times.",
+        "desc": "Champions on your bench permanently gain 50, 7% Attack Damage and 7 Ability Power every round, up to 4 times.",
         "imageUrl": "../tft-assets/set8/augments/preparationIII.png",
         "tier": "prismatic"
     },

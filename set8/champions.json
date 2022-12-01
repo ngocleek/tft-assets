@@ -78,10 +78,10 @@
         ],
         "stats": {
             "armor": 30,
-            "attack_damage": 80,
+            "attack_damage": 75,
             "attack_range_slot": 4,
             "attack_speed": 0.9,
-            "dps": 72,
+            "dps": 68,
             "health": 800,
             "magical_resistance": 30,
             "starting_mana": 40
@@ -160,7 +160,7 @@
             "desc": "Aurelion Sol calls down meteors on random enemies that explode on impact. Each meteor deals magic damage and applies a burn for 10 seconds, dealing % of the target's maximum Health as true damage and reducing incoming healing by 33%.",
             "stats": [
                 "Meteors: 3 / 3 / 5",
-                "Damage: 180 / 270 / 550",
+                "Damage: 170 / 255 / 500",
                 "% Health as Damage: 10 / 10 / 10"
             ],
             "imageUrl": "../tft-assets/set8/skills/aurelionSol.png"
@@ -177,10 +177,10 @@
         "classes": [],
         "stats": {
             "armor": 50,
-            "attack_damage": 90,
+            "attack_damage": 85,
             "attack_range_slot": 2,
             "attack_speed": 0.9,
-            "dps": 81,
+            "dps": 77,
             "health": 1000,
             "magical_resistance": 50,
             "starting_mana": 0
@@ -383,7 +383,7 @@
             "desc": "Ezreal fires an orb of physical sabotage at his target, Chilling them for 4 seconds. Then he fires another shot, which deals magic damage to the target and nearby enemies.<br><br>Chill: reduce Attack Speed",
             "stats": [
                 "Attack Speed Reduction: 30 / 40 / 50",
-                "Damage: 250 / 375 / 600"
+                "Damage: 215 / 320 / 510"
             ],
             "imageUrl": "../tft-assets/set8/skills/ezreal.png"
         }
@@ -638,7 +638,7 @@
             "type": "Active",
             "desc": "Passive: Kai'Sa's attacks apply Plasma. Her next attack against a target with 2 stacks of Plasma deal magic damage.<br><br>Active: Kai'Sa gains Attack Speed for 10 seconds. This bonus stacks!",
             "stats": [
-                "Attack Speed %: 45% / 60% / 75%",
+                "Attack Speed %: 40% / 50% / 65%",
                 "Damage: 150 / 225 / 385"
             ],
             "imageUrl": "../tft-assets/set8/skills/kaiSa.png"
@@ -703,7 +703,7 @@
             "type": "Active",
             "desc": "Leblanc fires sigils at her target each dealing magic damage. If the target dies, she completes casting the remaining sigils at the nearest enemy but adds 1 more sigil.",
             "stats": [
-                "Damage: 75 / 95 / 125",
+                "Damage: 80 / 100 / 130",
                 "Number of Sigils: 5 / 6 / 8"
             ],
             "imageUrl": "../tft-assets/set8/skills/leBlanc.png"
@@ -1311,7 +1311,7 @@
             "type": "Active",
             "desc": "Sett gains a Health shield and becomes immune to crowd control for 2.5 seconds. He charges up while the shield is active; when the shield breaks or expires, he deals physical in a cone to all enemies caught within the blast. The blast damage increases depending on how long Sett was charged up.",
             "stats": [
-                "Shield Health: 400 / 550 / 1500",
+                "Shield Health: 325 / 425 / 1500",
                 "Min Attack Damage %: 140% / 150% / 300%",
                 "Max Attack Damage %: 240% / 250% / 400%"
             ],
@@ -1591,10 +1591,10 @@
         ],
         "stats": {
             "armor": 25,
-            "attack_damage": 70,
+            "attack_damage": 60,
             "attack_range_slot": 4,
             "attack_speed": 0.75,
-            "dps": 53,
+            "dps": 45,
             "health": 850,
             "magical_resistance": 25,
             "starting_mana": 0
@@ -1699,8 +1699,8 @@
             "type": "Active",
             "desc": "Viego becomes unstoppable, leaping to the largest cluster of nearby enemies and slamming his sword down on the enemy with the lowest Health, dealing magic damage to the primary target and magic damage to enemies nearby. If Viego kills an enemy, he casts again with reduced damage.",
             "stats": [
-                "Damage: 290 / 435 / 950",
-                "AOE Damage: 145 / 215 / 475",
+                "Damage: 270 / 400 / 900",
+                "AOE Damage: 135 / 200 / 450",
                 "Falloff Percent: 15% / 15% / 1%"
             ],
             "imageUrl": "../tft-assets/set8/skills/viego.png"
