@@ -89,7 +89,7 @@
         "skill": {
             "name": "Weapons of the Faithful",
             "type": "Active",
-            "desc": "Player select a weapon when place Aphelios on board.<br><br>Binding Eclipse<br>Aphelios casts forth a lunar spotlight towards the largest group of units, dealing physical damage and stunning all enemies in the area.<br><hr>Duskwave<br>Aphelios unleashes a wave of energy in a cone in his target's direction, dealing magic damage to all units hit and locking on to them. After a delay, Aplhelios fires a volley of attacks at each locked-on target, dealing physical damage.<br><hr>Onslaught<br>Aphelion enters an onslaught for 1.75 seconds, automatically performing 6 attacks over the duration at the nearest 2 enemies, dealing physical damage to each enemy.<hr>",
+            "desc": "Player select a weapon when place Aphelios on board.<br><br>Binding Eclipse<br>Aphelios casts forth a lunar spotlight towards the largest group of units, dealing physical damage and stunning all enemies in the area.<br><br>Duskwave<br>Aphelios unleashes a wave of energy in a cone in his target's direction, dealing magic damage to all units hit and locking on to them. After a delay, Aplhelios fires a volley of attacks at each locked-on target, dealing physical damage.<br><br>Onslaught<br>Aphelion enters an onslaught for 1.75 seconds, automatically performing 6 attacks over the duration at the nearest 2 enemies, dealing physical damage to each enemy.<br>",
             "stats": [
                 "Binding Eclipse Base Damage: 55 / 85 / 2000",
                 "Binding Eclipse Stun Duration: 1.5 / 2 / 15",

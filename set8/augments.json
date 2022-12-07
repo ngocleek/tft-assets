@@ -1414,13 +1414,6 @@
         "tier": "gold"
     },
     {
-        "key": "axiomArcII",
-        "name": "Axiom Arc II",
-        "desc": "Your units gain 30 Mana on kill.",
-        "imageUrl": "../tft-assets/set8/augments/axiomArcII.png",
-        "tier": "gold"
-    },
-    {
         "key": "bigFriendII",
         "name": "Big Friend II",
         "desc": "Your units that start combat next to a unit with over 1650 Health take 15% less damage for the rest of combat.",
@@ -1446,13 +1439,6 @@
         "name": "First Aid Kit II",
         "desc": "All healing and shielding on your units is increased by 35%.",
         "imageUrl": "../tft-assets/set8/augments/firstAidKitII.png",
-        "tier": "gold"
-    },
-    {
-        "key": "gadgetExpert",
-        "name": "Gadget Expert",
-        "desc": "Direct Damage items deal 25% more damage as true damage. Gain a Statikk Shiv.",
-        "imageUrl": "../tft-assets/set8/augments/gadgetExpert.png",
         "tier": "gold"
     },
     {
@@ -1628,13 +1614,6 @@
         "name": "Threat Level: Maximum",
         "desc": "At the start of combat, your Threats gain 75 Maximum Health for every Threat champion on your board.",
         "imageUrl": "../tft-assets/set8/augments/threatLevelMaximum.png",
-        "tier": "gold"
-    },
-    {
-        "key": "undergroundCrest",
-        "name": "Underground Crest",
-        "desc": "Gain an Underground Emblem and a Vi.",
-        "imageUrl": "../tft-assets/set8/augments/undergroundCrest.png",
         "tier": "gold"
     },
     {
@@ -1852,13 +1831,6 @@
         "name": "Cursed Crown",
         "desc": "Gain +2 maximum team size, but take 100% increased player damage.",
         "imageUrl": "../tft-assets/set8/augments/cursedCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "livingForge",
-        "name": "Living Forge",
-        "desc": "Gain a random Ornn item now and after every 10 player combats.",
-        "imageUrl": "../tft-assets/set8/augments/livingForge.png",
         "tier": "prismatic"
     },
     {

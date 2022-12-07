@@ -355,7 +355,7 @@
         "name": "Infinity Edge",
         "imageUrl": "../tft-assets/set8/items/infinityEdge.png",
         "requiredSlots": 1,
-        "isUnique": true,
+        "isUnique": false,
         "isRadiant": false,
         "isArtifact": false,
         "isShimmerScale": false,
