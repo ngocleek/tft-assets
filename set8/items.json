@@ -150,6 +150,20 @@
         "fromItemIngameIds": []
     },
     {
+        "id": 3376,
+        "key": "genaegiantslayer",
+        "name": "OVERFLOW_ERROR // Giant Slayer",
+        "imageUrl": "../tft-assets/set8/items/oVERFLOW_ERRORGiantSlayer.png",
+        "requiredSlots": 1,
+        "isUnique": true,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
+        "isPbe": false,
+        "affectedTrait": null,
+        "fromItemIngameIds": []
+    },
+    {
         "id": 3377,
         "key": "genaehandofjustice",
         "name": "Hand of Nondeterministic Justice",
