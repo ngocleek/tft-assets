@@ -251,7 +251,7 @@
         "id": 2654,
         "key": "giantslayer",
         "name": "Giant Slayer",
-        "imageUrl": "../tft-assets/set8/items/giantSlayer.jpg",
+        "imageUrl": "../tft-assets/set8/items/giantSlayer.png",
         "requiredSlots": 1,
         "isUnique": false,
         "isRadiant": false,

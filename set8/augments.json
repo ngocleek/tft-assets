@@ -240,7 +240,7 @@
     {
         "key": "relentlessAssault",
         "name": "Relentless Assault",
-        "desc": "Gain a Jax. After every 3rd attack, he gains 20% Attack Speed for the rest of combat (this can stack).",
+        "desc": "Gain a Jax. After every 3rd attack, he gains 9% Attack Speed for the rest of combat (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/relentlessAssault.jpg",
         "tier": "silver"
     },
