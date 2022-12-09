@@ -1463,6 +1463,13 @@
         "tier": "gold"
     },
     {
+        "key": "urfSGrabBagI",
+        "name": "Urf's Grab Bag I",
+        "desc": "Gain 1 Spatula and 1 random item component.",
+        "imageUrl": "../tft-assets/set8/augments/urfSGrabBagI.png",
+        "tier": "gold"
+    },
+    {
         "key": "aDMINCrest",
         "name": "A.D.M.I.N Crest",
         "desc": "Gain an A.D.M.I.N. Emblem and a Blitzcrank.",
@@ -1831,6 +1838,13 @@
         "name": "Cursed Crown",
         "desc": "Gain +2 maximum team size, but take 100% increased player damage.",
         "imageUrl": "../tft-assets/set8/augments/cursedCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "livingForge",
+        "name": "Living Forge",
+        "desc": "Gain a random Ornn item now and after every 10 player combats.",
+        "imageUrl": "../tft-assets/set8/augments/livingForge.png",
         "tier": "prismatic"
     },
     {
