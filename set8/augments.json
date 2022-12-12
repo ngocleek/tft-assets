@@ -16,7 +16,7 @@
     {
         "key": "reflectorShield",
         "name": "Reflector Shield",
-        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 150 magic damage (once every 0.5 seconds).",
+        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 175 magic damage (once every 0.5 seconds).",
         "imageUrl": "../tft-assets/set8/augments/reflectorShield.jpg",
         "tier": "silver"
     },
@@ -121,7 +121,7 @@
     {
         "key": "cosmicBarrier",
         "name": "Cosmic Barrier",
-        "desc": "Gain a Cho'Gath. When you field Cho'Gath, your team gains 50 Magic Resist, doubled for Cho'Gath.",
+        "desc": "Gain a Cho'Gath. When you field Cho'Gath, your team gains 40 Magic Resist, doubled for Cho'Gath.",
         "imageUrl": "../tft-assets/set8/augments/cosmicBarrier.jpg",
         "tier": "silver"
     },
@@ -352,7 +352,7 @@
     {
         "key": "illuminatingSingularity",
         "name": "Illuminating Singularity",
-        "desc": "Gain a Lux. Every 2nd cast, her Ability deals 200% increased damage.",
+        "desc": "Gain a Lux. Every 2nd cast, her Ability deals 180% increased damage.",
         "imageUrl": "../tft-assets/set8/augments/illuminatingSingularity.jpg",
         "tier": "silver"
     },
@@ -450,7 +450,7 @@
     {
         "key": "biggerBetterBuckler",
         "name": "Bigger, Better Buckler",
-        "desc": "Gain a Poppy. She gains 150 Armor.",
+        "desc": "Gain a Poppy. She gains 200 Armor.",
         "imageUrl": "../tft-assets/set8/augments/biggerBetterBuckler.jpg",
         "tier": "silver"
     },
@@ -471,7 +471,7 @@
     {
         "key": "spikedShell",
         "name": "Spiked Shell",
-        "desc": "Gain a Rammus. When struck by an attack, he deals magic damage equal to 180% of his Armor to all nearby enemies (once every 2.5 seconds).",
+        "desc": "Gain a Rammus. When struck by an attack, he deals magic damage equal to 180% of his Armor to all nearby enemies (once every 2 seconds).",
         "imageUrl": "../tft-assets/set8/augments/spikedShell.jpg",
         "tier": "silver"
     },
@@ -590,7 +590,7 @@
     {
         "key": "endlessPizza",
         "name": "Endless Pizza",
-        "desc": "Gain a Sivir. When you field her, your team heals 15% of their missing Health every 5 seconds.",
+        "desc": "Gain a Sivir. When you field her, your team heals 15% of their missing Health every 5 seconds. Eliminate all harmful effects.",
         "imageUrl": "../tft-assets/set8/augments/endlessPizza.jpg",
         "tier": "silver"
     },
@@ -611,7 +611,7 @@
     {
         "key": "infuse",
         "name": "Infuse",
-        "desc": "Gain a Soraka. Every 5 seconds, Soraka grants your team 20 Mana.",
+        "desc": "Gain a Soraka. Every 5 seconds, Soraka grants your team 15 Mana.",
         "imageUrl": "../tft-assets/set8/augments/infuse.jpg",
         "tier": "silver"
     },
@@ -744,7 +744,7 @@
     {
         "key": "cyclone",
         "name": "Cyclone",
-        "desc": "Gain a Wukong. He gains 40 Ability Power and increases his Ability's range by 1 hex.",
+        "desc": "Gain a Wukong. He gains 10 Ability Power and increases his Ability's range by 1 hex.",
         "imageUrl": "../tft-assets/set8/augments/cyclone.jpg",
         "tier": "silver"
     },
@@ -989,7 +989,7 @@
     {
         "key": "doubleTroubleI",
         "name": "Double Trouble I",
-        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 20 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 25 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
         "imageUrl": "../tft-assets/set8/augments/doubleTroubleI.png",
         "tier": "silver"
     },
@@ -1409,7 +1409,7 @@
     {
         "key": "doubleTroubleII",
         "name": "Double Trouble II",
-        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 30 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 35 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
         "imageUrl": "../tft-assets/set8/augments/doubleTroubleII.png",
         "tier": "gold"
     },
