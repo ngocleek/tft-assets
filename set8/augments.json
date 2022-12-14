@@ -51,7 +51,7 @@
     {
         "key": "corpsFocus",
         "name": "Corps Focus",
-        "desc": "Gain an Ashe. When you field her, your team gains 15% Attack Speed, doubled while her Ability is active.",
+        "desc": "Gain an Ashe. When you field her, your team gains 20% Attack Speed, doubled while her Ability is active.",
         "imageUrl": "../tft-assets/set8/augments/corpsFocus.jpg",
         "tier": "silver"
     },
@@ -198,7 +198,7 @@
     {
         "key": "justicePunch",
         "name": "Justice Punch",
-        "desc": "Gain a Galio. His Ability deals 50% more damage and knocks up its target for 1.5 seconds.",
+        "desc": "Gain a Galio. His Ability deals 75% more damage and knocks up its target for 2 seconds.",
         "imageUrl": "../tft-assets/set8/augments/justicePunch.jpg",
         "tier": "silver"
     },
@@ -331,7 +331,7 @@
     {
         "key": "eclipsePrime",
         "name": "Eclipse Prime",
-        "desc": "Gain a Leona. When you field her, your team reduces all incoming damage by 30.",
+        "desc": "Gain a Leona. When you field her, your team reduces all incoming damage by 20.",
         "imageUrl": "../tft-assets/set8/augments/eclipsePrime.jpg",
         "tier": "silver"
     },
@@ -443,7 +443,7 @@
     {
         "key": "contagiousLaughter",
         "name": "Contagious Laughter",
-        "desc": "Gain a Nunu. He gains 30 Ability Power and restores 10 Mana per second.",
+        "desc": "Gain a Nunu. He gains 10 Ability Power and restores @Mana@ Mana per second.",
         "imageUrl": "../tft-assets/set8/augments/contagiousLaughter.jpg",
         "tier": "silver"
     },
@@ -646,7 +646,7 @@
     {
         "key": "empoweredReserves",
         "name": "Empowered Reserves",
-        "desc": "Gain a Syndra. When you field her, your team gains 5 Ability Power per unit on your bench.",
+        "desc": "Gain a Syndra. When you field her, your team gains 7 Ability Power per unit on your bench.",
         "imageUrl": "../tft-assets/set8/augments/empoweredReserves.jpg",
         "tier": "silver"
     },
@@ -688,14 +688,14 @@
     {
         "key": "risingTide",
         "name": "Rising Tide",
-        "desc": "Gain an Urgot. Combat Start: He grants himself and adjacent allies 25 Ability Power and 15% Attack Speed.",
+        "desc": "Gain an Urgot. Combat Start: He grants himself and adjacent allies 30% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/risingTide.jpg",
         "tier": "silver"
     },
     {
         "key": "spreadShot",
         "name": "Spread Shot",
-        "desc": "Gain a Vayne. Her Ability additionally fires at 2 other nearby enemies dealing 50% damage.",
+        "desc": "Gain a Vayne. Her Ability additionally fires at 2 other nearby enemies dealing 35% damage.",
         "imageUrl": "../tft-assets/set8/augments/spreadShot.jpg",
         "tier": "silver"
     },
