@@ -116,10 +116,10 @@
         ],
         "stats": {
             "armor": 15,
-            "attack_damage": 60,
+            "attack_damage": 55,
             "attack_range_slot": 4,
             "attack_speed": 0.7,
-            "dps": 42,
+            "dps": 39,
             "health": 500,
             "magical_resistance": 15,
             "starting_mana": 0
@@ -129,8 +129,8 @@
             "type": "Active",
             "desc": "Ashe gains Attack Damage for the next 4 seconds.",
             "stats": [
-                "Percent Of Attack Damage: 45% / 50% / 55%",
-                "Damage: 12 / 20 / 30"
+                "Percent Of Attack Damage: 40%",
+                "Damage: 12 / 18 / 25"
             ],
             "imageUrl": "../tft-assets/set8/skills/ashe.png"
         }
@@ -159,8 +159,8 @@
             "type": "Active",
             "desc": "Aurelion Sol calls down meteors on random enemies that explode on impact. Each meteor deals magic damage and applies a burn for 10 seconds, dealing % of the target's maximum Health as true damage and reducing incoming healing by 33%.",
             "stats": [
-                "Meteors: 3 / 3 / 5",
-                "Damage: 170 / 255 / 500",
+                "Meteors: 4 / 4 / 6",
+                "Damage: 135 / 200 / 450",
                 "% Health as Damage: 10 / 10 / 10"
             ],
             "imageUrl": "../tft-assets/set8/skills/aurelionSol.png"
@@ -405,7 +405,7 @@
             "attack_range_slot": 1,
             "attack_speed": 0.75,
             "dps": 38,
-            "health": 1100,
+            "health": 1300,
             "magical_resistance": 60,
             "starting_mana": 90
         },
@@ -436,8 +436,8 @@
             "armor": 45,
             "attack_damage": 50,
             "attack_range_slot": 1,
-            "attack_speed": 0.7,
-            "dps": 35,
+            "attack_speed": 0.8,
+            "dps": 40,
             "health": 800,
             "magical_resistance": 45,
             "starting_mana": 30
@@ -564,8 +564,8 @@
             "armor": 50,
             "attack_damage": 60,
             "attack_range_slot": 1,
-            "attack_speed": 0.9,
-            "dps": 54,
+            "attack_speed": 0.8,
+            "dps": 48,
             "health": 800,
             "magical_resistance": 50,
             "starting_mana": 0
@@ -573,7 +573,7 @@
         "skill": {
             "name": "Adaptive Strike",
             "type": "Passive",
-            "desc": "Passive: Jax leaps to his target and deals bonus magic damage every 3rd attack. The bonus damage increases every third attack up to 8 times.",
+            "desc": "Passive: Jax leaps to his target and deals bonus magic damage every 3rd attack. The bonus damage increases every third attack up to 7 times.",
             "stats": [
                 "Base Damage: 110 / 165  / 285",
                 "Stacking Damage: 30 / 45 / 75"
@@ -822,8 +822,8 @@
             "armor": 15,
             "attack_damage": 40,
             "attack_range_slot": 4,
-            "attack_speed": 0.65,
-            "dps": 26,
+            "attack_speed": 0.7,
+            "dps": 28,
             "health": 500,
             "magical_resistance": 15,
             "starting_mana": 0
@@ -865,7 +865,7 @@
             "desc": "Malphite slams the ground, dealing magic damage to nearby enemies and granting himself Armor for 4 seconds.",
             "stats": [
                 "Damage: 140 / 215 / 335",
-                "Armor: 80 / 100 / 125"
+                "Armor: 100 / 125 / 150"
             ],
             "imageUrl": "../tft-assets/set8/skills/malphite.png"
         }
@@ -896,7 +896,7 @@
             "type": "Active",
             "desc": "Miss Fortune fires 8 waves of bullets in her target's direction within channels for 2 seconds. Enemies take magic damage from the first bullet that hits them, and less magic damage from any other bullets that hit.",
             "stats": [
-                "Damage: 45 / 65 / 250",
+                "Damage: 50 / 70 / 250",
                 "Reduce Damage: 25 / 35 / 150"
             ],
             "imageUrl": "../tft-assets/set8/skills/missFortune.png"
@@ -1150,7 +1150,7 @@
             "type": "Active",
             "desc": "Renekton empowers himself for 8 seconds, gaining maximun Health, and causing his attacks to deal 6% of his maximum Health as bonus magic damage.",
             "stats": [
-                "Health Increase: 240 / 320 / 400"
+                "Health Increase: 200 / 250 / 300"
             ],
             "imageUrl": "../tft-assets/set8/skills/renekton.png"
         }
@@ -1463,7 +1463,7 @@
         "stats": {
             "armor": 40,
             "attack_damage": 40,
-            "attack_range_slot": 3,
+            "attack_range_slot": 4,
             "attack_speed": 0.85,
             "dps": 34,
             "health": 850,
@@ -1634,7 +1634,7 @@
             "type": "Active",
             "desc": "Vel'koz Stun the enemy champion that has dealt the most damage this round for a few seconds, dealing magic damage to them.<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
-                "Damage: 325 / 500 / 850",
+                "Damage: 300 / 450 / 775",
                 "Stun Duration: 2 / 2.25 / 2.5"
             ],
             "imageUrl": "../tft-assets/set8/skills/velkoz.png"
@@ -1699,9 +1699,9 @@
             "type": "Active",
             "desc": "Viego becomes unstoppable, leaping to the largest cluster of nearby enemies and slamming his sword down on the enemy with the lowest Health, dealing magic damage to the primary target and magic damage to enemies nearby. If Viego kills an enemy, he casts again with reduced damage.",
             "stats": [
-                "Damage: 270 / 400 / 900",
-                "AOE Damage: 135 / 200 / 450",
-                "Falloff Percent: 15% / 15% / 1%"
+                "Damage: 250 / 375 / 850",
+                "AOE Damage: 125 / 185 / 425",
+                "Falloff Percent: 18% / 18% / 1%"
             ],
             "imageUrl": "../tft-assets/set8/skills/viego.png"
         }
@@ -1846,13 +1846,13 @@
             "Hacker"
         ],
         "stats": {
-            "armor": 50,
-            "attack_damage": 90,
+            "armor": 45,
+            "attack_damage": 85,
             "attack_range_slot": 1,
             "attack_speed": 0.85,
-            "dps": 77,
+            "dps": 72,
             "health": 950,
-            "magical_resistance": 50,
+            "magical_resistance": 45,
             "starting_mana": 0
         },
         "skill": {
@@ -1894,7 +1894,7 @@
             "type": "Active",
             "desc": "Zoe launches a bubble at the nearest non-infected enemy, infecting them with a virus that deals magic damage over 10 seconds. Infected enemies take more damage.",
             "stats": [
-                "Damage: 400 / 600 / 1100",
+                "Damage: 375 / 550 / 1000",
                 "Percent Bonus Damage: 10% / 10% / 20%"
             ],
             "imageUrl": "../tft-assets/set8/skills/zoe.png"

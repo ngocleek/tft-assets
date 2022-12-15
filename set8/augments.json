@@ -16,7 +16,7 @@
     {
         "key": "reflectorShield",
         "name": "Reflector Shield",
-        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 175 magic damage (once every 0.5 seconds).",
+        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 185 magic damage (once every 0.5 seconds).",
         "imageUrl": "../tft-assets/set8/augments/reflectorShield.jpg",
         "tier": "silver"
     },
@@ -100,7 +100,7 @@
     {
         "key": "adaptiveDefensives",
         "name": "Adaptive Defensives",
-        "desc": "Gain a Camille. She gains 35% Attack Damage. The first time she drops below 50% Health, she gains a shield equal to 600% of her Attack Damage .",
+        "desc": "Gain a Camille. She gains 20% Attack Damage. The first time she drops below 50% Health, she gains a shield equal to 600% of her Attack Damage .",
         "imageUrl": "../tft-assets/set8/augments/adaptiveDefensives.jpg",
         "tier": "silver"
     },
@@ -135,7 +135,7 @@
     {
         "key": "ruthlessBlades",
         "name": "Ruthless Blades",
-        "desc": "Gain a Draven. When you field him, your team gains 55% Critical Strike Chance.",
+        "desc": "Gain a Draven. When you field him, your team gains 75% Critical Strike Chance.",
         "imageUrl": "../tft-assets/set8/augments/ruthlessBlades.jpg",
         "tier": "silver"
     },
@@ -156,7 +156,7 @@
     {
         "key": "risingSpellForce",
         "name": "Rising Spell Force",
-        "desc": "Gain an Ezreal. When he casts his Ability, he gains 20% Attack Speed and 20 Ability Power for the rest of combat (this can stack).",
+        "desc": "Gain an Ezreal. When he casts his Ability, he gains @AD@% Attack Speed and 25 Ability Power for the rest of combat (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/risingSpellForce.jpg",
         "tier": "silver"
     },
@@ -184,7 +184,7 @@
     {
         "key": "frontlineFencing",
         "name": "Frontline Fencing",
-        "desc": "Gain a Fiora. While her Ability is active, she gains 150 Armor and Magic Resist.",
+        "desc": "Gain a Fiora. While her Ability is active, she gains 175 Armor and Magic Resist.",
         "imageUrl": "../tft-assets/set8/augments/frontlineFencing.jpg",
         "tier": "silver"
     },
@@ -212,14 +212,14 @@
     {
         "key": "flamingRicochet",
         "name": "Flaming Ricochet",
-        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 60% damage.",
+        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 75% damage.",
         "imageUrl": "../tft-assets/set8/augments/flamingRicochet.jpg",
         "tier": "silver"
     },
     {
         "key": "getPaid",
         "name": "Get Paid",
-        "desc": "Gain a Gangplank. When you field him, your team has a 33% chance to gain 1 gold on kill.",
+        "desc": "Gain a Gangplank. When you field him, your team has a 50% chance to gain 1 gold on kill.",
         "imageUrl": "../tft-assets/set8/augments/getPaid.jpg",
         "tier": "silver"
     },
@@ -254,7 +254,7 @@
     {
         "key": "getExcited",
         "name": "Get Excited!",
-        "desc": "Gain a Jinx. When she scores a takedown, she gains 110% Attack Speed and Movement Speed for 5 seconds.",
+        "desc": "Gain a Jinx. When she scores a takedown, she gains 125% Attack Speed and Movement Speed for 7 seconds.",
         "imageUrl": "../tft-assets/set8/augments/getExcited.jpg",
         "tier": "silver"
     },
@@ -366,7 +366,7 @@
     {
         "key": "rockSolid",
         "name": "Rock Solid",
-        "desc": "Gain a Malphite. He gains Ability Power equal to 75% of his Armor and his Ability's Armor duration is increased by 4 seconds.",
+        "desc": "Gain a Malphite. He gains Ability Power equal to 100% of his Armor and his Ability's Armor duration is increased by 4 seconds.",
         "imageUrl": "../tft-assets/set8/augments/rockSolid.jpg",
         "tier": "silver"
     },
@@ -394,7 +394,7 @@
     {
         "key": "notSoHeavyMetal",
         "name": "Not So Heavy Metal",
-        "desc": "Gain a Mordekaiser. He gains 20 Ability Power every 5 seconds.",
+        "desc": "Gain a Mordekaiser. He gains 20 Ability Power every 4 seconds.",
         "imageUrl": "../tft-assets/set8/augments/notSoHeavyMetal.jpg",
         "tier": "silver"
     },
@@ -478,7 +478,7 @@
     {
         "key": "holdTheLine",
         "name": "Hold the Line",
-        "desc": "Gain a Rell. She gains 50 Ability Power and 30% damage reduction.",
+        "desc": "Gain a Rell. She gains 70 Ability Power and 30% damage reduction.",
         "imageUrl": "../tft-assets/set8/augments/holdTheLine.jpg",
         "tier": "silver"
     },
@@ -492,7 +492,7 @@
     {
         "key": "partnersInCrime",
         "name": "Partners in Crime",
-        "desc": "Gain a Viego. When you field him, your team gains 15% Omnivamp, tripled when 2 or less allies remain.",
+        "desc": "Gain a Viego. When you field him, your team gains 12% Omnivamp, tripled when 2 or less allies remain.",
         "imageUrl": "../tft-assets/set8/augments/partnersInCrime.jpg",
         "tier": "silver"
     },
@@ -506,7 +506,7 @@
     {
         "key": "cullTheMeek",
         "name": "Cull the Meek",
-        "desc": "Gain a Renekton. When you field him, your team deals 10% bonus damage, tripled against enemies below 50% Health.",
+        "desc": "Gain a Renekton. When you field him, your team deals 8% bonus damage, tripled against enemies below 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/cullTheMeek.jpg",
         "tier": "silver"
     },
@@ -590,7 +590,7 @@
     {
         "key": "endlessPizza",
         "name": "Endless Pizza",
-        "desc": "Gain a Sivir. When you field her, your team heals 15% of their missing Health every 5 seconds. Eliminate all harmful effects.",
+        "desc": "Gain a Sivir. When you field her, your team heals 15% of their missing Health every 7 seconds. Eliminate all harmful effects.",
         "imageUrl": "../tft-assets/set8/augments/endlessPizza.jpg",
         "tier": "silver"
     },
@@ -639,14 +639,14 @@
     {
         "key": "powerOverwhelming",
         "name": "Power Overwhelming",
-        "desc": "Gain a Syndra. Allies summoned by her Ability gain 30% Attack Damage and 30 Ability Power, Armor, and Magic Resist.",
+        "desc": "Gain a Syndra. Allies summoned by her Ability gain 70% Attack Damage and 70 Ability Power, Armor, and Magic Resist.",
         "imageUrl": "../tft-assets/set8/augments/powerOverwhelming.jpg",
         "tier": "silver"
     },
     {
         "key": "empoweredReserves",
         "name": "Empowered Reserves",
-        "desc": "Gain a Syndra. When you field her, your team gains 7 Ability Power per unit on your bench.",
+        "desc": "Gain a Syndra. When you field her, your team gains 6 Ability Power per unit on your bench.",
         "imageUrl": "../tft-assets/set8/augments/empoweredReserves.jpg",
         "tier": "silver"
     },
@@ -695,7 +695,7 @@
     {
         "key": "spreadShot",
         "name": "Spread Shot",
-        "desc": "Gain a Vayne. Her Ability additionally fires at 2 other nearby enemies dealing 35% damage.",
+        "desc": "Gain a Vayne. Her Ability additionally fires at 2 other nearby enemies dealing 50% damage.",
         "imageUrl": "../tft-assets/set8/augments/spreadShot.jpg",
         "tier": "silver"
     },
@@ -709,7 +709,7 @@
     {
         "key": "frostburn",
         "name": "Frostburn",
-        "desc": "Gain a Vel'Koz. His Ability deals an additional 200% of its damage over the next 15 seconds (this can stack).",
+        "desc": "Gain a Vel'Koz. His Ability deals an additional 200% of its damage over the next 20 seconds (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/frostburn.jpg",
         "tier": "silver"
     },
@@ -730,7 +730,7 @@
     {
         "key": "boxingLessons",
         "name": "Boxing Lessons",
-        "desc": "Gain a Vi. When you field her, your team gains 250 bonus Health.",
+        "desc": "Gain a Vi. When you field her, your team gains 200 bonus Health.",
         "imageUrl": "../tft-assets/set8/augments/boxingLessons.jpg",
         "tier": "silver"
     },
@@ -884,7 +884,7 @@
     {
         "key": "electrochargeI",
         "name": "Electrocharge I",
-        "desc": "When your units receive critical strikes, they deal 40-100 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 35-90 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/set8/augments/electrochargeI.png",
         "tier": "silver"
     },
@@ -919,7 +919,7 @@
     {
         "key": "ludenSEchoI",
         "name": "Luden's Echo I",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 40-100 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 35-90 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoI.png",
         "tier": "silver"
     },
@@ -1010,7 +1010,7 @@
     {
         "key": "bigFriendI",
         "name": "Big Friend I",
-        "desc": "Your units that start combat next to a unit with over 1650 Health take 9% less damage for the rest of combat.",
+        "desc": "Your units that start combat next to a unit with over 1600 Health take 9% less damage for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/bigFriendI.png",
         "tier": "silver"
     },
@@ -1248,7 +1248,7 @@
     {
         "key": "electrochargeII",
         "name": "Electrocharge II",
-        "desc": "When your units receive critical strikes, they deal 85-145 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 60-120 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/set8/augments/electrochargeII.png",
         "tier": "gold"
     },
@@ -1276,7 +1276,7 @@
     {
         "key": "ludenSEchoII",
         "name": "Luden's Echo II",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 55-160 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 50-140 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoII.png",
         "tier": "gold"
     },
@@ -1416,7 +1416,7 @@
     {
         "key": "bigFriendII",
         "name": "Big Friend II",
-        "desc": "Your units that start combat next to a unit with over 1650 Health take 15% less damage for the rest of combat.",
+        "desc": "Your units that start combat next to a unit with over 1600 Health take 15% less damage for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/bigFriendII.png",
         "tier": "gold"
     },
@@ -1654,21 +1654,21 @@
     {
         "key": "cyberneticImplantsIII",
         "name": "Cybernetic Implants III",
-        "desc": "Your champions holding an item gain 180 Health and 30% Attack Damage.",
+        "desc": "Your champions holding an item gain 200 Health and 30% Attack Damage.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticImplantsIII.png",
         "tier": "prismatic"
     },
     {
         "key": "cyberneticShellIII",
         "name": "Cybernetic Shell III",
-        "desc": "Your champions holding an item gain 180 Health and 40 Armor.",
+        "desc": "Your champions holding an item gain 200 Health and 40 Armor.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticShellIII.png",
         "tier": "prismatic"
     },
     {
         "key": "cyberneticUplinkIII",
         "name": "Cybernetic Uplink III",
-        "desc": "Your champions holding an item gain 180 Health and restore 3 Mana per second.",
+        "desc": "Your champions holding an item gain 200 Health and restore 3 Mana per second.",
         "imageUrl": "../tft-assets/set8/augments/cyberneticUplinkIII.png",
         "tier": "prismatic"
     },
@@ -1682,7 +1682,7 @@
     {
         "key": "electrochargeIII",
         "name": "Electrocharge III",
-        "desc": "When your units receive critical strikes, they deal 115-235 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 105-210 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/set8/augments/electrochargeIII.png",
         "tier": "prismatic"
     },
@@ -1731,7 +1731,7 @@
     {
         "key": "ludenSEchoIII",
         "name": "Luden's Echo III",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 90-240 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 80-215 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoIII.png",
         "tier": "prismatic"
     },

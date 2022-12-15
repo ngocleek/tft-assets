@@ -272,8 +272,8 @@
             "description": "When Heart units cast their Ability, your team gains stacking Ability Power for the rest of combat.",
             "stats": {
                 "2": "+4 Ability Power",
-                "4": "+6 Ability Power",
-                "6": "+9 Ability Power"
+                "4": "+7 Ability Power",
+                "6": "+10 Ability Power"
             }
         },
         "isStrictStack": false,
@@ -374,8 +374,8 @@
             "description": "Innate: Gain 2 hex Attack Range. <br><br>If there is an enemy nearby, Recon units will dash to safety before casting their Ability.",
             "stats": {
                 "2": "+20% Crit Chance",
-                "3": "+45% Crit Chance",
-                "4": "+75% Crit Chance and Recon Abilities can critically strike"
+                "3": "+75% Crit Chance",
+                "4": "+100% Crit Chance and Recon Abilities can critically strike"
             }
         },
         "isStrictStack": false,
@@ -717,10 +717,10 @@
         "synergy": {
             "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, they become invulnerable for 1 seconds as they defend the city with their last breath.",
             "stats": {
-                "2": "20% - 40% Attack Speed.",
-                "4": "50% - 100% Attack Speed.",
-                "6": "100% - 200% Attack Speed.",
-                "8": "200% - 400% Attack Speed."
+                "2": "15% - 30% Attack Speed.",
+                "4": "35% - 70% Attack Speed.",
+                "6": "70% - 140% Attack Speed.",
+                "8": "125% - 250% Attack Speed."
             }
         },
         "isStrictStack": false,
