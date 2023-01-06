@@ -234,6 +234,20 @@
         "fromItemIngameIds": []
     },
     {
+        "id": 3382,
+        "key": "genaesunfirecape",
+        "name": "Overlocked Sunfire Cape",
+        "imageUrl": "../tft-assets/set8/items/overlockedSunfireCape.png",
+        "requiredSlots": 1,
+        "isUnique": false,
+        "isRadiant": false,
+        "isArtifact": false,
+        "isShimmerScale": false,
+        "isPbe": false,
+        "affectedTrait": null,
+        "fromItemIngameIds": []
+    },
+    {
         "id": 3383,
         "key": "genaewarmogsarmor",
         "name": "Induction-Powered Warmog's Armor",
