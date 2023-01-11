@@ -10,7 +10,7 @@
         "synergy": {
             "description": "This trait is active only when you have exactly 1 or 4 unique Aces.",
             "stats": {
-                "1": "Execute enemies under 12% Health",
+                "1": "Execute enemies under 15% Health",
                 "4": "Execute enemies under 30% Health"
             }
         },
@@ -81,8 +81,8 @@
             "stats": {
                 "2": "+20% maximum Health",
                 "4": "+40% maximum Health",
-                "6": "+70% maximum Health",
-                "8": "+111% maximum Health"
+                "6": "+65% maximum Health",
+                "8": "+90% maximum Health"
             }
         },
         "isStrictStack": false,
@@ -173,12 +173,12 @@
             "black": "../tft-assets/set8/traits/duelistBlack.svg"
         },
         "synergy": {
-            "description": "Innate: increased movement speed.<br><br>Duelists' basic attacks grant bonus Attack Speed, up to 10 stacks.",
+            "description": "Innate: increased movement speed.<br><br>Duelists' basic attacks grant bonus Attack Speed, up to 12 stacks.",
             "stats": {
-                "2": "+6% Attack Speed per stack",
-                "4": "+12% Attack Speed per stack",
-                "6": "+20% Attack Speed per stack",
-                "8": "+30% Attack Speed per stack"
+                "2": "+5% Attack Speed per stack",
+                "4": "+10% Attack Speed per stack",
+                "6": "+16% Attack Speed per stack",
+                "8": "+24% Attack Speed per stack"
             }
         },
         "isStrictStack": false,
@@ -306,9 +306,9 @@
             "description": "Your team heals a percentage of their maximum Health every 2 seconds, and Mascots heal double the amount.<br><br>\r\nWhen Mascots die, they retreat to the sidelines to cheer on your team. Your team's healing increased by 1% for each cheering Mascot.",
             "stats": {
                 "2": "1.5% healing",
-                "4": "3.25% healing",
-                "6": "6.5% healing",
-                "8": "12% healing"
+                "4": "2.5% healing",
+                "6": "4.5% healing",
+                "8": "10% healing"
             }
         },
         "isStrictStack": false,
@@ -408,7 +408,7 @@
             "description": "Renegade units deal bonus damage, and the last sone standing deals more.",
             "stats": {
                 "3": "40% bonus damage, 20% for last alive",
-                "6": "80% bonus damage, 40% for last alive"
+                "6": "70% bonus damage, 40% for last alive"
             }
         },
         "isStrictStack": false,
@@ -436,9 +436,9 @@
             "description": "Every 5 seconds, the next attack instead fires a magic orb at a random target, which explodes for 50% Ability Power as magic damage.",
             "stats": {
                 "2": "+25 Ability Power",
-                "4": "+60 Ability Power",
-                "6": "+100 Ability Power",
-                "8": "+150 Ability Power, Orb Damage 200%"
+                "4": "+55 Ability Power",
+                "6": "+85 Ability Power",
+                "8": "+125 Ability Power, Orb Damage 150%"
             }
         },
         "isStrictStack": false,
@@ -505,7 +505,7 @@
             "stats": {
                 "2": "[Initialize ADMIN cause and effect]",
                 "4": "[Add another effect to the program]",
-                "6": "Boost previous tier by 180%"
+                "6": "Boost previous tier by 100%"
             }
         },
         "isStrictStack": false,
@@ -537,8 +537,8 @@
         "synergy": {
             "description": "Anima Squad members build fame for scoring champion kills. When they pause to celebrate a kill, they permanently gain 6 maximum Health per point of fame. Fame immediately benefits the whole Anima Squad.<br><br>Anima Squad also gains:",
             "stats": {
-                "3": "15% Attack Damage and 15 Ability Power",
-                "5": "35% Attack Damage and 35 Ability Power",
+                "3": "10% Attack Damage and 10 Ability Power",
+                "5": "30% Attack Damage and 30 Ability Power",
                 "7": "55% Attack Damage and 55 Ability Power"
             }
         },
@@ -655,9 +655,9 @@
         "synergy": {
             "description": "When a LaserCorp agent attacks or is hit by an attack, their combat drone has a 50% chance to deal magic damage to the agent's target (0.5 second cooldown). When a LaserCorps agent dies, their drone is reassigned to the nearest living agent.<br><br>Drones lasers deal:",
             "stats": {
-                "3": "60 magic damage.",
-                "6": "150 magic damage.",
-                "9": "150 magic damage, and each agent gets a 2nd drone."
+                "3": "65 magic damage.",
+                "6": "165 magic damage.",
+                "9": "200 magic damage, and each agent gets a 2nd drone."
             }
         },
         "isStrictStack": false,
@@ -689,8 +689,8 @@
         "synergy": {
             "description": "Use the Mecha selector item to choose a PRIME.<br><br>Combat start: the PRIME combines with the 2 nearest Mecha, absorbing 100% of their Health.",
             "stats": {
-                "3": "The PRIME gains 60 Ability Power and 60% Attack Damage",
-                "5": "All Mechas gain 45 Ability Power and 45% Attack Damage; The PRIME gains double this amount."
+                "3": "The PRIME gains 70 Ability Power and 70% Attack Damage",
+                "5": "All Mechas gain 50 Ability Power and 50% Attack Damage; The PRIME gains double this amount."
             }
         },
         "isStrictStack": false,
@@ -718,9 +718,9 @@
             "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, they become invulnerable for 1 seconds as they defend the city with their last breath.",
             "stats": {
                 "2": "15% - 30% Attack Speed.",
-                "4": "35% - 70% Attack Speed.",
-                "6": "70% - 140% Attack Speed.",
-                "8": "125% - 250% Attack Speed."
+                "4": "35% - 80% Attack Speed.",
+                "6": "70% - 150% Attack Speed.",
+                "8": "125% - 300% Attack Speed."
             }
         },
         "isStrictStack": false,
@@ -797,7 +797,7 @@
         "synergy": {
             "description": "",
             "stats": {
-                "3": "Combat start: strike a pose that grants your team 20% bonus damage, which increases by 5% for every 3-star champion on your team."
+                "3": "Combat start: strike a pose that grants your team 18% bonus damage, which increases by 3% for every 3-star champion on your team."
             }
         },
         "isStrictStack": false,

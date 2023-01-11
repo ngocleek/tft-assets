@@ -26,7 +26,7 @@
             "type": "Active",
             "desc": "Alistar slams the ground underneath his target, dealing magic damage and knocking them up for 1.5 seconds. He then roars, healing himself and the lowest health ally champion for 20% of his maximum health.",
             "stats": [
-                "Damage: 140 / 210 / 375"
+                "Damage: 140 / 210 / 350"
             ],
             "imageUrl": "../tft-assets/set8/skills/alistar.png"
         }
@@ -51,15 +51,15 @@
             "dps": 24,
             "health": 750,
             "magical_resistance": 40,
-            "starting_mana": 20
+            "starting_mana": 30
         },
         "skill": {
             "name": "Burst Shield",
             "type": "Active",
             "desc": "Annie blasts a cone of fire, dealing magic damage to enemies in front of her, then creates a Health shield on herself for 4 seconds.",
             "stats": [
-                "Damage: 140 / 210 / 335",
-                "Shield Amount: 325 / 400 / 500"
+                "Damage: 140 / 210 / 325",
+                "Shield Amount: 300 / 350 / 425"
             ],
             "imageUrl": "../tft-assets/set8/skills/annie.png"
         }
@@ -93,12 +93,14 @@
             "stats": [
                 "Binding Eclipse Base Damage: 55 / 85 / 2000",
                 "Binding Eclipse Stun Duration: 1.5 / 2 / 15",
+                "Binding Eclipse Percent of Attack Damage: 150% / 150% / 1500%",
                 "　",
-                "Duskwave Percent of Attack Damage: 200% / 200% / 800%",
                 "Duskwave Magic Damage: 45 / 75 / 2000",
                 "Duskwave Num Bullets: 7 / 7 / 15",
+                "Duskwave Percent of Attack Damage: 225% / 225% / 1500%",
                 "　",
-                "Onslaught Base Damage: 55 / 85 / 2000"
+                "Onslaught Base Damage: 55 / 85 / 2000",
+                "Onslaught Percent of Attack Damage: 300% / 300% / 2000%"
             ],
             "imageUrl": "../tft-assets/set8/skills/aphelios.png"
         }
@@ -160,7 +162,7 @@
             "desc": "Aurelion Sol calls down meteors on random enemies that explode on impact. Each meteor deals magic damage and applies a burn for 10 seconds, dealing % of the target's maximum Health as true damage and reducing incoming healing by 33%.",
             "stats": [
                 "Meteors: 4 / 4 / 6",
-                "Damage: 135 / 200 / 450",
+                "Damage: 135 / 200 / 400",
                 "% Health as Damage: 10 / 10 / 10"
             ],
             "imageUrl": "../tft-assets/set8/skills/aurelionSol.png"
@@ -177,10 +179,10 @@
         "classes": [],
         "stats": {
             "armor": 50,
-            "attack_damage": 85,
+            "attack_damage": 80,
             "attack_range_slot": 2,
             "attack_speed": 0.9,
-            "dps": 77,
+            "dps": 72,
             "health": 1000,
             "magical_resistance": 50,
             "starting_mana": 0
@@ -188,9 +190,9 @@
         "skill": {
             "name": "Endless Banquet",
             "type": "Active",
-            "desc": "Bel'Veth dashes around her target and unleashes a flurry of attacks, each dealing physical damage.<br><br>Each time this is cast, Bel'Veth gains 30% bouns Attack Speed for the rest of combat.",
+            "desc": "Bel'Veth dashes around her target and unleashes a flurry of attacks, each dealing physical damage.<br><br>Each time this is cast, Bel'Veth gains 25% bouns Attack Speed for the rest of combat.",
             "stats": [
-                "Damage: 25 / 40 / 160",
+                "Damage: 20 / 30 / 150",
                 "Percent of Attack Damage: 50% / 50% / 150%"
             ],
             "imageUrl": "../tft-assets/set8/skills/belVeth.png"
@@ -222,7 +224,7 @@
             "type": "Active",
             "desc": "Blitzcrank creates an empowered field around himself, reducing all damage taken by for 4 seconds.",
             "stats": [
-                "Damage Reduction: 45% / 55% / 65%"
+                "Damage Reduction: 55% / 60% / 65%"
             ],
             "imageUrl": "../tft-assets/set8/skills/blitzcrank.png"
         }
@@ -253,7 +255,7 @@
             "type": "Active",
             "desc": "Camille sweeps with her leg, dealing physical damage and Disarming enemies hit for a few seconds.<br><br>Disarm: target cannot move or attack",
             "stats": [
-                "Percent of Attack Damage: 180% / 200% / 225%",
+                "Percent of Attack Damage: 190% / 200% / 215%",
                 "Bonus Damage: 60 / 75 / 100",
                 "Disarm Duration: 1.5 / 1.6 / 1.75"
             ],
@@ -285,7 +287,7 @@
             "desc": "Passive: +75 Magic Resist<br><br>Active: Cho'gath breathes a cosmic beam in a forward arc that deals magic damage and Mana Reaves the target.<br><br>Mana Reave: increase maximum Mana util the next cast",
             "stats": [
                 "Magic Resist Bonus: 75 / 100 / 150",
-                "Magic Resist Ratio: 150% / 200% / 250%",
+                "Magic Resist Ratio: 150% / 190% / 240%",
                 "Mana Cost Increase: 35% / 35% / 50%",
                 "Bonus Damage: 70 / 105 / 165"
             ],
@@ -307,8 +309,8 @@
             "armor": 20,
             "attack_damage": 60,
             "attack_range_slot": 4,
-            "attack_speed": 0.7,
-            "dps": 42,
+            "attack_speed": 0.75,
+            "dps": 45,
             "health": 600,
             "magical_resistance": 20,
             "starting_mana": 0
@@ -318,7 +320,7 @@
             "type": "Active",
             "desc": "Draven hurls 2 massive axes at his target's direction, which reverse on the way back to him. Enemies caught in their path take physical damage, reduced by 25% for each enemy they have already passed through.",
             "stats": [
-                "Damage: 65 / 100 / 175"
+                "Damage: 65 / 100 / 150"
             ],
             "imageUrl": "../tft-assets/set8/skills/draven.png"
         }
@@ -383,7 +385,7 @@
             "desc": "Ezreal fires an orb of physical sabotage at his target, Chilling them for 4 seconds. Then he fires another shot, which deals magic damage to the target and nearby enemies.<br><br>Chill: reduce Attack Speed",
             "stats": [
                 "Attack Speed Reduction: 30 / 40 / 50",
-                "Damage: 215 / 320 / 510"
+                "Damage: 230 / 345 / 535"
             ],
             "imageUrl": "../tft-assets/set8/skills/ezreal.png"
         }
@@ -400,14 +402,14 @@
             "Corrupted"
         ],
         "stats": {
-            "armor": 60,
+            "armor": 70,
             "attack_damage": 50,
             "attack_range_slot": 1,
             "attack_speed": 0.75,
             "dps": 38,
             "health": 1300,
-            "magical_resistance": 60,
-            "starting_mana": 90
+            "magical_resistance": 70,
+            "starting_mana": 66
         },
         "skill": {
             "name": "Dark Harvest",
@@ -415,7 +417,7 @@
             "desc": "Fiddlesticks teleports into the largest cluster of enemies and fears them. For the next a few seconds, Fiddle drains the life from nearby enemies dealing magic damage per second and healing himself for 20% of the damage dealt.",
             "stats": [
                 "Fear Duration: 1 / 1 / 5",
-                "Magic Damage: 85 / 125 / 750",
+                "Magic Damage: 111 / 166 / 1000",
                 "Spell Duration: 5 / 5 / 30"
             ],
             "imageUrl": "../tft-assets/set8/skills/fiddlesticks.png"
@@ -447,7 +449,7 @@
             "type": "Active",
             "desc": "Fiora lunges at her enemy, dealing physical damage to all enemies hit. For the next 8 seconds, she takes 15% less damage and her attacks restore Health.",
             "stats": [
-                "Percent of Attack Damage: 225% / 225% / 250%",
+                "Percent of Attack Damage: 225% / 225% / 235%",
                 "Heal: 30 / 40 / 50"
             ],
             "imageUrl": "../tft-assets/set8/skills/fiora.png"
@@ -472,7 +474,7 @@
             "dps": 28,
             "health": 650,
             "magical_resistance": 45,
-            "starting_mana": 60
+            "starting_mana": 70
         },
         "skill": {
             "name": "Outta My Way!",
@@ -562,10 +564,10 @@
         ],
         "stats": {
             "armor": 50,
-            "attack_damage": 60,
+            "attack_damage": 45,
             "attack_range_slot": 1,
             "attack_speed": 0.8,
-            "dps": 48,
+            "dps": 36,
             "health": 800,
             "magical_resistance": 50,
             "starting_mana": 0
@@ -575,8 +577,8 @@
             "type": "Passive",
             "desc": "Passive: Jax leaps to his target and deals bonus magic damage every 3rd attack. The bonus damage increases every third attack up to 7 times.",
             "stats": [
-                "Base Damage: 110 / 165  / 285",
-                "Stacking Damage: 30 / 45 / 75"
+                "Base Damage: 100 / 150  / 250",
+                "Stacking Damage: 20 / 30 / 50"
             ],
             "imageUrl": "../tft-assets/set8/skills/jax.png"
         }
@@ -594,10 +596,10 @@
         ],
         "stats": {
             "armor": 20,
-            "attack_damage": 45,
+            "attack_damage": 50,
             "attack_range_slot": 4,
             "attack_speed": 0.7,
-            "dps": 32,
+            "dps": 35,
             "health": 550,
             "magical_resistance": 20,
             "starting_mana": 25
@@ -607,7 +609,7 @@
             "type": "Active",
             "desc": "Jinx fires a rocket at her target that explodes on impact, damaging all nearby enemies for magic damage and stunning them for 1.5 seconds.<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
-                "Damage: 200 / 300 / 480"
+                "Damage: 225 / 335 / 525"
             ],
             "imageUrl": "../tft-assets/set8/skills/jinx.png"
         }
@@ -638,8 +640,8 @@
             "type": "Active",
             "desc": "Passive: Kai'Sa's attacks apply Plasma. Her next attack against a target with 2 stacks of Plasma deal magic damage.<br><br>Active: Kai'Sa gains Attack Speed for 10 seconds. This bonus stacks!",
             "stats": [
-                "Attack Speed %: 40% / 50% / 65%",
-                "Damage: 150 / 225 / 385"
+                "Attack Speed %: 40% / 45% / 55%",
+                "Damage: 150 / 225 / 370"
             ],
             "imageUrl": "../tft-assets/set8/skills/kaiSa.png"
         }
@@ -703,7 +705,7 @@
             "type": "Active",
             "desc": "Leblanc fires sigils at her target each dealing magic damage. If the target dies, she completes casting the remaining sigils at the nearest enemy but adds 1 more sigil.",
             "stats": [
-                "Damage: 80 / 100 / 130",
+                "Damage: 85 / 105 / 130",
                 "Number of Sigils: 5 / 6 / 8"
             ],
             "imageUrl": "../tft-assets/set8/skills/leBlanc.png"
@@ -833,7 +835,7 @@
             "type": "Active",
             "desc": "Lux sends out a singularity to random enemy. When it detonates, it reduces the target's Attack Damage by 40% for 4 seconds, \r\nand deals to nearby enemies.",
             "stats": [
-                "Damage: 190 / 285 / 425"
+                "Damage: 200 / 300 / 450"
             ],
             "imageUrl": "../tft-assets/set8/skills/lux.png"
         }
@@ -864,7 +866,7 @@
             "type": "Active",
             "desc": "Malphite slams the ground, dealing magic damage to nearby enemies and granting himself Armor for 4 seconds.",
             "stats": [
-                "Damage: 140 / 215 / 335",
+                "Damage: 140 / 215 / 325",
                 "Armor: 100 / 125 / 150"
             ],
             "imageUrl": "../tft-assets/set8/skills/malphite.png"
@@ -896,7 +898,7 @@
             "type": "Active",
             "desc": "Miss Fortune fires 8 waves of bullets in her target's direction within channels for 2 seconds. Enemies take magic damage from the first bullet that hits them, and less magic damage from any other bullets that hit.",
             "stats": [
-                "Damage: 50 / 70 / 250",
+                "Damage: 45 / 65 / 210",
                 "Reduce Damage: 25 / 35 / 150"
             ],
             "imageUrl": "../tft-assets/set8/skills/missFortune.png"
@@ -921,14 +923,14 @@
             "dps": 49,
             "health": 1100,
             "magical_resistance": 70,
-            "starting_mana": 50
+            "starting_mana": 60
         },
         "skill": {
             "name": "Skylines",
             "type": "Active",
             "desc": "Mordekaiser transports the arena into his realm for a few seconds. He Shreds ALL enemies, then slams a building onto the arena that deals magic damage to enemies hit.<br><br>Shred: reduce Magic Resist",
             "stats": [
-                "Damage: 400 / 600 / 3000",
+                "Damage: 420 / 630 / 5555",
                 "Magic Resist Shred: 50% / 50% / 70%",
                 "Realm Duration: 4 / 4 / 6"
             ],
@@ -992,8 +994,8 @@
             "type": "Active",
             "desc": "Nilah whirls her whip-blade. dealing magic damage to nearby enemies while healing herself and allies health over 1 seconds. She finishes with a burst that deals magic damage.",
             "stats": [
-                "Heal: 275 / 325 / 400",
-                "Damage: 90 / 135 / 235"
+                "Heal: 250 / 300 / 350",
+                "Damage: 90 / 135 / 225"
             ],
             "imageUrl": "../tft-assets/set8/skills/nilah.png"
         }
@@ -1024,7 +1026,7 @@
             "type": "Active",
             "desc": "Passive: Nunu and Willump slowly roll a ball around the board, dealing magic damage to all enemies it passes through, and gaining 30 mana per second.<br><br>NuNu and Willump grow the ball, increashing their speed, radius of the ball, and its damage dealt by 40%.",
             "stats": [
-                "Damage: 135 / 205 / 2000"
+                "Damage: 125 / 190 / 2000"
             ],
             "imageUrl": "../tft-assets/set8/skills/nunu.png"
         }
@@ -1086,7 +1088,7 @@
             "desc": "Passive: +50 Armor<br><br>Active: Rammus powers himself up and leaps to the largest group of nearby enemies, dealing magic damage, knocking them up for 1.25 seconds, and reducing their Attack Damage by 40% for 4 seconds.",
             "stats": [
                 "Armor: 60 / 90 / 150",
-                "Armor Ratio: 130% / 175% / 225%",
+                "Armor Ratio: 150% / 175% / 205%",
                 "Bonus Damage: 30 / 50 / 80"
             ],
             "imageUrl": "../tft-assets/set8/skills/rammus.png"
@@ -1119,7 +1121,7 @@
             "desc": "Rell forms a tether between herself and her lowest percent Health ally, dealing magic damage to all enemies between herself and her bound ally. She also grants herself and her bound ally % of Rell's current Armor and Magic Resist for 4 seconds.",
             "stats": [
                 "% Armor and Magic Resisit: 50 / 60 / 70",
-                "Damage: 140 / 210 / 335"
+                "Damage: 140 / 210 / 325"
             ],
             "imageUrl": "../tft-assets/set8/skills/rell.png"
         }
@@ -1183,7 +1185,7 @@
             "desc": "Riven gains a Health shield for 4 seconds and empowers her next 3 attacks with bonus magic damage. If Riven has more Health than than her target, she deals 100% more bonus magic damage.",
             "stats": [
                 "Shield Amount: 325 / 400 / 500",
-                "Damage: 90 / 135 / 235"
+                "Damage: 90 / 135 / 225"
             ],
             "imageUrl": "../tft-assets/set8/skills/riven.png"
         }
@@ -1215,7 +1217,7 @@
             "type": "Active",
             "desc": "Samira rapidly firing bullets that deal physical damage for 1.5 seconds. Bullets ricochet to nearby enemies, for 20% less damage.",
             "stats": [
-                "Percent of Attack Damage: 500% / 525% / 1000%",
+                "Percent of Attack Damage: 500% / 525% / 1500%",
                 "Damage: 100 / 130 / 666"
             ],
             "imageUrl": "../tft-assets/set8/skills/samira.png"
@@ -1279,8 +1281,8 @@
             "type": "Active",
             "desc": "Senna fires a laser beam in the direction of a nearby enemy. dealing physical damage to all enemies in a line.",
             "stats": [
-                "Percent of Attack Damage: 170% / 180% / 190%",
-                "Bonus Damage: 45 / 65 / 120"
+                "Percent of Attack Damage: 175% / 185% / 190%",
+                "Bonus Damage: 45 / 65 / 125"
             ],
             "imageUrl": "../tft-assets/set8/skills/senna.png"
         }
@@ -1302,18 +1304,18 @@
             "attack_range_slot": 1,
             "attack_speed": 0.65,
             "dps": 59,
-            "health": 900,
+            "health": 1000,
             "magical_resistance": 60,
             "starting_mana": 75
         },
         "skill": {
             "name": "Mecha SLAM!",
             "type": "Active",
-            "desc": "Sett gains a Health shield and becomes immune to crowd control for 2.5 seconds. He charges up while the shield is active; when the shield breaks or expires, he deals physical in a cone to all enemies caught within the blast. The blast damage increases depending on how long Sett was charged up.",
+            "desc": "Sett gains a Health shield and becomes immune to crowd control for 2 seconds. He charges up while the shield is active; when the shield breaks or expires, he deals physical in a cone to all enemies caught within the blast. The blast damage increases depending on how long Sett was charged up.",
             "stats": [
                 "Shield Health: 325 / 425 / 1500",
                 "Min Attack Damage %: 140% / 150% / 300%",
-                "Max Attack Damage %: 240% / 250% / 400%"
+                "Max Attack Damage %: 300% / 320% / 800%"
             ],
             "imageUrl": "../tft-assets/set8/skills/sett.png"
         }
@@ -1346,7 +1348,7 @@
             "stats": [
                 "Allies Healed: 3 / 3 / 3",
                 "Healing: 80 / 100 / 125",
-                "Percent Of Attack Damage: 400% / 400% / 425%"
+                "Percent Of Attack Damage: 400% / 400% / 410%"
             ],
             "imageUrl": "../tft-assets/set8/skills/sivir.png"
         }
@@ -1378,9 +1380,9 @@
             "type": "Active",
             "desc": "Sona fires 2 beams that cycle between 3 phases:<br><br>1: Deals magic damage to the nearest enemies<br>2. Heals the lowest health allies<br>3. Deals magic damage to the nearest enemies and Stuns them<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
-                "Phase 1 Damage: 150 / 225 / 395",
+                "Phase 1 Damage: 150 / 225 / 430",
                 "Healing: 180 / 220 / 300",
-                "Phase 3 Damage: 100 / 150 / 265"
+                "Phase 3 Damage: 100 / 150 / 300"
             ],
             "imageUrl": "../tft-assets/set8/skills/sona.png"
         }
@@ -1409,10 +1411,10 @@
         "skill": {
             "name": "Starcall",
             "type": "Active",
-            "desc": "Soraka launches a star at her target, which deals magic damage and heals Soraka for 10% of her maximum Health. Every 3 casts, she launches stars at each of the nearest enemies.",
+            "desc": "Soraka launches a star at her target, which deals magic damage and heals Soraka for 8% of her maximum Health. Every 3 casts, she launches stars at each of the nearest enemies.",
             "stats": [
                 "Damage: 225 / 340 / 750",
-                "Empowered Stars: 3 / 3 / 5"
+                "Empowered Stars: 3 / 3 / 4"
             ],
             "imageUrl": "../tft-assets/set8/skills/soraka.png"
         }
@@ -1434,7 +1436,7 @@
             "attack_range_slot": 1,
             "attack_speed": 0.55,
             "dps": 28,
-            "health": 650,
+            "health": 700,
             "magical_resistance": 45,
             "starting_mana": 30
         },
@@ -1444,7 +1446,7 @@
             "desc": "Sylas whirls his chains around him, healing himself for health and dealing  magic damage to nearby enemies.",
             "stats": [
                 "% Health as Damage: 10% / 12% / 18%",
-                "Heal: 150 / 175 / 200"
+                "Heal: 150 / 170 / 190"
             ],
             "imageUrl": "../tft-assets/set8/skills/sylas.png"
         }
@@ -1468,7 +1470,7 @@
             "dps": 34,
             "health": 850,
             "magical_resistance": 40,
-            "starting_mana": 90
+            "starting_mana": 70
         },
         "skill": {
             "name": "Force of Will",
@@ -1529,8 +1531,8 @@
             "armor": 25,
             "attack_damage": 50,
             "attack_range_slot": 1,
-            "attack_speed": 0.65,
-            "dps": 33,
+            "attack_speed": 0.7,
+            "dps": 35,
             "health": 600,
             "magical_resistance": 25,
             "starting_mana": 0
@@ -1540,7 +1542,7 @@
             "type": "Active",
             "desc": "Talon jumps to the furthest unit from the center of the board and stabs them magic damage. If this kills them, Talon heals.",
             "stats": [
-                "Damage: 200 / 300 / 450",
+                "Damage: 170 / 250 / 370",
                 "Heal: 100 / 200 / 250"
             ],
             "imageUrl": "../tft-assets/set8/skills/talon.png"
@@ -1571,8 +1573,9 @@
             "desc": "Passive: Urgot's claw fires 5 attacks per second, each dealing physical damage.<br><br>Active: Urgot summons a gigantic wave behind his enemies that deals % of their maximum Health as magic damage. The wave knocks enemies forward 1 hex, Stuns them, and has a chance to dredge up treasure (gold and loot).<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
                 "Max Health %: 10% / 15% / 99%",
-                "Stun Duration: 1.25 / 1.5 / 5",
-                "Treasure Chance: 12% / 15% / 100%"
+                "Stun Duration: 1 / 1.5 / 5",
+                "Treasure Chance: 15% / 25% / 100%",
+                "Item Chance: 15% / 25% / 75%"
             ],
             "imageUrl": "../tft-assets/set8/skills/urgot.png"
         }
@@ -1604,8 +1607,8 @@
             "type": "Active",
             "desc": "Vayne fires a heavy bolt at her target, dealing true damage.",
             "stats": [
-                "Percent of Attack Damage: 120% / 120% / 130%",
-                "Bonus Physical Damage: 18 / 25 / 40"
+                "Percent of Attack Damage: 130% / 130% / 140%",
+                "Bonus Physical Damage: 18 / 25 / 45"
             ],
             "imageUrl": "../tft-assets/set8/skills/vayne.png"
         }
@@ -1634,7 +1637,7 @@
             "type": "Active",
             "desc": "Vel'koz Stun the enemy champion that has dealt the most damage this round for a few seconds, dealing magic damage to them.<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
-                "Damage: 300 / 450 / 775",
+                "Damage: 275 / 415 / 680",
                 "Stun Duration: 2 / 2.25 / 2.5"
             ],
             "imageUrl": "../tft-assets/set8/skills/velkoz.png"
@@ -1668,7 +1671,7 @@
             "desc": "Vi grants herself a Health shield for 4 seconds and Sunders nearby enemies for 4 seconds. Then she deals dealing physical damage to nearby enemies.<br><br>Sunder: reduce Armor",
             "stats": [
                 "Shield Amount: 275 / 350 / 450",
-                "Armor Reduction %: 40% / 50% / 70%"
+                "Armor Reduction %: 50% / 50% / 50%"
             ],
             "imageUrl": "../tft-assets/set8/skills/vi.png"
         }
@@ -1690,7 +1693,7 @@
             "attack_range_slot": 1,
             "attack_speed": 0.75,
             "dps": 45,
-            "health": 900,
+            "health": 950,
             "magical_resistance": 50,
             "starting_mana": 0
         },
@@ -1699,7 +1702,7 @@
             "type": "Active",
             "desc": "Viego becomes unstoppable, leaping to the largest cluster of nearby enemies and slamming his sword down on the enemy with the lowest Health, dealing magic damage to the primary target and magic damage to enemies nearby. If Viego kills an enemy, he casts again with reduced damage.",
             "stats": [
-                "Damage: 250 / 375 / 850",
+                "Damage: 260 / 390 / 850",
                 "AOE Damage: 125 / 185 / 425",
                 "Falloff Percent: 18% / 18% / 1%"
             ],
@@ -1764,7 +1767,7 @@
             "type": "Active",
             "desc": "Yasuo fires a whirlwind at his target dealing magic damage and knocking up units hit for a few seconds. If the current position isn't ideal, he will dash up to 1 hex to find more units in a line.",
             "stats": [
-                "Magic Damage: 210 / 315 / 500",
+                "Magic Damage: 210 / 315 / 485",
                 "Duration: 1.5 / 1.5 / 1.5"
             ],
             "imageUrl": "../tft-assets/set8/skills/yasuo.png"
@@ -1785,7 +1788,7 @@
         "stats": {
             "armor": 20,
             "attack_damage": 40,
-            "attack_range_slot": 5,
+            "attack_range_slot": 4,
             "attack_speed": 0.7,
             "dps": 28,
             "health": 550,
@@ -1797,7 +1800,7 @@
             "type": "Active",
             "desc": "Yuumi fires a curved missile at the furthest target in her attack range, dealing magic damage to the first unit hit.",
             "stats": [
-                "Damage: 255 / 385 / 600"
+                "Damage: 220 / 330 / 510"
             ],
             "imageUrl": "../tft-assets/set8/skills/yuumi.png"
         }
@@ -1824,7 +1827,7 @@
         "skill": {
             "name": "Symbiotic Split",
             "type": "Active",
-            "desc": "Passive: Upon dying, split into smaller Zac Blobs with % of Zac's maximum Health that taunt nearby enemies.<br><br>Active: Zac bounces into the air and slams down, dealing magic damage to nearby enemies. Then he heals 20% of his missing Health.",
+            "desc": "Passive: Upon dying, split into smaller Zac Blobs with % of Zac's maximum Health that taunt nearby enemies.<br><br>Active: Zac bounces into the air and slams down, dealing magic damage to nearby enemies. Then he heals 30% of his missing Health.",
             "stats": [
                 "Blobs: 2 / 2 / 4",
                 "Blob Health: 40% / 40% / 50%",
@@ -1861,8 +1864,8 @@
             "desc": "Zed teleports behind his target and Sunders Armor for a few seconds and enters KILL Mode for a few seconds: Attacks deal bonus physical damage and every 3rd attack deals physical damage to all adjacent enemies.<br><br>Sunder: reduce Armor",
             "stats": [
                 "Armor Shred: 15 / 20 / 50",
-                "Bonus Damage: 30 / 45 / 200",
-                "Duration: 6 / 6 / 15"
+                "Bonus Damage: 40 / 60 / 300",
+                "Duration: 7 / 7 / 7"
             ],
             "imageUrl": "../tft-assets/set8/skills/zed.png"
         }
@@ -1894,7 +1897,7 @@
             "type": "Active",
             "desc": "Zoe launches a bubble at the nearest non-infected enemy, infecting them with a virus that deals magic damage over 10 seconds. Infected enemies take more damage.",
             "stats": [
-                "Damage: 375 / 550 / 1000",
+                "Damage: 375 / 550 / 925",
                 "Percent Bonus Damage: 10% / 10% / 20%"
             ],
             "imageUrl": "../tft-assets/set8/skills/zoe.png"

@@ -2,21 +2,21 @@
     {
         "key": "smash",
         "name": "Smash!",
-        "desc": "Gain an Alistar. He restores 10 Mana per second and his Ability hits all enemies within 1 hex.",
+        "desc": "Gain an Alistar. He restores 15 Mana per second and his Ability hits all enemies within 1 hex.",
         "imageUrl": "../tft-assets/set8/augments/smash.jpg",
         "tier": "silver"
     },
     {
         "key": "behemoth",
         "name": "Behemoth",
-        "desc": "Gain an Alistar. He gains 300 bonus Health and his Ability deals bonus damage equal to 30% of his maximum Health.",
+        "desc": "Gain an Alistar. He gains 450 bonus Health and his Ability deals bonus damage equal to 30% of his maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/behemoth.jpg",
         "tier": "silver"
     },
     {
         "key": "reflectorShield",
         "name": "Reflector Shield",
-        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 185 magic damage (once every 0.5 seconds).",
+        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 185 magic damage (once every 0.2 seconds).",
         "imageUrl": "../tft-assets/set8/augments/reflectorShield.jpg",
         "tier": "silver"
     },
@@ -30,21 +30,21 @@
     {
         "key": "armorPiercingRounds",
         "name": "Armor Piercing Rounds",
-        "desc": "Gain an Aphelios. His attacks reduce the target's Armor by 10% for the rest of combat (this can stack).",
+        "desc": "Gain an Aphelios. His attacks reduce the target's Armor by 20% for the rest of combat (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/armorPiercingRounds.jpg",
         "tier": "silver"
     },
     {
         "key": "lockedAndLoaded",
         "name": "Locked and Loaded",
-        "desc": "Gain an Aphelios. When you field him, your team gains 15% Attack Damage and an additional 5% every 5 seconds.",
+        "desc": "Gain an Aphelios. When you field him, your team gains 10% Attack Damage and an additional 5% every 5 seconds.",
         "imageUrl": "../tft-assets/set8/augments/lockedAndLoaded.jpg",
         "tier": "silver"
     },
     {
         "key": "laserFocus",
         "name": "Laser Focus",
-        "desc": "Gain an Ashe. She gains 40% Attack Speed, doubled while her Ability is active.",
+        "desc": "Gain an Ashe. She gains 45% Attack Speed, doubled while her Ability is active.",
         "imageUrl": "../tft-assets/set8/augments/laserFocus.jpg",
         "tier": "silver"
     },
@@ -65,7 +65,7 @@
     {
         "key": "velocityImpact",
         "name": "Velocity Impact",
-        "desc": "Gain an Aurelion Sol. His Ability stuns enemies hit for 2 seconds.",
+        "desc": "Gain an Aurelion Sol. His Ability stuns enemies hit for 1.75 seconds.",
         "imageUrl": "../tft-assets/set8/augments/velocityImpact.jpg",
         "tier": "silver"
     },
@@ -79,7 +79,7 @@
     {
         "key": "voidmother",
         "name": "Voidmother",
-        "desc": "Gain a Bel'Veth. Combat Start: Your strongest Bel'Veth creates 2 Voidspawns with 75% of their normal Health in front of her.",
+        "desc": "Gain a Bel'Veth. Combat Start: Your strongest Bel'Veth creates 2 Voidspawns with 60% of their normal Health in front of her.",
         "imageUrl": "../tft-assets/set8/augments/voidmother.jpg",
         "tier": "silver"
     },
@@ -121,7 +121,7 @@
     {
         "key": "cosmicBarrier",
         "name": "Cosmic Barrier",
-        "desc": "Gain a Cho'Gath. When you field Cho'Gath, your team gains 40 Magic Resist, doubled for Cho'Gath.",
+        "desc": "Gain a Cho'Gath. When you field Cho'Gath, your team gains 35 Magic Resist, doubled for Cho'Gath.",
         "imageUrl": "../tft-assets/set8/augments/cosmicBarrier.jpg",
         "tier": "silver"
     },
@@ -156,21 +156,21 @@
     {
         "key": "risingSpellForce",
         "name": "Rising Spell Force",
-        "desc": "Gain an Ezreal. When he casts his Ability, he gains @AD@% Attack Speed and 25 Ability Power for the rest of combat (this can stack).",
+        "desc": "Gain an Ezreal. When he casts his Ability, he gains @AD@% Attack Speed and 20 Ability Power for the rest of combat (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/risingSpellForce.jpg",
         "tier": "silver"
     },
     {
         "key": "raiderSSpoils",
         "name": "Raider's Spoils",
-        "desc": "Gain an Ezreal. Combat Start: Your strongest Ezreal grants his nearest ally a temporary Artifact for the rest of combat and gains 1 gold.",
+        "desc": "Gain an Ezreal. Combat Start: Your strongest Ezreal grants his nearest ally a temporary Artifact for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/raiderSSpoils.jpg",
         "tier": "silver"
     },
     {
         "key": "traumaticMemories",
         "name": "Traumatic Memories",
-        "desc": "Gain a Fiddlesticks. When an ally dies, it gains 200 bonus Health for the rest of combat.",
+        "desc": "Gain a Fiddlesticks. When an ally dies, it gains 350 bonus Health for the rest of combat.",
         "imageUrl": "../tft-assets/set8/augments/traumaticMemories.jpg",
         "tier": "silver"
     },
@@ -212,7 +212,7 @@
     {
         "key": "flamingRicochet",
         "name": "Flaming Ricochet",
-        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 75% damage.",
+        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 90% damage.",
         "imageUrl": "../tft-assets/set8/augments/flamingRicochet.jpg",
         "tier": "silver"
     },
@@ -226,7 +226,7 @@
     {
         "key": "rapidReporting",
         "name": "Rapid Reporting",
-        "desc": "Gain a Janna. Her Ability restores 5 Mana per enemy hit.",
+        "desc": "Gain a Janna. Her Ability restores 15 Mana per enemy hit.",
         "imageUrl": "../tft-assets/set8/augments/rapidReporting.jpg",
         "tier": "silver"
     },
@@ -308,10 +308,10 @@
         "tier": "silver"
     },
     {
-        "key": "flurry",
-        "name": "Flurry",
-        "desc": "Gain a Lee Sin. He gains 60% Attack Speed, tripled for 5 seconds after casting his Ability.",
-        "imageUrl": "../tft-assets/set8/augments/flurry.jpg",
+        "key": "cleansingSafeguard",
+        "name": "Cleansing Safeguard",
+        "desc": "Gain a Lee Sin. His Ability costs 30 less Mana to cast. When he casts, he sheds all negative effects and heals 18% of his missing Health.",
+        "imageUrl": "../tft-assets/set8/augments/cleansingSafeguard.jpg",
         "tier": "silver"
     },
     {
@@ -345,21 +345,21 @@
     {
         "key": "fosterGrowth",
         "name": "Foster Growth",
-        "desc": "Gain a Lulu. When you field her, she and her allies gain 35 Ability Power when equipped with an item.",
+        "desc": "Gain a Lulu. When you field her, she and her allies gain 40 Ability Power when equipped with an item.",
         "imageUrl": "../tft-assets/set8/augments/fosterGrowth.jpg",
         "tier": "silver"
     },
     {
         "key": "illuminatingSingularity",
         "name": "Illuminating Singularity",
-        "desc": "Gain a Lux. Every 2nd cast, her Ability deals 180% increased damage.",
+        "desc": "Gain a Lux. Every 2nd cast, her Ability deals 150% increased damage.",
         "imageUrl": "../tft-assets/set8/augments/illuminatingSingularity.jpg",
         "tier": "silver"
     },
     {
         "key": "lucentBarrier",
         "name": "Lucent Barrier",
-        "desc": "Gain a Lux. Combat Start: She grants her 2 nearest allies a 400 Health Shield and 40 Ability Power.",
+        "desc": "Gain a Lux. Combat Start: She grants her 2 nearest allies a 350 Health Shield and 35 Ability Power.",
         "imageUrl": "../tft-assets/set8/augments/lucentBarrier.jpg",
         "tier": "silver"
     },
@@ -436,7 +436,7 @@
     {
         "key": "theySeeMeRolling",
         "name": "They See Me Rolling",
-        "desc": "Gain a Nunu. When you field him, your team gains 20 Ability Power and an additional 5 every 5 seconds.",
+        "desc": "Gain a Nunu. When you field him, your team gains 10 Ability Power and an additional 5 every 5 seconds.",
         "imageUrl": "../tft-assets/set8/augments/theySeeMeRolling.jpg",
         "tier": "silver"
     },
@@ -464,14 +464,14 @@
     {
         "key": "armoredDillo",
         "name": "Armored-dillo",
-        "desc": "Gain a Rammus. When you field him, your team gains 40 Armor, doubled for himself.",
+        "desc": "Gain a Rammus. When you field him, your team gains 35 Armor, doubled for himself.",
         "imageUrl": "../tft-assets/set8/augments/armoredDillo.jpg",
         "tier": "silver"
     },
     {
         "key": "spikedShell",
         "name": "Spiked Shell",
-        "desc": "Gain a Rammus. When struck by an attack, he deals magic damage equal to 180% of his Armor to all nearby enemies (once every 2 seconds).",
+        "desc": "Gain a Rammus. When struck by an attack, he deals magic damage equal to 150% of his Armor to all nearby enemies (once every 2 seconds).",
         "imageUrl": "../tft-assets/set8/augments/spikedShell.jpg",
         "tier": "silver"
     },
@@ -499,7 +499,7 @@
     {
         "key": "reignOfAnger",
         "name": "Reign of Anger",
-        "desc": "Gain a Renekton. He gains 40% Attack Speed and an additional 2% per 100 missing Health.",
+        "desc": "Gain a Renekton. He gains 60% Attack Speed and an additional 2% per 100 missing Health.",
         "imageUrl": "../tft-assets/set8/augments/reignOfAnger.jpg",
         "tier": "silver"
     },
@@ -534,7 +534,7 @@
     {
         "key": "daredevil",
         "name": "Daredevil",
-        "desc": "Gain a Samira. For every 10 Tactician Health missing, she grants your team 4.5% Attack Speed.",
+        "desc": "Gain a Samira. For every 10 Tactician Health missing, she grants your team 3.5% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/daredevil.jpg",
         "tier": "silver"
     },
@@ -597,7 +597,7 @@
     {
         "key": "powerGrid",
         "name": "Power Grid",
-        "desc": "Gain a Sona. She gains 30 Ability Power and her Ability fires 1 additional beam.",
+        "desc": "Gain a Sona. She gains 10 Ability Power and her Ability fires 1 additional beam.",
         "imageUrl": "../tft-assets/set8/augments/powerGrid.jpg",
         "tier": "silver"
     },
@@ -625,7 +625,7 @@
     {
         "key": "kingslayer",
         "name": "Kingslayer",
-        "desc": "Gain a Sylas. His Ability deals 50% more damage and restores 15% of his missing Health.",
+        "desc": "Gain a Sylas. Gain maximum 30% and increase damage 40%.",
         "imageUrl": "../tft-assets/set8/augments/kingslayer.jpg",
         "tier": "silver"
     },
@@ -646,21 +646,21 @@
     {
         "key": "empoweredReserves",
         "name": "Empowered Reserves",
-        "desc": "Gain a Syndra. When you field her, your team gains 6 Ability Power per unit on your bench.",
+        "desc": "Gain a Syndra. When you field her, your team gains 5 Ability Power per unit on your bench.",
         "imageUrl": "../tft-assets/set8/augments/empoweredReserves.jpg",
         "tier": "silver"
     },
     {
         "key": "stoneweaver",
         "name": "Stoneweaver",
-        "desc": "Gain a Taliyah. She gains 25 Ability Power and her Ability deals 30% more damage to enemies above 1600 maximum Health.",
+        "desc": "Gain a Taliyah. She gains 25 Ability Power and her Ability deals 20% more damage to enemies above 1600 maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/stoneweaver.jpg",
         "tier": "silver"
     },
     {
         "key": "beTheStone",
         "name": "Be the Stone",
-        "desc": "Gain a Taliyah. Combat Start: She shields the 3 highest Health allies for 60% of their maximum Health.",
+        "desc": "Gain a Taliyah. Combat Start: She shields the 3 highest Health allies for 50% of their maximum Health.",
         "imageUrl": "../tft-assets/set8/augments/beTheStone.jpg",
         "tier": "silver"
     },
@@ -695,7 +695,7 @@
     {
         "key": "spreadShot",
         "name": "Spread Shot",
-        "desc": "Gain a Vayne. Her Ability additionally fires at 2 other nearby enemies dealing 50% damage.",
+        "desc": "Gain a Vayne. Her Ability additionally fires at 2 other nearby enemies dealing 75% damage.",
         "imageUrl": "../tft-assets/set8/augments/spreadShot.jpg",
         "tier": "silver"
     },
@@ -716,7 +716,7 @@
     {
         "key": "frozenTundra",
         "name": "Frozen Tundra",
-        "desc": "Gain a Vel'Koz. Combat Start: He slows the Attack Speed of all enemies by 30% for 6 seconds.",
+        "desc": "Gain a Vel'Koz. Combat Start: He slows the Attack Speed of all enemies by 30% for 8 seconds.",
         "imageUrl": "../tft-assets/set8/augments/frozenTundra.jpg",
         "tier": "silver"
     },
@@ -730,7 +730,7 @@
     {
         "key": "boxingLessons",
         "name": "Boxing Lessons",
-        "desc": "Gain a Vi. When you field her, your team gains 200 bonus Health.",
+        "desc": "Gain a Vi. When you field her, your team gains 180 bonus Health.",
         "imageUrl": "../tft-assets/set8/augments/boxingLessons.jpg",
         "tier": "silver"
     },
@@ -751,14 +751,14 @@
     {
         "key": "reEnergize",
         "name": "Re-Energize",
-        "desc": "Gain a Wukong. When you field him, your team restores 75% of their Mana after their first cast each combat.",
+        "desc": "Gain a Wukong. When you field him, your team restores 60% of their Mana after their first cast each combat.",
         "imageUrl": "../tft-assets/set8/augments/reEnergize.jpg",
         "tier": "silver"
     },
     {
         "key": "siphoningWinds",
         "name": "Siphoning Winds",
-        "desc": "Gain a Yasuo. He gains 66% Omnivamp.",
+        "desc": "Gain a Yasuo. He gains 50% Omnivamp.",
         "imageUrl": "../tft-assets/set8/augments/siphoningWinds.jpg",
         "tier": "silver"
     },
@@ -772,7 +772,7 @@
     {
         "key": "predatoryPrecision",
         "name": "Predatory Precision",
-        "desc": "Gain a Yuumi. She gains 30 Ability Power, 75% Critical Strike Chance and her Ability can critically strike.",
+        "desc": "Gain a Yuumi. She gains 5 Ability Power, 75% Critical Strike Chance and her Ability can critically strike.",
         "imageUrl": "../tft-assets/set8/augments/predatoryPrecision.jpg",
         "tier": "silver"
     },
@@ -807,7 +807,7 @@
     {
         "key": "contemptForTheWeak",
         "name": "Contempt for the Weak",
-        "desc": "Gain a Zed. When you field him, your team gains 12% Attack Speed. Upon scoring a taking down their target, they dash to a new one and triple this bonus for 2.5 seconds.",
+        "desc": "Gain a Zed. When you field him, your team gains 7% Attack Speed. Upon scoring a taking down their target, they dash to a new one and triple this bonus for 2.5 seconds.",
         "imageUrl": "../tft-assets/set8/augments/contemptForTheWeak.jpg",
         "tier": "silver"
     },
@@ -830,13 +830,6 @@
         "name": "Battlemage I",
         "desc": "Your units that start combat in the front 2 rows gain 15 Armor and 15 Ability Power.",
         "imageUrl": "../tft-assets/set8/augments/battlemageI.png",
-        "tier": "silver"
-    },
-    {
-        "key": "blueBatteryI",
-        "name": "Blue Battery I",
-        "desc": "After casting their Ability, your units restore 10 Mana.",
-        "imageUrl": "../tft-assets/set8/augments/blueBatteryI.png",
         "tier": "silver"
     },
     {
@@ -884,7 +877,7 @@
     {
         "key": "electrochargeI",
         "name": "Electrocharge I",
-        "desc": "When your units receive critical strikes, they deal 35-90 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 30-90 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/set8/augments/electrochargeI.png",
         "tier": "silver"
     },
@@ -919,7 +912,7 @@
     {
         "key": "ludenSEchoI",
         "name": "Luden's Echo I",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 35-90 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 35-80 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoI.png",
         "tier": "silver"
     },
@@ -935,13 +928,6 @@
         "name": "Knife's Edge I",
         "desc": "Your units that start combat in the front 2 rows gain 15 Attack Damage.",
         "imageUrl": "../tft-assets/set8/augments/knifeSEdgeI.png",
-        "tier": "silver"
-    },
-    {
-        "key": "pandoraSItems",
-        "name": "Pandora's Items",
-        "desc": "Gain a random component. At the start of each round, items on your bench are randomized (excluding Tactician's Crown, Spatula, and consumables).",
-        "imageUrl": "../tft-assets/set8/augments/pandoraSItems.png",
         "tier": "silver"
     },
     {
@@ -961,7 +947,7 @@
     {
         "key": "thrillOfTheHuntI",
         "name": "Thrill of the Hunt I",
-        "desc": "Your units heal 300 Health on kill.",
+        "desc": "Your units heal 350 Health on kill.",
         "imageUrl": "../tft-assets/set8/augments/thrillOfTheHuntI.png",
         "tier": "silver"
     },
@@ -973,24 +959,10 @@
         "tier": "silver"
     },
     {
-        "key": "builtDifferentI",
-        "name": "Built Different I",
-        "desc": "Your units with no Traits active gain 200-300 Health and 25-55% Attack Speed. (based on current Stage)",
-        "imageUrl": "../tft-assets/set8/augments/builtDifferentI.png",
-        "tier": "silver"
-    },
-    {
         "key": "triForceI",
         "name": "Tri Force I",
         "desc": "Your Tier 3 champions gain 75 Health, 10 starting Mana, and 10% Attack Speed.",
         "imageUrl": "../tft-assets/set8/augments/triForceI.png",
-        "tier": "silver"
-    },
-    {
-        "key": "doubleTroubleI",
-        "name": "Double Trouble I",
-        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 25 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
-        "imageUrl": "../tft-assets/set8/augments/doubleTroubleI.png",
         "tier": "silver"
     },
     {
@@ -1248,7 +1220,7 @@
     {
         "key": "electrochargeII",
         "name": "Electrocharge II",
-        "desc": "When your units receive critical strikes, they deal 60-120 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 50-110 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/set8/augments/electrochargeII.png",
         "tier": "gold"
     },
@@ -1269,14 +1241,14 @@
     {
         "key": "jeweledLotus",
         "name": "Jeweled Lotus",
-        "desc": "Magic and true damage from your units' Abilities can critically strike. Your units gain 25% Critical Strike Chance.",
+        "desc": "Magic and true damage from your units' Abilities can critically strike. Your units gain 20% Critical Strike Chance.",
         "imageUrl": "../tft-assets/set8/augments/jeweledLotus.png",
         "tier": "gold"
     },
     {
         "key": "ludenSEchoII",
         "name": "Luden's Echo II",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 50-140 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 50-110 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoII.png",
         "tier": "gold"
     },
@@ -1381,14 +1353,14 @@
     {
         "key": "tradeSector+",
         "name": "Trade Sector+",
-        "desc": "Gain a free Shop refresh each round. Gain 12 golds.",
+        "desc": "Gain a free Shop refresh each round. Gain 10 golds.",
         "imageUrl": "../tft-assets/set8/augments/tradeSector+.png",
         "tier": "gold"
     },
     {
         "key": "builtDifferentII",
         "name": "Built Different II",
-        "desc": "Your units with no Traits active gain 250-350 Health and 40-70% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 175-325 Health and 40-70% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/set8/augments/builtDifferentII.png",
         "tier": "gold"
     },
@@ -1409,7 +1381,7 @@
     {
         "key": "doubleTroubleII",
         "name": "Double Trouble II",
-        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 35 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 30 Attack Damage, Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
         "imageUrl": "../tft-assets/set8/augments/doubleTroubleII.png",
         "tier": "gold"
     },
@@ -1682,7 +1654,7 @@
     {
         "key": "electrochargeIII",
         "name": "Electrocharge III",
-        "desc": "When your units receive critical strikes, they deal 105-210 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 95-185 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/set8/augments/electrochargeIII.png",
         "tier": "prismatic"
     },
@@ -1717,7 +1689,7 @@
     {
         "key": "highRoller",
         "name": "High Roller",
-        "desc": "Gain 3 Loaded Dice and 6 gold.",
+        "desc": "Gain 3 Loaded Dice and 3 gold.",
         "imageUrl": "../tft-assets/set8/augments/highRoller.png",
         "tier": "prismatic"
     },
@@ -1731,7 +1703,7 @@
     {
         "key": "ludenSEchoIII",
         "name": "Luden's Echo III",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 80-215 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 80-185 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/set8/augments/ludenSEchoIII.png",
         "tier": "prismatic"
     },
@@ -1773,7 +1745,7 @@
     {
         "key": "builtDifferentIII",
         "name": "Built Different III",
-        "desc": "Your units with no Traits active gain 300-450 Health and 50-80% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 225-450 Health and 50-80% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/set8/augments/builtDifferentIII.png",
         "tier": "prismatic"
     },
@@ -1787,7 +1759,7 @@
     {
         "key": "doubleTroubleIII",
         "name": "Double Trouble III",
-        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 45% Attack Damage and 45 Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+        "desc": "If you have exactly 2 copies of a champion on your board, they both gain 40% Attack Damage and 40 Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
         "imageUrl": "../tft-assets/set8/augments/doubleTroubleIII.png",
         "tier": "prismatic"
     },
@@ -1871,7 +1843,7 @@
     {
         "key": "thinkFast",
         "name": "Think Fast",
-        "desc": "Shop refreshes are free until the end of this round. Traits and other augments do not benefit from these free shops. Gain 8 gold.",
+        "desc": "Shop refreshes are free until the end of this round. Traits and other augments do not benefit from these free shops. Gain 3 gold.",
         "imageUrl": "../tft-assets/set8/augments/thinkFast.png",
         "tier": "prismatic"
     },
