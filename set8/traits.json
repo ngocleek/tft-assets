@@ -284,12 +284,12 @@
                 "max": 3
             },
             {
-                "style": "gold",
+                "style": "silver",
                 "min": 4,
                 "max": 5
             },
             {
-                "style": "chromatic",
+                "style": "gold",
                 "min": 6
             }
         ]
