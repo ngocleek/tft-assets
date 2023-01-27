@@ -51,7 +51,7 @@
     {
         "key": "corpsFocus",
         "name": "Corps Focus",
-        "desc": "Gain an Ashe. When you field her, your team gains 20% Attack Speed, doubled while her Ability is active.",
+        "desc": "Gain an Ashe. When you field her, your team gains 15% Attack Speed, doubled while her Ability is active.",
         "imageUrl": "../tft-assets/set8/augments/corpsFocus.jpg",
         "tier": "silver"
     },
@@ -114,7 +114,7 @@
     {
         "key": "energyVoid",
         "name": "Energy Void",
-        "desc": "Gain a Cho'Gath. Each time his Ability hits an enemy, he steals 20% of their Magic Resist.",
+        "desc": "Gain a Cho'Gath. Each time his Ability hits an enemy, he steals 70% of their Magic Resist.",
         "imageUrl": "../tft-assets/set8/augments/energyVoid.jpg",
         "tier": "silver"
     },
@@ -240,7 +240,7 @@
     {
         "key": "relentlessAssault",
         "name": "Relentless Assault",
-        "desc": "Gain a Jax. After every 3rd attack, he gains 9% Attack Speed for the rest of combat (this can stack).",
+        "desc": "Gain a Jax. After every 3rd attack, he gains 12% Attack Speed for the rest of combat (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/relentlessAssault.jpg",
         "tier": "silver"
     },
@@ -380,7 +380,7 @@
     {
         "key": "bunnyMercenary",
         "name": "Bunny Mercenary",
-        "desc": "Gain a Miss Fortune. Her Ability covers a wider cone and she gains a 250 Health shield while channeling.",
+        "desc": "Gain a Miss Fortune. Her Ability covers a wider cone and she gains a 200 Health shield while channeling.",
         "imageUrl": "../tft-assets/set8/augments/bunnyMercenary.jpg",
         "tier": "silver"
     },
@@ -590,7 +590,7 @@
     {
         "key": "endlessPizza",
         "name": "Endless Pizza",
-        "desc": "Gain a Sivir. When you field her, your team heals 15% of their missing Health every 7 seconds. Eliminate all harmful effects.",
+        "desc": "Gain a Sivir. When you field her, your team heals 12% of their missing Health every 8 seconds. Eliminate all harmful effects.",
         "imageUrl": "../tft-assets/set8/augments/endlessPizza.jpg",
         "tier": "silver"
     },
@@ -639,7 +639,7 @@
     {
         "key": "powerOverwhelming",
         "name": "Power Overwhelming",
-        "desc": "Gain a Syndra. Allies summoned by her Ability gain 70% Attack Damage and 70 Ability Power, Armor, and Magic Resist.",
+        "desc": "Gain a Syndra. Allies summoned by her Ability gain 80% Attack Damage and 80 Ability Power, Armor, and Magic Resist.",
         "imageUrl": "../tft-assets/set8/augments/powerOverwhelming.jpg",
         "tier": "silver"
     },
@@ -674,7 +674,7 @@
     {
         "key": "oXIanRage",
         "name": "OX-ian Rage",
-        "desc": "Gain a Talon. When you field him, your team gains 10% Attack Damage and 15 Ability Power, tripled when they are below 50% Health.",
+        "desc": "Gain a Talon. When you field him, your team gains 10% Attack Damage and 10 Ability Power, tripled when they are below 50% Health.",
         "imageUrl": "../tft-assets/set8/augments/oXIanRage.jpg",
         "tier": "silver"
     },
@@ -709,7 +709,7 @@
     {
         "key": "frostburn",
         "name": "Frostburn",
-        "desc": "Gain a Vel'Koz. His Ability deals an additional 200% of its damage over the next 20 seconds (this can stack).",
+        "desc": "Gain a Vel'Koz. His Ability deals an additional 300% of its damage over the next 20 seconds (this can stack).",
         "imageUrl": "../tft-assets/set8/augments/frostburn.jpg",
         "tier": "silver"
     },
@@ -751,14 +751,14 @@
     {
         "key": "reEnergize",
         "name": "Re-Energize",
-        "desc": "Gain a Wukong. When you field him, your team restores 60% of their Mana after their first cast each combat.",
+        "desc": "Gain a Wukong. When you field him, your team restores 50% of their Mana after their first cast each combat.",
         "imageUrl": "../tft-assets/set8/augments/reEnergize.jpg",
         "tier": "silver"
     },
     {
         "key": "siphoningWinds",
         "name": "Siphoning Winds",
-        "desc": "Gain a Yasuo. He gains 50% Omnivamp.",
+        "desc": "Gain a Yasuo. He gains 60% Omnivamp.",
         "imageUrl": "../tft-assets/set8/augments/siphoningWinds.jpg",
         "tier": "silver"
     },
@@ -1836,7 +1836,7 @@
     {
         "key": "cruelPact",
         "name": "Cruel Pact",
-        "desc": "Buying XP costs 6 Health instead of gold. But Heal 3 Health after a round.",
+        "desc": "Buying XP costs 6 Health instead of gold. But Heal 2 Health after a round.",
         "imageUrl": "../tft-assets/set8/augments/cruelPact.png",
         "tier": "prismatic"
     },

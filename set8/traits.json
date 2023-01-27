@@ -40,9 +40,9 @@
             "description": "Your team gains bonus Magic Resist, and Aegis units gain more.",
             "stats": {
                 "2": "+20 Magic Resist, +40 for Aegis",
-                "3": "+35 Magic Resist, +70 for Aegis",
-                "4": "+50 Magic Resist, +100 for Aegis",
-                "5": "+75 Magic Resist, +150 for Aegis"
+                "3": "+40 Magic Resist, +80 for Aegis",
+                "4": "+60 Magic Resist, +120 for Aegis",
+                "5": "+90 Magic Resist, +180 for Aegis"
             }
         },
         "isStrictStack": false,
@@ -82,7 +82,7 @@
                 "2": "+20% maximum Health",
                 "4": "+40% maximum Health",
                 "6": "+65% maximum Health",
-                "8": "+90% maximum Health"
+                "8": "+99% maximum Health"
             }
         },
         "isStrictStack": false,
@@ -176,8 +176,8 @@
             "description": "Innate: increased movement speed.<br><br>Duelists' basic attacks grant bonus Attack Speed, up to 12 stacks.",
             "stats": {
                 "2": "+5% Attack Speed per stack",
-                "4": "+10% Attack Speed per stack",
-                "6": "+16% Attack Speed per stack",
+                "4": "+9% Attack Speed per stack",
+                "6": "+15% Attack Speed per stack",
                 "8": "+24% Attack Speed per stack"
             }
         },
@@ -306,8 +306,8 @@
             "description": "Your team heals a percentage of their maximum Health every 2 seconds, and Mascots heal double the amount.<br><br>\r\nWhen Mascots die, they retreat to the sidelines to cheer on your team. Your team's healing increased by 1% for each cheering Mascot.",
             "stats": {
                 "2": "1.5% healing",
-                "4": "2.5% healing",
-                "6": "4.5% healing",
+                "4": "2.75% healing",
+                "6": "5.5% healing",
                 "8": "10% healing"
             }
         },
@@ -436,9 +436,9 @@
             "description": "Every 5 seconds, the next attack instead fires a magic orb at a random target, which explodes for 50% Ability Power as magic damage.",
             "stats": {
                 "2": "+25 Ability Power",
-                "4": "+55 Ability Power",
-                "6": "+85 Ability Power",
-                "8": "+125 Ability Power, Orb Damage 150%"
+                "4": "+60 Ability Power",
+                "6": "+95 Ability Power",
+                "8": "+140 Ability Power, Orb Damage 150%"
             }
         },
         "isStrictStack": false,
@@ -475,7 +475,7 @@
         "synergy": {
             "description": "Combat start: gain bonus Attack Damage now, and every 4 seconds.",
             "stats": {
-                "2": "+10% Attack Damage",
+                "2": "+8% Attack Damage",
                 "4": "+20% Attack Damage"
             }
         },
@@ -655,8 +655,8 @@
         "synergy": {
             "description": "When a LaserCorp agent attacks or is hit by an attack, their combat drone has a 50% chance to deal magic damage to the agent's target (0.5 second cooldown). When a LaserCorps agent dies, their drone is reassigned to the nearest living agent.<br><br>Drones lasers deal:",
             "stats": {
-                "3": "65 magic damage.",
-                "6": "165 magic damage.",
+                "3": "60 magic damage.",
+                "6": "150 magic damage.",
                 "9": "200 magic damage, and each agent gets a 2nd drone."
             }
         },
