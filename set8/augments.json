@@ -436,7 +436,7 @@
     {
         "key": "theySeeMeRolling",
         "name": "They See Me Rolling",
-        "desc": "Gain a Nunu. When you field him, your team gains 10 Ability Power and an additional 5 every 5 seconds.",
+        "desc": "Gain a Nunu. He has 10 Ability Power and  20% movement speed.",
         "imageUrl": "../tft-assets/set8/augments/theySeeMeRolling.jpg",
         "tier": "silver"
     },
