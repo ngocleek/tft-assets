@@ -483,20 +483,6 @@
         ]
     },
     {
-        "id": 3384,
-        "key": "mechaprimeconsumable",
-        "name": "PRIME Selector",
-        "imageUrl": "../tft-assets/set8/items/pRIMESelector.png",
-        "requiredSlots": 1,
-        "isUnique": true,
-        "isRadiant": false,
-        "isArtifact": false,
-        "isShimmerScale": false,
-        "isPbe": false,
-        "affectedTrait": null,
-        "fromItemIngameIds": []
-    },
-    {
         "id": 2731,
         "key": "morellonomicon",
         "name": "Morellonomicon",
