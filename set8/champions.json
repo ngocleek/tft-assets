@@ -306,13 +306,13 @@
             "Ace"
         ],
         "stats": {
-            "armor": 20,
+            "armor": 15,
             "attack_damage": 60,
             "attack_range_slot": 4,
             "attack_speed": 0.75,
             "dps": 45,
             "health": 600,
-            "magical_resistance": 20,
+            "magical_resistance": 15,
             "starting_mana": 0
         },
         "skill": {
@@ -320,7 +320,7 @@
             "type": "Active",
             "desc": "Draven hurls 2 massive axes at his target's direction, which reverse on the way back to him. Enemies caught in their path take physical damage, reduced by 25% for each enemy they have already passed through.",
             "stats": [
-                "Damage: 65 / 100 / 150"
+                "Damage: 60 / 95 / 145"
             ],
             "imageUrl": "../tft-assets/set8/skills/draven.png"
         }
@@ -435,13 +435,13 @@
             "Duelist"
         ],
         "stats": {
-            "armor": 45,
+            "armor": 50,
             "attack_damage": 50,
             "attack_range_slot": 1,
             "attack_speed": 0.8,
             "dps": 40,
             "health": 800,
-            "magical_resistance": 45,
+            "magical_resistance": 50,
             "starting_mana": 30
         },
         "skill": {
@@ -545,8 +545,8 @@
             "type": "Active",
             "desc": "Janna sends a twister towards the largest group of enemies. The twister expands when it reaches its destination, knocking all nearby enemies up in the air, Stunning them for 1.5 seconds, and dealing 70 magic damage each second for 3 seconds.",
             "stats": [
-                "Damage: 100 / 150 / 3000",
-                "Stun Duration: 1.5 / 2 / 3"
+                "Damage: 50 / 75 / 1000",
+                "Stun Duration: 1.5 / 2 / 10"
             ],
             "imageUrl": "../tft-assets/set8/skills/janna.png"
         }
@@ -602,7 +602,7 @@
             "dps": 35,
             "health": 550,
             "magical_resistance": 20,
-            "starting_mana": 25
+            "starting_mana": 20
         },
         "skill": {
             "name": "Fishbones",
@@ -672,8 +672,8 @@
             "type": "Active",
             "desc": "Kayle's next 3 attacks deal physical damage to her target, and magic damage to enemies within 1 hex of the target.",
             "stats": [
-                "% Attack Damage: 150%",
-                "Damage: 20 / 30 / 45"
+                "% Attack Damage: 155%",
+                "Damage: 25 / 35 / 50"
             ],
             "imageUrl": "../tft-assets/set8/skills/kayle.png"
         }
@@ -1511,7 +1511,7 @@
             "desc": "Taliyah summon a torrent of spiraling rocks in a line of enemy units, dealing magic damage to all enemies it hits. After a brief delay, the wall explodes, dealing additional magic damage to nearby enemies.",
             "stats": [
                 "Damage: 70 / 100 / 250",
-                "Explosion Damage: 200 / 300 / 900"
+                "Explosion Damage: 210 / 315 / 945"
             ],
             "imageUrl": "../tft-assets/set8/skills/taliyah.png"
         }
@@ -1635,7 +1635,7 @@
         "skill": {
             "name": "Frozen Tomb",
             "type": "Active",
-            "desc": "Vel'koz Stun the enemy champion that has dealt the most damage this round for a few seconds, dealing magic damage to them.<br><br>Stun: cannot move, attack, or cast Abilities",
+            "desc": "Vel'koz Stun the enemy champion that has dealt the most damage this round for 2 seconds, dealing magic damage to them. An enemy cannot be frozen again for 4 seconds after being frozen.<br><br>Stun: cannot move, attack, or cast Abilities",
             "stats": [
                 "Damage: 275 / 415 / 680",
                 "Stun Duration: 2 / 2.25 / 2.5"
@@ -1703,7 +1703,7 @@
             "desc": "Viego becomes unstoppable, leaping to the largest cluster of nearby enemies and slamming his sword down on the enemy with the lowest Health, dealing magic damage to the primary target and magic damage to enemies nearby. If Viego kills an enemy, he casts again with reduced damage.",
             "stats": [
                 "Damage: 260 / 390 / 850",
-                "AOE Damage: 125 / 185 / 425",
+                "AOE Damage: 125 / 185 / 400",
                 "Falloff Percent: 20% / 20% / 10%"
             ],
             "imageUrl": "../tft-assets/set8/skills/viego.png"

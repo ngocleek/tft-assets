@@ -16,7 +16,7 @@
     {
         "key": "reflectorShield",
         "name": "Reflector Shield",
-        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 185 magic damage (once every 0.2 seconds).",
+        "desc": "Gain an Annie. While her Ability's shield is active, enemies that attack her take 200 magic damage (once every 0.1 seconds).",
         "imageUrl": "../tft-assets/set8/augments/reflectorShield.jpg",
         "tier": "silver"
     },
@@ -184,7 +184,7 @@
     {
         "key": "frontlineFencing",
         "name": "Frontline Fencing",
-        "desc": "Gain a Fiora. While her Ability is active, she gains 175 Armor and Magic Resist.",
+        "desc": "Gain a Fiora. While her Ability is active, she gains 250 Armor and Magic Resist.",
         "imageUrl": "../tft-assets/set8/augments/frontlineFencing.jpg",
         "tier": "silver"
     },
@@ -198,7 +198,7 @@
     {
         "key": "justicePunch",
         "name": "Justice Punch",
-        "desc": "Gain a Galio. His Ability deals 75% more damage and knocks up its target for 2 seconds.",
+        "desc": "Gain a Galio. His Ability deals 150% more damage and knocks up its target for 2 seconds.",
         "imageUrl": "../tft-assets/set8/augments/justicePunch.jpg",
         "tier": "silver"
     },
@@ -212,7 +212,7 @@
     {
         "key": "flamingRicochet",
         "name": "Flaming Ricochet",
-        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 90% damage.",
+        "desc": "Gain a Gangplank. His Ability bounces to a second target dealing 100% damage.",
         "imageUrl": "../tft-assets/set8/augments/flamingRicochet.jpg",
         "tier": "silver"
     },
@@ -224,10 +224,10 @@
         "tier": "silver"
     },
     {
-        "key": "rapidReporting",
-        "name": "Rapid Reporting",
-        "desc": "Gain a Janna. Her Ability restores 15 Mana per enemy hit.",
-        "imageUrl": "../tft-assets/set8/augments/rapidReporting.jpg",
+        "key": "categoryFive",
+        "name": "Category Five",
+        "desc": "Gain a Janna. Janna gains 50 Ability Power and her ability deals True Damage.",
+        "imageUrl": "../tft-assets/set8/augments/categoryFive.jpg",
         "tier": "silver"
     },
     {
@@ -254,7 +254,7 @@
     {
         "key": "getExcited",
         "name": "Get Excited!",
-        "desc": "Gain a Jinx. When she scores a takedown, she gains 125% Attack Speed and Movement Speed for 7 seconds.",
+        "desc": "Gain a Jinx. She gains 40% Attack Speed and Movement Speed. When she scores a takedown, triple this bonus for 7 seconds.",
         "imageUrl": "../tft-assets/set8/augments/getExcited.jpg",
         "tier": "silver"
     },
@@ -317,7 +317,7 @@
     {
         "key": "invigorate",
         "name": "Invigorate",
-        "desc": "Gain a Lee Sin. When your field him, your team gains 15% Attack Speed, doubled for 3 seconds after being shielded.",
+        "desc": "Gain a Lee Sin. When your field him, your team gains 15% Attack Speed, doubled for 4 seconds after being shielded.",
         "imageUrl": "../tft-assets/set8/augments/invigorate.jpg",
         "tier": "silver"
     },
@@ -359,14 +359,14 @@
     {
         "key": "lucentBarrier",
         "name": "Lucent Barrier",
-        "desc": "Gain a Lux. Combat Start: She grants her 2 nearest allies a 350 Health Shield and 35 Ability Power.",
+        "desc": "Gain a Lux. Combat Start: She grants her 2 nearest allies a 500 Health Shield and 35 Ability Power.",
         "imageUrl": "../tft-assets/set8/augments/lucentBarrier.jpg",
         "tier": "silver"
     },
     {
         "key": "rockSolid",
         "name": "Rock Solid",
-        "desc": "Gain a Malphite. He gains Ability Power equal to 100% of his Armor and his Ability's Armor duration is increased by 4 seconds.",
+        "desc": "Gain a Malphite. He gains Ability Power equal to 150% of his Armor and his Ability's Armor duration is increased by 4 seconds.",
         "imageUrl": "../tft-assets/set8/augments/rockSolid.jpg",
         "tier": "silver"
     },
@@ -387,7 +387,7 @@
     {
         "key": "makeItRain",
         "name": "Make It Rain",
-        "desc": "Gain a Miss Fortune. After every 3 player combats fielded, she drops 20 gold.",
+        "desc": "Gain a Miss Fortune. After every 3 player combats fielded, It grants 10 on Stage 3, and 20 on any stage 4 or after.",
         "imageUrl": "../tft-assets/set8/augments/makeItRain.jpg",
         "tier": "silver"
     },
@@ -436,7 +436,7 @@
     {
         "key": "theySeeMeRolling",
         "name": "They See Me Rolling",
-        "desc": "Gain a Nunu. He has 10 Ability Power and  20% movement speed.",
+        "desc": "Gain a Nunu. He has 20 Ability Power and  20% movement speed.",
         "imageUrl": "../tft-assets/set8/augments/theySeeMeRolling.jpg",
         "tier": "silver"
     },
@@ -478,7 +478,7 @@
     {
         "key": "holdTheLine",
         "name": "Hold the Line",
-        "desc": "Gain a Rell. She gains 70 Ability Power and 30% damage reduction.",
+        "desc": "Gain a Rell. She gains 80 Ability Power and 35% damage reduction.",
         "imageUrl": "../tft-assets/set8/augments/holdTheLine.jpg",
         "tier": "silver"
     },
@@ -499,7 +499,7 @@
     {
         "key": "reignOfAnger",
         "name": "Reign of Anger",
-        "desc": "Gain a Renekton. He gains 60% Attack Speed and an additional 2% per 100 missing Health.",
+        "desc": "Gain a Renekton. He gains 75% Attack Speed and an additional 2% per 100 missing Health.",
         "imageUrl": "../tft-assets/set8/augments/reignOfAnger.jpg",
         "tier": "silver"
     },
@@ -576,7 +576,7 @@
     {
         "key": "regenerativeShields",
         "name": "Regenerative Shields",
-        "desc": "Gain a Locket of the Iron Solari and a Sett. Briefly after the shields of his team break, he recharges them at 40% strength for 3 seconds.",
+        "desc": "Gain a Protector's Vow and a Sett. Briefly after the shields of his team break, he recharges them at 40% strength for 3 seconds.",
         "imageUrl": "../tft-assets/set8/augments/regenerativeShields.jpg",
         "tier": "silver"
     },
@@ -625,7 +625,7 @@
     {
         "key": "kingslayer",
         "name": "Kingslayer",
-        "desc": "Gain a Sylas. Gain maximum 30% and increase damage 40%.",
+        "desc": "Gain a Sylas. Gain maximum 25% and increase damage 40%.",
         "imageUrl": "../tft-assets/set8/augments/kingslayer.jpg",
         "tier": "silver"
     },
@@ -931,6 +931,13 @@
         "tier": "silver"
     },
     {
+        "key": "pandoraSItems",
+        "name": "Pandora's Items",
+        "desc": "Gain a random component. At the start of each round, items on your bench are randomized (excluding Tactician's Crown, Spatula, and consumables).",
+        "imageUrl": "../tft-assets/set8/augments/pandoraSItems.png",
+        "tier": "silver"
+    },
+    {
         "key": "recombobulator",
         "name": "Recombobulator",
         "desc": "Champions on your board permanently transform into random champions 1 Tier higher. Gain 2 Magnetic Removers.",
@@ -1171,7 +1178,7 @@
     {
         "key": "clearMind",
         "name": "Clear Mind",
-        "desc": "If you have no champions on your bench at the end of a round, gain 3 experience points.",
+        "desc": "If you have no champions on your bench at the end of player combat round, gain 3 experience points.",
         "imageUrl": "../tft-assets/set8/augments/clearMind.png",
         "tier": "gold"
     },
@@ -1234,7 +1241,7 @@
     {
         "key": "hustler",
         "name": "Hustler",
-        "desc": "Instead of having no interest, you get 3 golds per round.",
+        "desc": "Instead of having no interest, you get 3 golds at the beginning of player combat rounds.",
         "imageUrl": "../tft-assets/set8/augments/hustler.png",
         "tier": "gold"
     },
@@ -1339,7 +1346,7 @@
     {
         "key": "ancientArchivesI",
         "name": "Ancient Archives I",
-        "desc": "Gain 1 Tome of Traits.",
+        "desc": "Gain 1 Tome of Traits and 2 gold.",
         "imageUrl": "../tft-assets/set8/augments/ancientArchivesI.png",
         "tier": "gold"
     },
@@ -1402,7 +1409,7 @@
     {
         "key": "clutteredMind",
         "name": "Cluttered Mind",
-        "desc": "If your bench is full at the end of a round, gain 3 experience points.",
+        "desc": "If your bench is full at the end of player combat round, gain 3 experience points. Gain 4 random Tier 1 champions.",
         "imageUrl": "../tft-assets/set8/augments/clutteredMind.png",
         "tier": "gold"
     },
@@ -1724,7 +1731,7 @@
     {
         "key": "marchOfProgress",
         "name": "March of Progress",
-        "desc": "Gain 5 bonus experience points per round. You can no longer use gold to level up.",
+        "desc": "Gain 5 bonus experience at the beginning of player combat rounds. You can no longer use gold to level up.",
         "imageUrl": "../tft-assets/set8/augments/marchOfProgress.png",
         "tier": "prismatic"
     },
@@ -1801,7 +1808,7 @@
     {
         "key": "birthdayPresent",
         "name": "Birthday Present",
-        "desc": "Gain a 2-star champion every time you level up. The champion's tier is your level minus 4 (min: Tier 1). Gain additional 1 gold every time you level up.",
+        "desc": "Gain a 2-star champion every time you level up. The champion's tier is your level minus 4 (min: Tier 1).",
         "imageUrl": "../tft-assets/set8/augments/birthdayPresent.png",
         "tier": "prismatic"
     },
@@ -1850,7 +1857,7 @@
     {
         "key": "ancientArchivesII",
         "name": "Ancient Archives II",
-        "desc": "Gain 2 Tome of Traits.",
+        "desc": "Gain 2 Tome of Traits and 8 gold.",
         "imageUrl": "../tft-assets/set8/augments/ancientArchivesII.png",
         "tier": "prismatic"
     },
@@ -1892,14 +1899,14 @@
     {
         "key": "brawlerCrown",
         "name": "Brawler Crown",
-        "desc": "Gain a Brawler Emblem, a Redemption, and a Riven.",
+        "desc": "Gain a Brawler Emblem, Protector’s Vow, and a Riven.",
         "imageUrl": "../tft-assets/set8/augments/brawlerCrown.png",
         "tier": "prismatic"
     },
     {
         "key": "spellslingerCrown",
         "name": "Spellslinger Crown",
-        "desc": "Gain a Spellslinger Emblem, a Jeweled Gauntlet, and a Sona.",
+        "desc": "Gain a Spellslinger Emblem, Hand of Justice, and a Sona.",
         "imageUrl": "../tft-assets/set8/augments/spellslingerCrown.png",
         "tier": "prismatic"
     },
@@ -1934,7 +1941,7 @@
     {
         "key": "mechaPRIMECrown",
         "name": "Mecha: PRIME Crown",
-        "desc": "Gain a Mecha: PRIME Emblem, a Titan's Resolve , and a Jax.",
+        "desc": "Gain a Mecha: PRIME Emblem,  Bloodthirster, and a Jax.",
         "imageUrl": "../tft-assets/set8/augments/mechaPRIMECrown.png",
         "tier": "prismatic"
     },
@@ -1955,7 +1962,7 @@
     {
         "key": "heartCrown",
         "name": "Heart Crown",
-        "desc": "Gain a Heart Emblem, a ZZ'rot Portal, and a Sona.",
+        "desc": "Gain a Heart Emblem, Guardbreaker, and a Sona.",
         "imageUrl": "../tft-assets/set8/augments/heartCrown.png",
         "tier": "prismatic"
     },
@@ -1983,14 +1990,14 @@
     {
         "key": "pranksterCrown",
         "name": "Prankster Crown",
-        "desc": "Gain a Prankster Emblem, an Edge of Night, and a Zoe.",
+        "desc": "Gain a Prankster Emblem, Morellonomicon, and a Zoe.",
         "imageUrl": "../tft-assets/set8/augments/pranksterCrown.png",
         "tier": "prismatic"
     },
     {
         "key": "reconCrown",
         "name": "Recon Crown",
-        "desc": "Gain a Recon Emblem, a Zeke's Herald, and a Ezreal.",
+        "desc": "Gain a Recon Emblem, Hand of Justice, and a Ezreal.",
         "imageUrl": "../tft-assets/set8/augments/reconCrown.png",
         "tier": "prismatic"
     },
@@ -2018,7 +2025,7 @@
     {
         "key": "undergroundSoul",
         "name": "Underground Soul",
-        "desc": "Your team counts as having 1 additional Underground. Gain a Hextech Gunblade and an Ezreal.",
+        "desc": "Your team counts as having 1 additional Underground. Gain a Zz’Rot portal and an Ezreal.",
         "imageUrl": "../tft-assets/set8/augments/undergroundSoul.png",
         "tier": "prismatic"
     }

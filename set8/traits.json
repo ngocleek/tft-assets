@@ -80,8 +80,8 @@
             "description": "Brawlers gain additional maximum Health.",
             "stats": {
                 "2": "+20% maximum Health",
-                "4": "+40% maximum Health",
-                "6": "+65% maximum Health",
+                "4": "+45% maximum Health",
+                "6": "+70% maximum Health",
                 "8": "+99% maximum Health"
             }
         },
@@ -306,8 +306,8 @@
             "description": "Your team heals a percentage of their maximum Health every 2 seconds, and Mascots heal double the amount.<br><br>\r\nWhen Mascots die, they retreat to the sidelines to cheer on your team. Your team's healing increased by 1% for each cheering Mascot.",
             "stats": {
                 "2": "1.5% healing",
-                "4": "2.75% healing",
-                "6": "5.5% healing",
+                "4": "3% healing",
+                "6": "6% healing",
                 "8": "10% healing"
             }
         },
@@ -538,8 +538,8 @@
             "description": "Anima Squad members build fame for scoring champion kills. When they pause to celebrate a kill, they permanently gain 6 maximum Health per point of fame. Fame immediately benefits the whole Anima Squad.<br><br>Anima Squad also gains:",
             "stats": {
                 "3": "10% Attack Damage and 10 Ability Power",
-                "5": "30% Attack Damage and 30 Ability Power",
-                "7": "55% Attack Damage and 55 Ability Power"
+                "5": "35% Attack Damage and 35 Ability Power",
+                "7": "60% Attack Damage and 60 Ability Power"
             }
         },
         "isStrictStack": false,
@@ -625,10 +625,10 @@
             "black": "../tft-assets/set8/traits/gadgeteenBlack.svg"
         },
         "synergy": {
-            "description": "Gadgeteens create random modified weapon which with powerful effects. Any champion can equip the items, but they fall apart after 1 round.",
+            "description": "Each round, Gadgeteens create random modified weapon with powerful effects that fall apart after one round. Gadgeteen also gain Damage Reduction for each item equipped to them.",
             "stats": {
-                "3": "Create 1 item(s) every round",
-                "5": "Create 2 item(s) every round"
+                "3": "Create 1 item, 3% per item.",
+                "5": "Create 2 item, 12% per item."
             }
         },
         "isStrictStack": false,
@@ -653,11 +653,11 @@
             "black": "../tft-assets/set8/traits/laserCorpsBlack.svg"
         },
         "synergy": {
-            "description": "When a LaserCorp agent attacks or is hit by an attack, their combat drone has a 50% chance to deal magic damage to the agent's target (0.5 second cooldown). When a LaserCorps agent dies, their drone is reassigned to the nearest living agent.<br><br>Drones lasers deal:",
+            "description": "When a LaserCorp agent attacks or is hit by an attack, their combat drone deal magic damage to the agent's target (0.4 second cooldown). When a LaserCorps agent dies, their drone is reassigned to the nearest living agent.<br><br>Drones lasers deal:",
             "stats": {
-                "3": "60 magic damage.",
-                "6": "150 magic damage.",
-                "9": "200 magic damage, and each agent gets a 2nd drone."
+                "3": "25 magic damage.",
+                "6": "45 magic damage.",
+                "9": "80 magic damage, and each agent gets a 2nd drone."
             }
         },
         "isStrictStack": false,
@@ -665,11 +665,16 @@
             {
                 "style": "bronze",
                 "min": 3,
-                "max": 5
+                "max": 4
+            },
+            {
+                "style": "silver",
+                "min": 5,
+                "max": 6
             },
             {
                 "style": "gold",
-                "min": 6,
+                "min": 7,
                 "max": 8
             },
             {
@@ -715,12 +720,12 @@
             "black": "../tft-assets/set8/traits/oxForceBlack.svg"
         },
         "synergy": {
-            "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, they become invulnerable for 1 seconds as they defend the city with their last breath.",
+            "description": "Ox Force units gain a range of Attack Speed that ramps as they lose Health. Once per combat, when they would drop below one health, they instead go to one health and become immune to damage for 1 seconds.",
             "stats": {
                 "2": "15% - 30% Attack Speed.",
-                "4": "35% - 80% Attack Speed.",
-                "6": "70% - 150% Attack Speed.",
-                "8": "125% - 300% Attack Speed."
+                "4": "40% - 80% Attack Speed.",
+                "6": "75% - 150% Attack Speed.",
+                "8": "150% - 300% Attack Speed."
             }
         },
         "isStrictStack": false,
@@ -841,8 +846,10 @@
         "synergy": {
             "description": "The Underground must sneak through the sewers and crack 10 locks to open a vault. When the vault opens, you may choose to take the loot now, or attempt another heist for even better rewards.",
             "stats": {
-                "3": "Crack 1 vault lock after a player combat win, and 3 after a player combat loss",
-                "5": "Crack 2 vault lock after a player combat win, and 5 after a player combat loss"
+                "3": "Crack 2 vault lock after a player combat win, and 3 after a player combat loss",
+                "4": "Crack 2 vault lock after a player combat win, and 4 after a player combat loss",
+                "5": "Crack 3 vault lock after a player combat win, and 5 after a player combat loss",
+                "6": "Crack 4 vault lock after a player combat win, and 7 after a player combat loss"
             }
         },
         "isStrictStack": false,
@@ -850,11 +857,21 @@
             {
                 "style": "bronze",
                 "min": 3,
+                "max": 3
+            },
+            {
+                "style": "silver",
+                "min": 4,
                 "max": 4
             },
             {
                 "style": "gold",
-                "min": 5
+                "min": 5,
+                "max": 5
+            },
+            {
+                "style": "chromatic",
+                "min": 6
             }
         ]
     }
