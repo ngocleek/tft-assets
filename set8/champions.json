@@ -1,6 +1,6 @@
 [
     {
-        "key": "alistar",
+        "key": "Alistar",
         "name": "Alistar",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/alistar.jpg",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "key": "annie",
+        "key": "Annie",
         "name": "Annie",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/annie.jpg",
@@ -65,7 +65,7 @@
         }
     },
     {
-        "key": "aphelios",
+        "key": "Aphelios",
         "name": "Aphelios",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/aphelios.jpg",
@@ -106,7 +106,7 @@
         }
     },
     {
-        "key": "ashe",
+        "key": "Ashe",
         "name": "Ashe",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/ashe.jpg",
@@ -138,7 +138,7 @@
         }
     },
     {
-        "key": "aurelionsol",
+        "key": "AurelionSol",
         "name": "Aurelion Sol",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/aurelionSol.jpg",
@@ -169,7 +169,7 @@
         }
     },
     {
-        "key": "belveth",
+        "key": "BelVeth",
         "name": "BelVeth",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/belVeth.jpg",
@@ -199,7 +199,7 @@
         }
     },
     {
-        "key": "blitzcrank",
+        "key": "Blitzcrank",
         "name": "Blitzcrank",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/blitzcrank.jpg",
@@ -230,7 +230,7 @@
         }
     },
     {
-        "key": "camille",
+        "key": "Camille",
         "name": "Camille",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/camille.jpg",
@@ -263,7 +263,7 @@
         }
     },
     {
-        "key": "chogath",
+        "key": "Chogath",
         "name": "Cho'Gath",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/choGath.jpg",
@@ -295,7 +295,7 @@
         }
     },
     {
-        "key": "draven",
+        "key": "Draven",
         "name": "Draven",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/draven.jpg",
@@ -326,7 +326,7 @@
         }
     },
     {
-        "key": "ekko",
+        "key": "Ekko",
         "name": "Ekko",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/ekko.jpg",
@@ -359,7 +359,7 @@
         }
     },
     {
-        "key": "ezreal",
+        "key": "Ezreal",
         "name": "Ezreal",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/ezreal.jpg",
@@ -391,7 +391,7 @@
         }
     },
     {
-        "key": "fiddlesticks",
+        "key": "Fiddlesticks",
         "name": "Fiddlesticks",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/fiddlesticks.jpg",
@@ -424,7 +424,7 @@
         }
     },
     {
-        "key": "fiora",
+        "key": "Fiora",
         "name": "Fiora",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/fiora.jpg",
@@ -456,7 +456,7 @@
         }
     },
     {
-        "key": "galio",
+        "key": "Galio",
         "name": "Galio",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/galio.jpg",
@@ -488,7 +488,7 @@
         }
     },
     {
-        "key": "gangplank",
+        "key": "Gangplank",
         "name": "Gangplank",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/gangplank.jpg",
@@ -519,7 +519,7 @@
         }
     },
     {
-        "key": "janna",
+        "key": "Janna",
         "name": "Janna",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/janna.jpg",
@@ -552,7 +552,7 @@
         }
     },
     {
-        "key": "jax",
+        "key": "Jax",
         "name": "Jax",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/jax.jpg",
@@ -584,7 +584,7 @@
         }
     },
     {
-        "key": "jinx",
+        "key": "Jinx",
         "name": "Jinx",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/jinx.jpg",
@@ -615,7 +615,7 @@
         }
     },
     {
-        "key": "kaisa",
+        "key": "Kaisa",
         "name": "Kai'Sa",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/kaiSa.jpg",
@@ -647,7 +647,7 @@
         }
     },
     {
-        "key": "kayle",
+        "key": "Kayle",
         "name": "Kayle",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/kayle.jpg",
@@ -679,7 +679,7 @@
         }
     },
     {
-        "key": "leblanc",
+        "key": "Leblanc",
         "name": "LeBlanc",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/leBlanc.jpg",
@@ -712,7 +712,7 @@
         }
     },
     {
-        "key": "leesin",
+        "key": "LeeSin",
         "name": "Lee Sin",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/leeSin.jpg",
@@ -745,7 +745,7 @@
         }
     },
     {
-        "key": "leona",
+        "key": "Leona",
         "name": "Leona",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/leona.jpg",
@@ -778,7 +778,7 @@
         }
     },
     {
-        "key": "lulu",
+        "key": "Lulu",
         "name": "Lulu",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/lulu.jpg",
@@ -810,7 +810,7 @@
         }
     },
     {
-        "key": "lux",
+        "key": "Lux",
         "name": "Lux",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/lux.jpg",
@@ -841,7 +841,7 @@
         }
     },
     {
-        "key": "malphite",
+        "key": "Malphite",
         "name": "Malphite",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/malphite.jpg",
@@ -873,7 +873,7 @@
         }
     },
     {
-        "key": "missfortune",
+        "key": "MissFortune",
         "name": "MissFortune",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/missFortune.jpg",
@@ -905,7 +905,7 @@
         }
     },
     {
-        "key": "mordekaiser",
+        "key": "Mordekaiser",
         "name": "Mordekaiser",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/mordekaiser.jpg",
@@ -938,7 +938,7 @@
         }
     },
     {
-        "key": "nasus",
+        "key": "Nasus",
         "name": "Nasus",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/nasus.jpg",
@@ -969,7 +969,7 @@
         }
     },
     {
-        "key": "nilah",
+        "key": "Nilah",
         "name": "Nilah",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/nilah.jpg",
@@ -1001,7 +1001,7 @@
         }
     },
     {
-        "key": "nunu",
+        "key": "Nunu",
         "name": "Nunu",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/nunu.jpg",
@@ -1032,7 +1032,7 @@
         }
     },
     {
-        "key": "poppy",
+        "key": "Poppy",
         "name": "Poppy",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/poppy.jpg",
@@ -1064,7 +1064,7 @@
         }
     },
     {
-        "key": "rammus",
+        "key": "Rammus",
         "name": "Rammus",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/rammus.jpg",
@@ -1095,7 +1095,7 @@
         }
     },
     {
-        "key": "rell",
+        "key": "Rell",
         "name": "Rell",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/rell.jpg",
@@ -1127,7 +1127,7 @@
         }
     },
     {
-        "key": "renekton",
+        "key": "Renekton",
         "name": "Renekton",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/renekton.jpg",
@@ -1158,7 +1158,7 @@
         }
     },
     {
-        "key": "riven",
+        "key": "Riven",
         "name": "Riven",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/riven.jpg",
@@ -1191,7 +1191,7 @@
         }
     },
     {
-        "key": "samira",
+        "key": "Samira",
         "name": "Samira",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/samira.jpg",
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "key": "sejuani",
+        "key": "Sejuani",
         "name": "Sejuani",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/sejuani.jpg",
@@ -1256,7 +1256,7 @@
         }
     },
     {
-        "key": "senna",
+        "key": "Senna",
         "name": "Senna",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/senna.jpg",
@@ -1288,7 +1288,7 @@
         }
     },
     {
-        "key": "sett",
+        "key": "Sett",
         "name": "Sett",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/sett.jpg",
@@ -1321,7 +1321,7 @@
         }
     },
     {
-        "key": "sivir",
+        "key": "Sivir",
         "name": "Sivir",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/sivir.jpg",
@@ -1354,7 +1354,7 @@
         }
     },
     {
-        "key": "sona",
+        "key": "Sona",
         "name": "Sona",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/sona.jpg",
@@ -1388,7 +1388,7 @@
         }
     },
     {
-        "key": "soraka",
+        "key": "Soraka",
         "name": "Soraka",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/soraka.jpg",
@@ -1420,7 +1420,7 @@
         }
     },
     {
-        "key": "sylas",
+        "key": "Sylas",
         "name": "Sylas",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/sylas.jpg",
@@ -1452,7 +1452,7 @@
         }
     },
     {
-        "key": "syndra",
+        "key": "Syndra",
         "name": "Syndra",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/syndra.jpg",
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "key": "taliyah",
+        "key": "Taliyah",
         "name": "Taliyah",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/taliyah.jpg",
@@ -1517,7 +1517,7 @@
         }
     },
     {
-        "key": "talon",
+        "key": "Talon",
         "name": "Talon",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/talon.jpg",
@@ -1549,7 +1549,7 @@
         }
     },
     {
-        "key": "urgot",
+        "key": "Urgot",
         "name": "Urgot",
         "cost": 5,
         "imageUrl": "../tft-assets/set8/champions/urgot.jpg",
@@ -1581,7 +1581,7 @@
         }
     },
     {
-        "key": "vayne",
+        "key": "Vayne",
         "name": "Vayne",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/vayne.jpg",
@@ -1614,7 +1614,7 @@
         }
     },
     {
-        "key": "velkoz",
+        "key": "Velkoz",
         "name": "Velkoz",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/velkoz.jpg",
@@ -1644,7 +1644,7 @@
         }
     },
     {
-        "key": "vi",
+        "key": "Vi",
         "name": "Vi",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/vi.jpg",
@@ -1677,7 +1677,7 @@
         }
     },
     {
-        "key": "viego",
+        "key": "Viego",
         "name": "Viego",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/viego.jpg",
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "key": "monkeyking",
+        "key": "MonkeyKing",
         "name": "Wukong",
         "cost": 1,
         "imageUrl": "../tft-assets/set8/champions/wukong.jpg",
@@ -1742,7 +1742,7 @@
         }
     },
     {
-        "key": "yasuo",
+        "key": "Yasuo",
         "name": "Yasuo",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/yasuo.jpg",
@@ -1774,7 +1774,7 @@
         }
     },
     {
-        "key": "yuumi",
+        "key": "Yuumi",
         "name": "Yuumi",
         "cost": 2,
         "imageUrl": "../tft-assets/set8/champions/yuumi.jpg",
@@ -1806,7 +1806,7 @@
         }
     },
     {
-        "key": "zac",
+        "key": "Zac",
         "name": "Zac",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/zac.jpg",
@@ -1837,7 +1837,7 @@
         }
     },
     {
-        "key": "zed",
+        "key": "Zed",
         "name": "Zed",
         "cost": 4,
         "imageUrl": "../tft-assets/set8/champions/zed.jpg",
@@ -1871,7 +1871,7 @@
         }
     },
     {
-        "key": "zoe",
+        "key": "Zoe",
         "name": "Zoe",
         "cost": 3,
         "imageUrl": "../tft-assets/set8/champions/zoe.jpg",
