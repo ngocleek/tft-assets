@@ -1281,7 +1281,7 @@
             "type": "Active",
             "desc": "Senna fires a laser beam in the direction of a nearby enemy. dealing physical damage to all enemies in a line.",
             "stats": [
-                "Percent of Attack Damage: 175% / 185% / 190%",
+                "Percent of Attack Damage: 170% / 180% / 190%",
                 "Bonus Damage: 45 / 65 / 125"
             ],
             "imageUrl": "../tft-assets/set8/skills/senna.png"
