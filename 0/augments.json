@@ -1729,6 +1729,13 @@
         "tier": "prismatic"
     },
     {
+        "key": "levelUp",
+        "name": "Level Up!",
+        "desc": "When you buy experience points, gain an additional 3. You can now reach level 10.",
+        "imageUrl": "../tft-assets/0/augments/levelUp.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "knifeSEdgeIII",
         "name": "Knife's Edge III",
         "desc": "Your units that start combat in the first 2 rows gain 55% Attack Damage.",
