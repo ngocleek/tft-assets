@@ -100,7 +100,7 @@
     {
         "key": "adaptiveDefensives",
         "name": "Adaptive Defensives",
-        "desc": "Gain a Camille. She gains 20% Attack Damage. The first time she drops below 50% Health, she gains a shield equal to 600% of her Attack Damage .",
+        "desc": "Gain a Camille. She gains 20% Attack Damage. The first time she drops below 50% Health, she gains a shield equal to 500% of her Attack Damage .",
         "imageUrl": "../tft-assets/0/augments/adaptiveDefensives.jpg",
         "tier": "silver"
     },
@@ -128,7 +128,7 @@
     {
         "key": "leagueOfDraven",
         "name": "League of Draven",
-        "desc": "Gain a Draven. He gains 35% Attack Damage. When he kills an enemy, there is a 35% chance to gain 1 gold.",
+        "desc": "Gain a Draven. He gains 25% Attack Damage. When he kills an enemy, there is a 35% chance to gain 1 gold.",
         "imageUrl": "../tft-assets/0/augments/leagueOfDraven.jpg",
         "tier": "silver"
     },
@@ -429,14 +429,14 @@
     {
         "key": "jubilantVeil",
         "name": "Jubilant Veil",
-        "desc": "Gain a Nilah. Combat Start: She and her 2 nearest allies gain immunity to crowd control for 20 seconds.",
+        "desc": "Gain a Nilah. Combat Start: She and her 5 nearest allies gain immunity to crowd control for 30 seconds.",
         "imageUrl": "../tft-assets/0/augments/jubilantVeil.jpg",
         "tier": "silver"
     },
     {
         "key": "theySeeMeRolling",
         "name": "They See Me Rolling",
-        "desc": "Gain a Nunu. He has 25 Ability Power and  20% movement speed.",
+        "desc": "Gain a Nunu. He has 15 Ability Power and  20% movement speed.",
         "imageUrl": "../tft-assets/0/augments/theySeeMeRolling.jpg",
         "tier": "silver"
     },
@@ -611,7 +611,7 @@
     {
         "key": "infuse",
         "name": "Infuse",
-        "desc": "Gain a Soraka. Every 5 seconds, Soraka grants your team 15 Mana.",
+        "desc": "Gain a Soraka. Every 5 seconds, Soraka grants your team 20 Mana.",
         "imageUrl": "../tft-assets/0/augments/infuse.jpg",
         "tier": "silver"
     },
@@ -793,7 +793,7 @@
     {
         "key": "elasticSlingshot",
         "name": "Elastic Slingshot",
-        "desc": "Gain a Zac. Combat Start: He flings his 2 nearest allies to the enemy backline, knocking up enemies upon impact for 3 seconds.",
+        "desc": "Gain a Zac. Combat Start: He flings his 2 nearest allies to the enemy backline, knocking up enemies upon impact for 4 seconds.",
         "imageUrl": "../tft-assets/0/augments/elasticSlingshot.jpg",
         "tier": "silver"
     },
@@ -849,7 +849,7 @@
     {
         "key": "cyberneticShellI",
         "name": "Cybernetic Shell I",
-        "desc": "Your champions holding an item gain 80 Health and 20 Armor.",
+        "desc": "Your champions holding an item gain 80 Health and 30 Armor.",
         "imageUrl": "../tft-assets/0/augments/cyberneticShellI.png",
         "tier": "silver"
     },
@@ -975,7 +975,7 @@
     {
         "key": "aFK",
         "name": "AFK",
-        "desc": "You cannot perform actions for the next 3 rounds. Afterwards, gain 20 gold.",
+        "desc": "You cannot perform actions for the next 3 rounds. Afterwards, gain 18 gold.",
         "imageUrl": "../tft-assets/0/augments/aFK.png",
         "tier": "silver"
     },
@@ -1199,7 +1199,7 @@
     {
         "key": "cyberneticShellII",
         "name": "Cybernetic Shell II",
-        "desc": "Your champions holding an item gain 120 Health and 30 Armor.",
+        "desc": "Your champions holding an item gain 120 Health and 40 Armor.",
         "imageUrl": "../tft-assets/0/augments/cyberneticShellII.png",
         "tier": "gold"
     },
@@ -1367,7 +1367,7 @@
     {
         "key": "builtDifferentII",
         "name": "Built Different II",
-        "desc": "Your units with no Traits active gain 175-325 Health and 40-70% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 190-355 Health and 40-70% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/0/augments/builtDifferentII.png",
         "tier": "gold"
     },
@@ -1647,7 +1647,7 @@
     {
         "key": "cyberneticShellIII",
         "name": "Cybernetic Shell III",
-        "desc": "Your champions holding an item gain 200 Health and 50 Armor.",
+        "desc": "Your champions holding an item gain 200 Health and 60 Armor.",
         "imageUrl": "../tft-assets/0/augments/cyberneticShellIII.png",
         "tier": "prismatic"
     },
@@ -1668,7 +1668,7 @@
     {
         "key": "electrochargeIII",
         "name": "Electrocharge III",
-        "desc": "When your units receive critical strikes, they deal 100-205 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
+        "desc": "When your units receive critical strikes, they deal 115-235 (based on current Stage) magic damage to nearby enemies. (1 second cooldown).",
         "imageUrl": "../tft-assets/0/augments/electrochargeIII.png",
         "tier": "prismatic"
     },
@@ -1703,7 +1703,7 @@
     {
         "key": "highRoller",
         "name": "High Roller",
-        "desc": "Gain 3 Loaded Dice and 3 gold.",
+        "desc": "Gain 3 Loaded Dice and 5 gold.",
         "imageUrl": "../tft-assets/0/augments/highRoller.png",
         "tier": "prismatic"
     },
@@ -1724,7 +1724,7 @@
     {
         "key": "ludenSEchoIII",
         "name": "Luden's Echo III",
-        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 80-185 (based on current Stage) magic damage.",
+        "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 90-210 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/0/augments/ludenSEchoIII.png",
         "tier": "prismatic"
     },
@@ -1759,7 +1759,7 @@
     {
         "key": "theGoldenEgg",
         "name": "The Golden Egg",
-        "desc": "Gain a massive golden egg that hatches in 10 turns. If you won vs player, receive bonus turn.",
+        "desc": "Gain a massive golden egg that hatches in 11 turns. If you won vs player, receive bonus turn.",
         "imageUrl": "../tft-assets/0/augments/theGoldenEgg.png",
         "tier": "prismatic"
     },
@@ -1773,7 +1773,7 @@
     {
         "key": "builtDifferentIII",
         "name": "Built Different III",
-        "desc": "Your units with no Traits active gain 250-550 Health and 50-80% Attack Speed. (based on current Stage)",
+        "desc": "Your units with no Traits active gain 270-600 Health and 50-80% Attack Speed. (based on current Stage)",
         "imageUrl": "../tft-assets/0/augments/builtDifferentIII.png",
         "tier": "prismatic"
     },
@@ -1913,7 +1913,7 @@
     {
         "key": "animaSquadCrown",
         "name": "Anima Squad Crown",
-        "desc": "Gain an Anima Squad Emblem, a Protector's Vow, and a Riven.",
+        "desc": "Gain an Anima Squad Emblem, Tear of the Goddess, and a Riven.",
         "imageUrl": "../tft-assets/0/augments/animaSquadCrown.png",
         "tier": "prismatic"
     },
@@ -1927,7 +1927,7 @@
     {
         "key": "spellslingerCrown",
         "name": "Spellslinger Crown",
-        "desc": "Gain a Spellslinger Emblem, Hand of Justice, and a Sona.",
+        "desc": "Gain a Spellslinger Emblem, Tear of the Goddess, and a Sona.",
         "imageUrl": "../tft-assets/0/augments/spellslingerCrown.png",
         "tier": "prismatic"
     },
@@ -1969,7 +1969,7 @@
     {
         "key": "gadgeteenCrown",
         "name": "Gadgeteen Crown",
-        "desc": "Gain a Gadgeteen Emblem, Ionic Spark and an Annie.",
+        "desc": "Gain a Gadgeteen Emblem, Negatron Cloak and an Annie.",
         "imageUrl": "../tft-assets/0/augments/gadgeteenCrown.png",
         "tier": "prismatic"
     },
@@ -2011,14 +2011,14 @@
     {
         "key": "pranksterCrown",
         "name": "Prankster Crown",
-        "desc": "Gain a Prankster Emblem, Morellonomicon, and a Zoe.",
+        "desc": "Gain a Prankster Emblem, Giant’s Belt, and a Zoe.",
         "imageUrl": "../tft-assets/0/augments/pranksterCrown.png",
         "tier": "prismatic"
     },
     {
         "key": "reconCrown",
         "name": "Recon Crown",
-        "desc": "Gain a Recon Emblem, Hand of Justice, and a Ezreal.",
+        "desc": "Gain a Recon Emblem, Recurve Bow, and a Ezreal.",
         "imageUrl": "../tft-assets/0/augments/reconCrown.png",
         "tier": "prismatic"
     },
