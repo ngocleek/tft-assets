@@ -112,17 +112,17 @@
         "tier": "silver"
     },
     {
-        "key": "energyVoid",
-        "name": "Energy Void",
-        "desc": "Gain a Cho'Gath. Each time his Ability hits an enemy, he steals 70% of their Magic Resist.",
-        "imageUrl": "../tft-assets/0/augments/energyVoid.jpg",
-        "tier": "silver"
-    },
-    {
         "key": "cosmicBarrier",
         "name": "Cosmic Barrier",
         "desc": "Gain a Cho'Gath. When you field Cho'Gath, your team gains 35 Magic Resist, doubled for Cho'Gath.",
         "imageUrl": "../tft-assets/0/augments/cosmicBarrier.jpg",
+        "tier": "silver"
+    },
+    {
+        "key": "energyVoid",
+        "name": "Energy Void",
+        "desc": "Gain a Cho'Gath. Each time his Ability hits an enemy, he steals 70% of their Magic Resist.",
+        "imageUrl": "../tft-assets/0/augments/energyVoid.jpg",
         "tier": "silver"
     },
     {
@@ -266,17 +266,17 @@
         "tier": "silver"
     },
     {
-        "key": "multiShot",
-        "name": "Multi-Shot",
-        "desc": "Gain a Kai'Sa. Every 3 attacks, she fires a bonus attack at a nearby enemy.",
-        "imageUrl": "../tft-assets/0/augments/multiShot.jpg",
-        "tier": "silver"
-    },
-    {
         "key": "starCrossed",
         "name": "Star-Crossed",
         "desc": "Gain a Kai'Sa. She grants 100% of her Ability's Attack Speed bonus to her nearest ally.",
         "imageUrl": "../tft-assets/0/augments/starCrossed.jpg",
+        "tier": "silver"
+    },
+    {
+        "key": "multiShot",
+        "name": "Multi-Shot",
+        "desc": "Gain a Kai'Sa. Every 3 attacks, she fires a bonus attack at a nearby enemy.",
+        "imageUrl": "../tft-assets/0/augments/multiShot.jpg",
         "tier": "silver"
     },
     {
@@ -487,13 +487,6 @@
         "name": "Channelled Ferromancy",
         "desc": "Gain a Rell. When you field her, your team gains 20 Armor and Magic Resist. Each ally gains an additional 5 when they cast (this can stack).",
         "imageUrl": "../tft-assets/0/augments/channelledFerromancy.jpg",
-        "tier": "silver"
-    },
-    {
-        "key": "partnersInCrime",
-        "name": "Partners in Crime",
-        "desc": "Gain a Viego. When you field him, your team gains 12% Omnivamp, tripled when 2 or less allies remain.",
-        "imageUrl": "../tft-assets/0/augments/partnersInCrime.jpg",
         "tier": "silver"
     },
     {
@@ -742,6 +735,13 @@
         "tier": "silver"
     },
     {
+        "key": "partnersInCrime",
+        "name": "Partners in Crime",
+        "desc": "Gain a Viego. When you field him, your team gains 12% Omnivamp, tripled when 2 or less allies remain.",
+        "imageUrl": "../tft-assets/0/augments/partnersInCrime.jpg",
+        "tier": "silver"
+    },
+    {
         "key": "cyclone",
         "name": "Cyclone",
         "desc": "Gain a Wukong. He gains 10 Ability Power and increases his Ability's range by 1 hex.",
@@ -826,6 +826,41 @@
         "tier": "silver"
     },
     {
+        "key": "aDMINHeart",
+        "name": "A.D.M.I.N. Heart",
+        "desc": "Your team counts as having 1 additional A.D.M.I.N. Gain a Camille.",
+        "imageUrl": "../tft-assets/0/augments/aDMINHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "aegisHeart",
+        "name": "Aegis Heart",
+        "desc": "Your team counts as having 1 additional Aegis. Gain a Vi.",
+        "imageUrl": "../tft-assets/0/augments/aegisHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "aFK",
+        "name": "AFK",
+        "desc": "You cannot perform actions for the next 3 rounds. Afterwards, gain 18 gold.",
+        "imageUrl": "../tft-assets/0/augments/aFK.png",
+        "tier": "silver"
+    },
+    {
+        "key": "animaSquadHeart",
+        "name": "Anima Squad Heart",
+        "desc": "Your team counts as having 1 additional Anima Squad. Gain a Jinx.",
+        "imageUrl": "../tft-assets/0/augments/animaSquadHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "bandOfThievesI",
+        "name": "Band of Thieves I",
+        "desc": "Gain 1 Thief's Gloves.",
+        "imageUrl": "../tft-assets/0/augments/bandOfThievesI.png",
+        "tier": "silver"
+    },
+    {
         "key": "battlemageI",
         "name": "Battlemage I",
         "desc": "Your units that start combat in the front 2 rows gain 15 Armor and 15 Ability Power.",
@@ -833,10 +868,31 @@
         "tier": "silver"
     },
     {
+        "key": "bigFriendI",
+        "name": "Big Friend I",
+        "desc": "Your units that start combat next to a unit with over 1600 Health take 9% less damage for the rest of combat.",
+        "imageUrl": "../tft-assets/0/augments/bigFriendI.png",
+        "tier": "silver"
+    },
+    {
+        "key": "brawlerHeart",
+        "name": "Brawler Heart",
+        "desc": "Your team counts as having 1 additional Brawler. Gain a Vi.",
+        "imageUrl": "../tft-assets/0/augments/brawlerHeart.png",
+        "tier": "silver"
+    },
+    {
         "key": "celestialBlessingI",
         "name": "Celestial Blessing I",
         "desc": "Your units heal for 10% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 200 Health.",
         "imageUrl": "../tft-assets/0/augments/celestialBlessingI.png",
+        "tier": "silver"
+    },
+    {
+        "key": "consistency",
+        "name": "Consistency",
+        "desc": "Gain double win and loss streak gold.",
+        "imageUrl": "../tft-assets/0/augments/consistency.png",
         "tier": "silver"
     },
     {
@@ -861,6 +917,13 @@
         "tier": "silver"
     },
     {
+        "key": "defenderHeart",
+        "name": "Defender Heart",
+        "desc": "Your team counts as having 1 additional Defender. Gain a Rell.",
+        "imageUrl": "../tft-assets/0/augments/defenderHeart.png",
+        "tier": "silver"
+    },
+    {
         "key": "exilesI",
         "name": "Exiles I",
         "desc": "Your units that start combat with no adajacent allies gain a 25% maximum Health shield for 10 seconds.",
@@ -872,6 +935,13 @@
         "name": "Stand United I",
         "desc": "Your units gain 1.5% Attack Damage and 1.5 Ability Power per Trait active across your army.",
         "imageUrl": "../tft-assets/0/augments/standUnitedI.png",
+        "tier": "silver"
+    },
+    {
+        "key": "duelistHeart",
+        "name": "Duelist Heart",
+        "desc": "Your team counts as having 1 additional Duelist. Gain a Fiora.",
+        "imageUrl": "../tft-assets/0/augments/duelistHeart.png",
         "tier": "silver"
     },
     {
@@ -903,10 +973,45 @@
         "tier": "silver"
     },
     {
+        "key": "gadgeteenHeart",
+        "name": "Gadgeteen Heart",
+        "desc": "Your team counts as having 1 additional Gadgeteen. Gain an Poppy.",
+        "imageUrl": "../tft-assets/0/augments/gadgeteenHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "hackerHeart",
+        "name": "Hacker Heart",
+        "desc": "Your team counts as having 1 additional Hacker. Gain 2 gold.",
+        "imageUrl": "../tft-assets/0/augments/hackerHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "heartHeart",
+        "name": "Heart Heart",
+        "desc": "Your team counts as having 1 additional Heart. Gain a Lee Sin.",
+        "imageUrl": "../tft-assets/0/augments/heartHeart.png",
+        "tier": "silver"
+    },
+    {
         "key": "itemGrabBagI",
         "name": "Item Grab Bag I",
         "desc": "Gain 1 random completed item.",
         "imageUrl": "../tft-assets/0/augments/itemGrabBagI.png",
+        "tier": "silver"
+    },
+    {
+        "key": "knifeSEdgeI",
+        "name": "Knife's Edge I",
+        "desc": "Your units that start combat in the front 2 rows gain 15 Attack Damage.",
+        "imageUrl": "../tft-assets/0/augments/knifeSEdgeI.png",
+        "tier": "silver"
+    },
+    {
+        "key": "lategameSpecialist",
+        "name": "Lategame Specialist",
+        "desc": "Gain 40 gold when you reach Level 9.",
+        "imageUrl": "../tft-assets/0/augments/lategameSpecialist.png",
         "tier": "silver"
     },
     {
@@ -924,10 +1029,24 @@
         "tier": "silver"
     },
     {
-        "key": "knifeSEdgeI",
-        "name": "Knife's Edge I",
-        "desc": "Your units that start combat in the front 2 rows gain 15 Attack Damage.",
-        "imageUrl": "../tft-assets/0/augments/knifeSEdgeI.png",
+        "key": "mascotHeart",
+        "name": "Mascot Heart",
+        "desc": "Your team counts as having 1 additional Mascot. Gain a Yuumi.",
+        "imageUrl": "../tft-assets/0/augments/mascotHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "oxForceHeart",
+        "name": "Ox Force Heart",
+        "desc": "Your team counts as having 1 additional Ox Force. Gain a Fiora.",
+        "imageUrl": "../tft-assets/0/augments/oxForceHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "pandoraSBench",
+        "name": "Pandora's Bench",
+        "desc": "Gain 2 gold. At the start of every turn, Champions on the 3 rightmost bench slots transform into random champions of the same cost.",
+        "imageUrl": "../tft-assets/0/augments/pandoraSBench.png",
         "tier": "silver"
     },
     {
@@ -938,6 +1057,13 @@
         "tier": "silver"
     },
     {
+        "key": "preparationI",
+        "name": "Preparation I",
+        "desc": "Champions on your bench permanently gain 25 Health, 3% Attack Damage and 3 Ability Power every round. Champions start with I stack of this effect, and can stack up to 4 times.",
+        "imageUrl": "../tft-assets/0/augments/preparationI.png",
+        "tier": "silver"
+    },
+    {
         "key": "recombobulator",
         "name": "Recombobulator",
         "desc": "Champions on your board permanently transform into random champions 1 Tier higher. Gain 2 Magnetic Removers.",
@@ -945,10 +1071,45 @@
         "tier": "silver"
     },
     {
+        "key": "reconHeart",
+        "name": "Recon Heart",
+        "desc": "Your team counts as having 1 additional Recon. Gain an Ezreal.",
+        "imageUrl": "../tft-assets/0/augments/reconHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "renegadeHeart",
+        "name": "Renegade Heart",
+        "desc": "Your team counts as having 1 additional Renegade. Gain a Camille.",
+        "imageUrl": "../tft-assets/0/augments/renegadeHeart.png",
+        "tier": "silver"
+    },
+    {
         "key": "secondWindI",
         "name": "Second Wind I",
         "desc": "After 10 seconds of combat, your units heal 40% of their missing Health.",
         "imageUrl": "../tft-assets/0/augments/secondWindI.png",
+        "tier": "silver"
+    },
+    {
+        "key": "spellslingerHeart",
+        "name": "Spellslinger Heart",
+        "desc": "Your team counts as having 1 additional Spellslinger. Gain an Annie.",
+        "imageUrl": "../tft-assets/0/augments/spellslingerHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "starGuardianHeart",
+        "name": "Star Guardian Heart",
+        "desc": "Your team counts as having 1 additional Star Guardian. Gain a Yuumi.",
+        "imageUrl": "../tft-assets/0/augments/starGuardianHeart.png",
+        "tier": "silver"
+    },
+    {
+        "key": "sureshotHeart",
+        "name": "Sureshot Heart",
+        "desc": "Your team counts as having 1 additional Sureshot. Gain a Sivir.",
+        "imageUrl": "../tft-assets/0/augments/sureshotHeart.png",
         "tier": "silver"
     },
     {
@@ -973,165 +1134,18 @@
         "tier": "silver"
     },
     {
-        "key": "aFK",
-        "name": "AFK",
-        "desc": "You cannot perform actions for the next 3 rounds. Afterwards, gain 18 gold.",
-        "imageUrl": "../tft-assets/0/augments/aFK.png",
-        "tier": "silver"
+        "key": "aceCrest",
+        "name": "Ace Crest",
+        "desc": "Gain an Ace Emblem and a 2 gold.",
+        "imageUrl": "../tft-assets/0/augments/aceCrest.png",
+        "tier": "gold"
     },
     {
-        "key": "bandOfThievesI",
-        "name": "Band of Thieves I",
-        "desc": "Gain 1 Thief's Gloves.",
-        "imageUrl": "../tft-assets/0/augments/bandOfThievesI.png",
-        "tier": "silver"
-    },
-    {
-        "key": "bigFriendI",
-        "name": "Big Friend I",
-        "desc": "Your units that start combat next to a unit with over 1600 Health take 9% less damage for the rest of combat.",
-        "imageUrl": "../tft-assets/0/augments/bigFriendI.png",
-        "tier": "silver"
-    },
-    {
-        "key": "consistency",
-        "name": "Consistency",
-        "desc": "Gain double win and loss streak gold.",
-        "imageUrl": "../tft-assets/0/augments/consistency.png",
-        "tier": "silver"
-    },
-    {
-        "key": "lategameSpecialist",
-        "name": "Lategame Specialist",
-        "desc": "Gain 40 gold when you reach Level 9.",
-        "imageUrl": "../tft-assets/0/augments/lategameSpecialist.png",
-        "tier": "silver"
-    },
-    {
-        "key": "pandoraSBench",
-        "name": "Pandora's Bench",
-        "desc": "Gain 2 gold. At the start of every turn, Champions on the 3 rightmost bench slots transform into random champions of the same cost.",
-        "imageUrl": "../tft-assets/0/augments/pandoraSBench.png",
-        "tier": "silver"
-    },
-    {
-        "key": "preparationI",
-        "name": "Preparation I",
-        "desc": "Champions on your bench permanently gain 25 Health, 3% Attack Damage and 3 Ability Power every round. Champions start with I stack of this effect, and can stack up to 4 times.",
-        "imageUrl": "../tft-assets/0/augments/preparationI.png",
-        "tier": "silver"
-    },
-    {
-        "key": "aDMINHeart",
-        "name": "A.D.M.I.N. Heart",
-        "desc": "Your team counts as having 1 additional A.D.M.I.N. Gain a Camille.",
-        "imageUrl": "../tft-assets/0/augments/aDMINHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "aegisHeart",
-        "name": "Aegis Heart",
-        "desc": "Your team counts as having 1 additional Aegis. Gain a Vi.",
-        "imageUrl": "../tft-assets/0/augments/aegisHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "animaSquadHeart",
-        "name": "Anima Squad Heart",
-        "desc": "Your team counts as having 1 additional Anima Squad. Gain a Jinx.",
-        "imageUrl": "../tft-assets/0/augments/animaSquadHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "brawlerHeart",
-        "name": "Brawler Heart",
-        "desc": "Your team counts as having 1 additional Brawler. Gain a Vi.",
-        "imageUrl": "../tft-assets/0/augments/brawlerHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "spellslingerHeart",
-        "name": "Spellslinger Heart",
-        "desc": "Your team counts as having 1 additional Spellslinger. Gain an Annie.",
-        "imageUrl": "../tft-assets/0/augments/spellslingerHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "sureshotHeart",
-        "name": "Sureshot Heart",
-        "desc": "Your team counts as having 1 additional Sureshot. Gain a Sivir.",
-        "imageUrl": "../tft-assets/0/augments/sureshotHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "defenderHeart",
-        "name": "Defender Heart",
-        "desc": "Your team counts as having 1 additional Defender. Gain a Rell.",
-        "imageUrl": "../tft-assets/0/augments/defenderHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "duelistHeart",
-        "name": "Duelist Heart",
-        "desc": "Your team counts as having 1 additional Duelist. Gain a Fiora.",
-        "imageUrl": "../tft-assets/0/augments/duelistHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "gadgeteenHeart",
-        "name": "Gadgeteen Heart",
-        "desc": "Your team counts as having 1 additional Gadgeteen. Gain an Poppy.",
-        "imageUrl": "../tft-assets/0/augments/gadgeteenHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "hackerHeart",
-        "name": "Hacker Heart",
-        "desc": "Your team counts as having 1 additional Hacker. Gain 2 gold.",
-        "imageUrl": "../tft-assets/0/augments/hackerHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "heartHeart",
-        "name": "Heart Heart",
-        "desc": "Your team counts as having 1 additional Heart. Gain a Lee Sin.",
-        "imageUrl": "../tft-assets/0/augments/heartHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "mascotHeart",
-        "name": "Mascot Heart",
-        "desc": "Your team counts as having 1 additional Mascot. Gain a Yuumi.",
-        "imageUrl": "../tft-assets/0/augments/mascotHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "oxForceHeart",
-        "name": "Ox Force Heart",
-        "desc": "Your team counts as having 1 additional Ox Force. Gain a Fiora.",
-        "imageUrl": "../tft-assets/0/augments/oxForceHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "reconHeart",
-        "name": "Recon Heart",
-        "desc": "Your team counts as having 1 additional Recon. Gain an Ezreal.",
-        "imageUrl": "../tft-assets/0/augments/reconHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "renegadeHeart",
-        "name": "Renegade Heart",
-        "desc": "Your team counts as having 1 additional Renegade. Gain a Camille.",
-        "imageUrl": "../tft-assets/0/augments/renegadeHeart.png",
-        "tier": "silver"
-    },
-    {
-        "key": "starGuardianHeart",
-        "name": "Star Guardian Heart",
-        "desc": "Your team counts as having 1 additional Star Guardian. Gain a Yuumi.",
-        "imageUrl": "../tft-assets/0/augments/starGuardianHeart.png",
-        "tier": "silver"
+        "key": "aDMINCrest",
+        "name": "A.D.M.I.N Crest",
+        "desc": "Gain an A.D.M.I.N. Emblem and a Blitzcrank.",
+        "imageUrl": "../tft-assets/0/augments/aDMINCrest.png",
+        "tier": "gold"
     },
     {
         "key": "aegisCrest",
@@ -1141,10 +1155,10 @@
         "tier": "gold"
     },
     {
-        "key": "undergroundHeart",
-        "name": "Underground Heart",
-        "desc": "Your team counts as having 1 additional Underground. Gain a Vi.",
-        "imageUrl": "../tft-assets/0/augments/undergroundHeart.png",
+        "key": "animaSquadCrest",
+        "name": "Anima Squad Crest",
+        "desc": "Gain an Anima Squad Emblem and a Sylas.",
+        "imageUrl": "../tft-assets/0/augments/animaSquadCrest.png",
         "tier": "gold"
     },
     {
@@ -1155,10 +1169,31 @@
         "tier": "gold"
     },
     {
+        "key": "axiomArcII",
+        "name": "Axiom Arc II",
+        "desc": "Your units gain 30 Mana on kill.",
+        "imageUrl": "../tft-assets/0/augments/axiomArcII.png",
+        "tier": "gold"
+    },
+    {
         "key": "battlemageII",
         "name": "Battlemage II",
         "desc": "Your units that start combat in the front 2 rows gain 25 Armor and 25 Ability Power.",
         "imageUrl": "../tft-assets/0/augments/battlemageII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "bigFriendII",
+        "name": "Big Friend II",
+        "desc": "Your units that start combat next to a unit with over 1600 Health take 10% less damage for the rest of combat.",
+        "imageUrl": "../tft-assets/0/augments/bigFriendII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "brawlerCrest",
+        "name": "Brawler Crest",
+        "desc": "Gain a Brawler Emblem and a Lee Sin.",
+        "imageUrl": "../tft-assets/0/augments/brawlerCrest.png",
         "tier": "gold"
     },
     {
@@ -1176,10 +1211,31 @@
         "tier": "gold"
     },
     {
+        "key": "civilianCrest",
+        "name": "Civilian Crest",
+        "desc": "Gain a Civilian Emblem and a Galio.",
+        "imageUrl": "../tft-assets/0/augments/civilianCrest.png",
+        "tier": "gold"
+    },
+    {
         "key": "clearMind",
         "name": "Clear Mind",
         "desc": "If you have no champions on your bench at the end of player combat round, gain 3 experience points.",
         "imageUrl": "../tft-assets/0/augments/clearMind.png",
+        "tier": "gold"
+    },
+    {
+        "key": "clutteredMind",
+        "name": "Cluttered Mind",
+        "desc": "If your bench is full at the end of player combat round, gain 3 experience points. Gain 4 random Tier 1 champions.",
+        "imageUrl": "../tft-assets/0/augments/clutteredMind.png",
+        "tier": "gold"
+    },
+    {
+        "key": "combatTraining",
+        "name": "Combat Training",
+        "desc": "Your Champions permanently gain 1 Attack Damage every time they kill an enemy unit. Champions start with 8% Attack Damage.",
+        "imageUrl": "../tft-assets/0/augments/combatTraining.png",
         "tier": "gold"
     },
     {
@@ -1211,6 +1267,13 @@
         "tier": "gold"
     },
     {
+        "key": "defenderCrest",
+        "name": "Defender Crest",
+        "desc": "Gain a Defender Emblem and a Poppy.",
+        "imageUrl": "../tft-assets/0/augments/defenderCrest.png",
+        "tier": "gold"
+    },
+    {
         "key": "exilesII",
         "name": "Exiles II",
         "desc": "Your units that start combat with no adajacent allies gain a 35% maximum Health shield for 10 seconds.",
@@ -1222,6 +1285,13 @@
         "name": "Stand United II",
         "desc": "Your units gain 2 Attack Damage and 3 Ability Power per Trait active across your army.",
         "imageUrl": "../tft-assets/0/augments/standUnitedII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "duelistCrest",
+        "name": "Duelist Crest",
+        "desc": "Gain a Duelist Emblem and a Yasuo.",
+        "imageUrl": "../tft-assets/0/augments/duelistCrest.png",
         "tier": "gold"
     },
     {
@@ -1239,6 +1309,34 @@
         "tier": "gold"
     },
     {
+        "key": "firstAidKitII",
+        "name": "First Aid Kit II",
+        "desc": "All healing and shielding on your units is increased by 35%.",
+        "imageUrl": "../tft-assets/0/augments/firstAidKitII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "gadgeteenCrest",
+        "name": "Gadgeteen crest",
+        "desc": "Gain a Gadgeteen Emblem and an Annie.",
+        "imageUrl": "../tft-assets/0/augments/gadgeteenCrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "hackerCrest",
+        "name": "Hacker Crest",
+        "desc": "Gain a Hacker Emblem and 2 gold.",
+        "imageUrl": "../tft-assets/0/augments/hackerCrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "heartCrest",
+        "name": "Heart Crest",
+        "desc": "Gain a Heart Emblem and a Yuumi.",
+        "imageUrl": "../tft-assets/0/augments/heartCrest.png",
+        "tier": "gold"
+    },
+    {
         "key": "hustler",
         "name": "Hustler",
         "desc": "Instead of having no interest, you get 3 golds at the beginning of player combat rounds.",
@@ -1250,6 +1348,27 @@
         "name": "Jeweled Lotus",
         "desc": "Magic and true damage from your units' Abilities can critically strike. Your units gain 20% Critical Strike Chance.",
         "imageUrl": "../tft-assets/0/augments/jeweledLotus.png",
+        "tier": "gold"
+    },
+    {
+        "key": "knifeSEdgeII",
+        "name": "Knife's Edge II",
+        "desc": "Your units that start combat in the front 2 rows gain 25 Attack Damage.",
+        "imageUrl": "../tft-assets/0/augments/knifeSEdgeII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "lasercorpsHeart",
+        "name": "Lasercorps Heart",
+        "desc": "Your team counts as having 1 additional LaserCorps. Gain a Yasuo.",
+        "imageUrl": "../tft-assets/0/augments/lasercorpsHeart.png",
+        "tier": "gold"
+    },
+    {
+        "key": "lastStand",
+        "name": "Last Stand",
+        "desc": "The first time you would die, instead drop to 1 Health. After this effect triggers, your units gain 180 Health, 18 Armor and Magic Resist, and 18% Omnivamp.",
+        "imageUrl": "../tft-assets/0/augments/lastStand.png",
         "tier": "gold"
     },
     {
@@ -1267,10 +1386,17 @@
         "tier": "gold"
     },
     {
-        "key": "knifeSEdgeII",
-        "name": "Knife's Edge II",
-        "desc": "Your units that start combat in the front 2 rows gain 25 Attack Damage.",
-        "imageUrl": "../tft-assets/0/augments/knifeSEdgeII.png",
+        "key": "mascotCrest",
+        "name": "Mascot Crest",
+        "desc": "Gain a Mascot Emblem and a Yuumi.",
+        "imageUrl": "../tft-assets/0/augments/mascotCrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "mechaPRIMECrest",
+        "name": "Mecha: PRIME Crest",
+        "desc": "Gain a Mecha: PRIME Emblem and a Draven.",
+        "imageUrl": "../tft-assets/0/augments/mechaPRIMECrest.png",
         "tier": "gold"
     },
     {
@@ -1281,10 +1407,45 @@
         "tier": "gold"
     },
     {
+        "key": "oxForceCrest",
+        "name": "Ox Force Crest",
+        "desc": "Gain an Ox Force Emblem and an Annie.",
+        "imageUrl": "../tft-assets/0/augments/oxForceCrest.png",
+        "tier": "gold"
+    },
+    {
         "key": "portableForge",
         "name": "Portable Forge",
         "desc": "Open an Armory and choose 1 of 3 unique Artifacts crafted by Ornn.",
         "imageUrl": "../tft-assets/0/augments/portableForge.png",
+        "tier": "gold"
+    },
+    {
+        "key": "pranksterCrest",
+        "name": "Prankster Crest",
+        "desc": "Gain a Prankster Emblem and a Jinx.",
+        "imageUrl": "../tft-assets/0/augments/pranksterCrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "preparationII",
+        "name": "Preparation II",
+        "desc": "Champions on your bench permanently gain 35 Health, 4% Attack Damage and 4 Ability Power every round. Champions start with I stack of this effect, and can stack up to 4 times.",
+        "imageUrl": "../tft-assets/0/augments/preparationII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "reconCrest",
+        "name": "Recon Crest",
+        "desc": "Gain a Recon Emblem.",
+        "imageUrl": "../tft-assets/0/augments/reconCrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "renegadeCrest",
+        "name": "Renegade Crest",
+        "desc": "Gain a Renegade Emblem and a Talon.",
+        "imageUrl": "../tft-assets/0/augments/renegadeCrest.png",
         "tier": "gold"
     },
     {
@@ -1309,10 +1470,31 @@
         "tier": "gold"
     },
     {
+        "key": "scopedWeaponsI",
+        "name": "Scoped Weapons I",
+        "desc": "Your units that start combat in the back 2 rows gain +2 Attack Range and 10% Attack Speed.",
+        "imageUrl": "../tft-assets/0/augments/scopedWeaponsI.png",
+        "tier": "gold"
+    },
+    {
         "key": "secondWindII",
         "name": "Second Wind II",
         "desc": "After 10 seconds of combat, your units heal 60% of their missing Health.",
         "imageUrl": "../tft-assets/0/augments/secondWindII.png",
+        "tier": "gold"
+    },
+    {
+        "key": "spellslingerCrest",
+        "name": "Spellslinger Crest",
+        "desc": "Gain a Spellslinger Emblem and an Annie.",
+        "imageUrl": "../tft-assets/0/augments/spellslingerCrest.png",
+        "tier": "gold"
+    },
+    {
+        "key": "starGuardianCrest",
+        "name": "Star Guardian Crest",
+        "desc": "Gain a Star Guardian Emblem and a Rell.",
+        "imageUrl": "../tft-assets/0/augments/starGuardianCrest.png",
         "tier": "gold"
     },
     {
@@ -1323,10 +1505,31 @@
         "tier": "gold"
     },
     {
+        "key": "supersHeart",
+        "name": "Supers Heart",
+        "desc": "Your team counts as having 1 additional Super. Gain a Malphite.",
+        "imageUrl": "../tft-assets/0/augments/supersHeart.png",
+        "tier": "gold"
+    },
+    {
+        "key": "sureshotCrest",
+        "name": "Sureshot Crest",
+        "desc": "Gain a Sureshot Emblem and a Sivir.",
+        "imageUrl": "../tft-assets/0/augments/sureshotCrest.png",
+        "tier": "gold"
+    },
+    {
         "key": "phonyFrontline",
         "name": "Phony Frontline",
         "desc": "Gain 2 Target Dummies.",
         "imageUrl": "../tft-assets/0/augments/phonyFrontline.png",
+        "tier": "gold"
+    },
+    {
+        "key": "threatLevelMaximum",
+        "name": "Threat Level: Maximum",
+        "desc": "At the start of combat, your Threats gain 60 Maximum Health for every Threat champion on your board.",
+        "imageUrl": "../tft-assets/0/augments/threatLevelMaximum.png",
         "tier": "gold"
     },
     {
@@ -1393,59 +1596,10 @@
         "tier": "gold"
     },
     {
-        "key": "axiomArcII",
-        "name": "Axiom Arc II",
-        "desc": "Your units gain 30 Mana on kill.",
-        "imageUrl": "../tft-assets/0/augments/axiomArcII.png",
-        "tier": "gold"
-    },
-    {
-        "key": "bigFriendII",
-        "name": "Big Friend II",
-        "desc": "Your units that start combat next to a unit with over 1600 Health take 10% less damage for the rest of combat.",
-        "imageUrl": "../tft-assets/0/augments/bigFriendII.png",
-        "tier": "gold"
-    },
-    {
-        "key": "combatTraining",
-        "name": "Combat Training",
-        "desc": "Your Champions permanently gain 1 Attack Damage every time they kill an enemy unit. Champions start with 8% Attack Damage.",
-        "imageUrl": "../tft-assets/0/augments/combatTraining.png",
-        "tier": "gold"
-    },
-    {
-        "key": "clutteredMind",
-        "name": "Cluttered Mind",
-        "desc": "If your bench is full at the end of player combat round, gain 3 experience points. Gain 4 random Tier 1 champions.",
-        "imageUrl": "../tft-assets/0/augments/clutteredMind.png",
-        "tier": "gold"
-    },
-    {
-        "key": "firstAidKitII",
-        "name": "First Aid Kit II",
-        "desc": "All healing and shielding on your units is increased by 35%.",
-        "imageUrl": "../tft-assets/0/augments/firstAidKitII.png",
-        "tier": "gold"
-    },
-    {
-        "key": "lastStand",
-        "name": "Last Stand",
-        "desc": "The first time you would die, instead drop to 1 Health. After this effect triggers, your units gain 180 Health, 18 Armor and Magic Resist, and 18% Omnivamp.",
-        "imageUrl": "../tft-assets/0/augments/lastStand.png",
-        "tier": "gold"
-    },
-    {
-        "key": "preparationII",
-        "name": "Preparation II",
-        "desc": "Champions on your bench permanently gain 35 Health, 4% Attack Damage and 4 Ability Power every round. Champions start with I stack of this effect, and can stack up to 4 times.",
-        "imageUrl": "../tft-assets/0/augments/preparationII.png",
-        "tier": "gold"
-    },
-    {
-        "key": "scopedWeaponsI",
-        "name": "Scoped Weapons I",
-        "desc": "Your units that start combat in the back 2 rows gain +2 Attack Range and 10% Attack Speed.",
-        "imageUrl": "../tft-assets/0/augments/scopedWeaponsI.png",
+        "key": "undergroundHeart",
+        "name": "Underground Heart",
+        "desc": "Your team counts as having 1 additional Underground. Gain a Vi.",
+        "imageUrl": "../tft-assets/0/augments/undergroundHeart.png",
         "tier": "gold"
     },
     {
@@ -1456,158 +1610,39 @@
         "tier": "gold"
     },
     {
-        "key": "aDMINCrest",
-        "name": "A.D.M.I.N Crest",
-        "desc": "Gain an A.D.M.I.N. Emblem and a Blitzcrank.",
-        "imageUrl": "../tft-assets/0/augments/aDMINCrest.png",
-        "tier": "gold"
+        "key": "aceCrown",
+        "name": "Ace Crown",
+        "desc": "Gain an Ace Emblem, a Runaan's Hurricane, and 2 gold.",
+        "imageUrl": "../tft-assets/0/augments/aceCrown.png",
+        "tier": "prismatic"
     },
     {
-        "key": "aceCrest",
-        "name": "Ace Crest",
-        "desc": "Gain an Ace Emblem and a 2 gold.",
-        "imageUrl": "../tft-assets/0/augments/aceCrest.png",
-        "tier": "gold"
+        "key": "aDMINCrown",
+        "name": "A.D.M.I.N Crown",
+        "desc": "Gain an A.D.M.I.N. Emblem, a Hand of Justice, and a Camille.",
+        "imageUrl": "../tft-assets/0/augments/aDMINCrown.png",
+        "tier": "prismatic"
     },
     {
-        "key": "animaSquadCrest",
-        "name": "Anima Squad Crest",
-        "desc": "Gain an Anima Squad Emblem and a Sylas.",
-        "imageUrl": "../tft-assets/0/augments/animaSquadCrest.png",
-        "tier": "gold"
+        "key": "aegisCrown",
+        "name": "Aegis Crown",
+        "desc": "Gain an Aegis Emblem, a Redemption, and an Alistar.",
+        "imageUrl": "../tft-assets/0/augments/aegisCrown.png",
+        "tier": "prismatic"
     },
     {
-        "key": "brawlerCrest",
-        "name": "Brawler Crest",
-        "desc": "Gain a Brawler Emblem and a Lee Sin.",
-        "imageUrl": "../tft-assets/0/augments/brawlerCrest.png",
-        "tier": "gold"
+        "key": "ancientArchivesII",
+        "name": "Ancient Archives II",
+        "desc": "Gain 2 Tome of Traits and 8 gold.",
+        "imageUrl": "../tft-assets/0/augments/ancientArchivesII.png",
+        "tier": "prismatic"
     },
     {
-        "key": "spellslingerCrest",
-        "name": "Spellslinger Crest",
-        "desc": "Gain a Spellslinger Emblem and an Annie.",
-        "imageUrl": "../tft-assets/0/augments/spellslingerCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "civilianCrest",
-        "name": "Civilian Crest",
-        "desc": "Gain a Civilian Emblem and a Galio.",
-        "imageUrl": "../tft-assets/0/augments/civilianCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "sureshotCrest",
-        "name": "Sureshot Crest",
-        "desc": "Gain a Sureshot Emblem and a Sivir.",
-        "imageUrl": "../tft-assets/0/augments/sureshotCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "defenderCrest",
-        "name": "Defender Crest",
-        "desc": "Gain a Defender Emblem and a Poppy.",
-        "imageUrl": "../tft-assets/0/augments/defenderCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "duelistCrest",
-        "name": "Duelist Crest",
-        "desc": "Gain a Duelist Emblem and a Yasuo.",
-        "imageUrl": "../tft-assets/0/augments/duelistCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "mechaPRIMECrest",
-        "name": "Mecha: PRIME Crest",
-        "desc": "Gain a Mecha: PRIME Emblem and a Draven.",
-        "imageUrl": "../tft-assets/0/augments/mechaPRIMECrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "gadgeteenCrest",
-        "name": "Gadgeteen crest",
-        "desc": "Gain a Gadgeteen Emblem and an Annie.",
-        "imageUrl": "../tft-assets/0/augments/gadgeteenCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "hackerCrest",
-        "name": "Hacker Crest",
-        "desc": "Gain a Hacker Emblem and 2 gold.",
-        "imageUrl": "../tft-assets/0/augments/hackerCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "heartCrest",
-        "name": "Heart Crest",
-        "desc": "Gain a Heart Emblem and a Yuumi.",
-        "imageUrl": "../tft-assets/0/augments/heartCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "lasercorpsHeart",
-        "name": "Lasercorps Heart",
-        "desc": "Your team counts as having 1 additional LaserCorps. Gain a Yasuo.",
-        "imageUrl": "../tft-assets/0/augments/lasercorpsHeart.png",
-        "tier": "gold"
-    },
-    {
-        "key": "mascotCrest",
-        "name": "Mascot Crest",
-        "desc": "Gain a Mascot Emblem and a Yuumi.",
-        "imageUrl": "../tft-assets/0/augments/mascotCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "oxForceCrest",
-        "name": "Ox Force Crest",
-        "desc": "Gain an Ox Force Emblem and an Annie.",
-        "imageUrl": "../tft-assets/0/augments/oxForceCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "pranksterCrest",
-        "name": "Prankster Crest",
-        "desc": "Gain a Prankster Emblem and a Jinx.",
-        "imageUrl": "../tft-assets/0/augments/pranksterCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "reconCrest",
-        "name": "Recon Crest",
-        "desc": "Gain a Recon Emblem.",
-        "imageUrl": "../tft-assets/0/augments/reconCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "renegadeCrest",
-        "name": "Renegade Crest",
-        "desc": "Gain a Renegade Emblem and a Talon.",
-        "imageUrl": "../tft-assets/0/augments/renegadeCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "starGuardianCrest",
-        "name": "Star Guardian Crest",
-        "desc": "Gain a Star Guardian Emblem and a Rell.",
-        "imageUrl": "../tft-assets/0/augments/starGuardianCrest.png",
-        "tier": "gold"
-    },
-    {
-        "key": "supersHeart",
-        "name": "Supers Heart",
-        "desc": "Your team counts as having 1 additional Super. Gain a Malphite.",
-        "imageUrl": "../tft-assets/0/augments/supersHeart.png",
-        "tier": "gold"
-    },
-    {
-        "key": "threatLevelMaximum",
-        "name": "Threat Level: Maximum",
-        "desc": "At the start of combat, your Threats gain 60 Maximum Health for every Threat champion on your board.",
-        "imageUrl": "../tft-assets/0/augments/threatLevelMaximum.png",
-        "tier": "gold"
+        "key": "animaSquadCrown",
+        "name": "Anima Squad Crown",
+        "desc": "Gain an Anima Squad Emblem, Tear of the Goddess, and a Riven.",
+        "imageUrl": "../tft-assets/0/augments/animaSquadCrown.png",
+        "tier": "prismatic"
     },
     {
         "key": "bandOfThievesII",
@@ -1631,10 +1666,45 @@
         "tier": "prismatic"
     },
     {
+        "key": "birthdayPresent",
+        "name": "Birthday Present",
+        "desc": "Gain a 2-star champion every time you level up. The champion's tier is your level minus 4 (min: Tier 1).",
+        "imageUrl": "../tft-assets/0/augments/birthdayPresent.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "brawlerCrown",
+        "name": "Brawler Crown",
+        "desc": "Gain a Brawler Emblem, Protector’s Vow, and a Riven.",
+        "imageUrl": "../tft-assets/0/augments/brawlerCrown.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "celestialBlessingIII",
         "name": "Celestial Blessing III",
         "desc": "Your units heal for 25% of the damage dealt by attacks and Abilities. Excess healing is converted to a shield up to 400 Health.",
         "imageUrl": "../tft-assets/0/augments/celestialBlessingIII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "civilianCrown",
+        "name": "Civilian Crown",
+        "desc": "Gain a Civilian Emblem, a Guinsoo's Rageblade, and a Sivir.",
+        "imageUrl": "../tft-assets/0/augments/civilianCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cruelPact",
+        "name": "Cruel Pact",
+        "desc": "Buying XP costs 6 Health instead of gold. But Heal 2 Health after a round.",
+        "imageUrl": "../tft-assets/0/augments/cruelPact.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "cursedCrown",
+        "name": "Cursed Crown",
+        "desc": "Gain +2 maximum team size, but take 100% increased player damage.",
+        "imageUrl": "../tft-assets/0/augments/cursedCrown.png",
         "tier": "prismatic"
     },
     {
@@ -1659,10 +1729,24 @@
         "tier": "prismatic"
     },
     {
+        "key": "defenderCrown",
+        "name": "Defender Crown",
+        "desc": "Gain a Defender Emblem, a Protector's Vow, and a Riven.",
+        "imageUrl": "../tft-assets/0/augments/defenderCrown.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "standUnitedIII",
         "name": "Stand United III",
         "desc": "Your units gain 3 Attack Damage and Ability Power per Trait active across your army.",
         "imageUrl": "../tft-assets/0/augments/standUnitedIII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "duelistCrown",
+        "name": "Duelist Crown",
+        "desc": "Gain a Duelist Emblem, an Edge of Night, and a Nilah.",
+        "imageUrl": "../tft-assets/0/augments/duelistCrown.png",
         "tier": "prismatic"
     },
     {
@@ -1680,17 +1764,17 @@
         "tier": "prismatic"
     },
     {
-        "key": "newRecruit",
-        "name": "New Recruit",
-        "desc": "Gain +1 maximum team size.",
-        "imageUrl": "../tft-assets/0/augments/newRecruit.png",
-        "tier": "prismatic"
-    },
-    {
         "key": "futureSightII",
         "name": "Future Sight II",
         "desc": "Know who you fight next. Gain a Radiant Zephyr.",
         "imageUrl": "../tft-assets/0/augments/futureSightII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "gadgeteenCrown",
+        "name": "Gadgeteen Crown",
+        "desc": "Gain a Gadgeteen Emblem, Negatron Cloak and an Annie.",
+        "imageUrl": "../tft-assets/0/augments/gadgeteenCrown.png",
         "tier": "prismatic"
     },
     {
@@ -1708,6 +1792,20 @@
         "tier": "prismatic"
     },
     {
+        "key": "hackerCrown",
+        "name": "Hacker Crown",
+        "desc": "Gain a Hacker Emblem, a Hand of Justice, and a Leblanc.",
+        "imageUrl": "../tft-assets/0/augments/hackerCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "heartCrown",
+        "name": "Heart Crown",
+        "desc": "Gain a Heart Emblem, Guardbreaker, and a Sona.",
+        "imageUrl": "../tft-assets/0/augments/heartCrown.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "highEndShopping",
         "name": "High End Shopping",
         "desc": "Champions appear in your Shop as if you were 1 level higher. Gain 3 gold.",
@@ -1722,10 +1820,45 @@
         "tier": "prismatic"
     },
     {
+        "key": "knifeSEdgeIII",
+        "name": "Knife's Edge III",
+        "desc": "Your units that start combat in the first 2 rows gain 55% Attack Damage.",
+        "imageUrl": "../tft-assets/0/augments/knifeSEdgeIII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "laserCorpsCrown",
+        "name": "LaserCorps Crown",
+        "desc": "Gain a LaserCorps Emblem, a Hand of Justice, and a Senna.",
+        "imageUrl": "../tft-assets/0/augments/laserCorpsCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "livingForge",
+        "name": "Living Forge",
+        "desc": "Gain a random Ornn item now and after every 10 player combats.",
+        "imageUrl": "../tft-assets/0/augments/livingForge.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "luckyGloves",
+        "name": "Lucky Gloves",
+        "desc": "Thief's Gloves will always give your champions items. Gain 2 Sparring Gloves.",
+        "imageUrl": "../tft-assets/0/augments/luckyGloves.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "ludenSEchoIII",
         "name": "Luden's Echo III",
         "desc": "When your units cast and deal Ability damage, the first target hit and a nearby enemy take 90-210 (based on current Stage) magic damage.",
         "imageUrl": "../tft-assets/0/augments/ludenSEchoIII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "mascotCrown",
+        "name": "Mascot Crown",
+        "desc": "Gain a Mascot Emblem, a Gargoyle Stoneplate, and an Malphite.",
+        "imageUrl": "../tft-assets/0/augments/mascotCrown.png",
         "tier": "prismatic"
     },
     {
@@ -1736,10 +1869,38 @@
         "tier": "prismatic"
     },
     {
-        "key": "knifeSEdgeIII",
-        "name": "Knife's Edge III",
-        "desc": "Your units that start combat in the first 2 rows gain 55% Attack Damage.",
-        "imageUrl": "../tft-assets/0/augments/knifeSEdgeIII.png",
+        "key": "mechaPRIMECrown",
+        "name": "Mecha: PRIME Crown",
+        "desc": "Gain a Mecha: PRIME Emblem,  Bloodthirster, and a Jax.",
+        "imageUrl": "../tft-assets/0/augments/mechaPRIMECrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "newRecruit",
+        "name": "New Recruit",
+        "desc": "Gain +1 maximum team size.",
+        "imageUrl": "../tft-assets/0/augments/newRecruit.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "oxForceCrown",
+        "name": "Ox Force Crown",
+        "desc": "Gain an Ox Force Emblem, a Titan's Resolve, and an Alistar.",
+        "imageUrl": "../tft-assets/0/augments/oxForceCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "pranksterCrown",
+        "name": "Prankster Crown",
+        "desc": "Gain a Prankster Emblem, Giant’s Belt, and a Zoe.",
+        "imageUrl": "../tft-assets/0/augments/pranksterCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "preparationIII",
+        "name": "Preparation III",
+        "desc": "Champions on your bench permanently gain 50 Health, 7% Attack Damage and 7 Ability Power every round. Champions start with I stack of this effect, and can stack up to 4 times.",
+        "imageUrl": "../tft-assets/0/augments/preparationIII.png",
         "tier": "prismatic"
     },
     {
@@ -1750,6 +1911,20 @@
         "tier": "prismatic"
     },
     {
+        "key": "reconCrown",
+        "name": "Recon Crown",
+        "desc": "Gain a Recon Emblem, Recurve Bow, and a Ezreal.",
+        "imageUrl": "../tft-assets/0/augments/reconCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "renegadeCrown",
+        "name": "Renegade Crown",
+        "desc": "Gain a Renegade Crown, a Bloodthirster, and a Camille.",
+        "imageUrl": "../tft-assets/0/augments/renegadeCrown.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "marchOfProgress",
         "name": "March of Progress",
         "desc": "Gain 5 bonus experience at the beginning of player combat rounds. You can no longer use gold to level up.",
@@ -1757,10 +1932,45 @@
         "tier": "prismatic"
     },
     {
+        "key": "spellslingerCrown",
+        "name": "Spellslinger Crown",
+        "desc": "Gain a Spellslinger Emblem, Tear of the Goddess, and a Sona.",
+        "imageUrl": "../tft-assets/0/augments/spellslingerCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "starGuardianCrown",
+        "name": "Star Guardian Crown",
+        "desc": "Gain a Star Guardian Emblem, a Chalice of Power and a Nilah.",
+        "imageUrl": "../tft-assets/0/augments/starGuardianCrown.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "supersSoul",
+        "name": "Supers Soul",
+        "desc": "Your team counts as having 1 additional Super. Gain a Titan's Resolve and a Lee Sin.",
+        "imageUrl": "../tft-assets/0/augments/supersSoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "sureshotCrown",
+        "name": "Sureshot Crown",
+        "desc": "Gain a Sureshot Emblem, an Infinity Edge, and a Senna.",
+        "imageUrl": "../tft-assets/0/augments/sureshotCrown.png",
+        "tier": "prismatic"
+    },
+    {
         "key": "theGoldenEgg",
         "name": "The Golden Egg",
         "desc": "Gain a massive golden egg that hatches in 11 turns. If you won vs player, receive bonus turn.",
         "imageUrl": "../tft-assets/0/augments/theGoldenEgg.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "thinkFast",
+        "name": "Think Fast",
+        "desc": "Shop refreshes are free until the end of this round. Traits and other augments do not benefit from these free shops. Gain 3 gold.",
+        "imageUrl": "../tft-assets/0/augments/thinkFast.png",
         "tier": "prismatic"
     },
     {
@@ -1789,6 +1999,20 @@
         "name": "Double Trouble III",
         "desc": "If you have exactly 2 copies of a champion on your board, they both gain 40% Attack Damage and 40 Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
         "imageUrl": "../tft-assets/0/augments/doubleTroubleIII.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "undergroundSoul",
+        "name": "Underground Soul",
+        "desc": "Your team counts as having 1 additional Underground. Gain a Zz’Rot portal and an Ezreal.",
+        "imageUrl": "../tft-assets/0/augments/undergroundSoul.png",
+        "tier": "prismatic"
+    },
+    {
+        "key": "urfSGrabBagII",
+        "name": "Urf's Grab Bag II",
+        "desc": "Gain 1 Spatula and 3 random item components.",
+        "imageUrl": "../tft-assets/0/augments/urfSGrabBagII.png",
         "tier": "prismatic"
     },
     {
@@ -1824,230 +2048,6 @@
         "name": "Woodland Charm",
         "desc": "Your highest Health champion is cloned. Clones cannot hold items.",
         "imageUrl": "../tft-assets/0/augments/woodlandCharm.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "birthdayPresent",
-        "name": "Birthday Present",
-        "desc": "Gain a 2-star champion every time you level up. The champion's tier is your level minus 4 (min: Tier 1).",
-        "imageUrl": "../tft-assets/0/augments/birthdayPresent.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "cursedCrown",
-        "name": "Cursed Crown",
-        "desc": "Gain +2 maximum team size, but take 100% increased player damage.",
-        "imageUrl": "../tft-assets/0/augments/cursedCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "livingForge",
-        "name": "Living Forge",
-        "desc": "Gain a random Ornn item now and after every 10 player combats.",
-        "imageUrl": "../tft-assets/0/augments/livingForge.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "luckyGloves",
-        "name": "Lucky Gloves",
-        "desc": "Thief's Gloves will always give your champions items. Gain 2 Sparring Gloves.",
-        "imageUrl": "../tft-assets/0/augments/luckyGloves.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "preparationIII",
-        "name": "Preparation III",
-        "desc": "Champions on your bench permanently gain 50 Health, 7% Attack Damage and 7 Ability Power every round. Champions start with I stack of this effect, and can stack up to 4 times.",
-        "imageUrl": "../tft-assets/0/augments/preparationIII.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "cruelPact",
-        "name": "Cruel Pact",
-        "desc": "Buying XP costs 6 Health instead of gold. But Heal 2 Health after a round.",
-        "imageUrl": "../tft-assets/0/augments/cruelPact.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "thinkFast",
-        "name": "Think Fast",
-        "desc": "Shop refreshes are free until the end of this round. Traits and other augments do not benefit from these free shops. Gain 3 gold.",
-        "imageUrl": "../tft-assets/0/augments/thinkFast.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "ancientArchivesII",
-        "name": "Ancient Archives II",
-        "desc": "Gain 2 Tome of Traits and 8 gold.",
-        "imageUrl": "../tft-assets/0/augments/ancientArchivesII.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "urfSGrabBagII",
-        "name": "Urf's Grab Bag II",
-        "desc": "Gain 1 Spatula and 3 random item components.",
-        "imageUrl": "../tft-assets/0/augments/urfSGrabBagII.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "aDMINCrown",
-        "name": "A.D.M.I.N Crown",
-        "desc": "Gain an A.D.M.I.N. Emblem, a Hand of Justice, and a Camille.",
-        "imageUrl": "../tft-assets/0/augments/aDMINCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "aceCrown",
-        "name": "Ace Crown",
-        "desc": "Gain an Ace Emblem, a Runaan's Hurricane, and 2 gold.",
-        "imageUrl": "../tft-assets/0/augments/aceCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "aegisCrown",
-        "name": "Aegis Crown",
-        "desc": "Gain an Aegis Emblem, a Redemption, and an Alistar.",
-        "imageUrl": "../tft-assets/0/augments/aegisCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "animaSquadCrown",
-        "name": "Anima Squad Crown",
-        "desc": "Gain an Anima Squad Emblem, Tear of the Goddess, and a Riven.",
-        "imageUrl": "../tft-assets/0/augments/animaSquadCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "brawlerCrown",
-        "name": "Brawler Crown",
-        "desc": "Gain a Brawler Emblem, Protector’s Vow, and a Riven.",
-        "imageUrl": "../tft-assets/0/augments/brawlerCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "spellslingerCrown",
-        "name": "Spellslinger Crown",
-        "desc": "Gain a Spellslinger Emblem, Tear of the Goddess, and a Sona.",
-        "imageUrl": "../tft-assets/0/augments/spellslingerCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "civilianCrown",
-        "name": "Civilian Crown",
-        "desc": "Gain a Civilian Emblem, a Guinsoo's Rageblade, and a Sivir.",
-        "imageUrl": "../tft-assets/0/augments/civilianCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "sureshotCrown",
-        "name": "Sureshot Crown",
-        "desc": "Gain a Sureshot Emblem, an Infinity Edge, and a Senna.",
-        "imageUrl": "../tft-assets/0/augments/sureshotCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "defenderCrown",
-        "name": "Defender Crown",
-        "desc": "Gain a Defender Emblem, a Protector's Vow, and a Riven.",
-        "imageUrl": "../tft-assets/0/augments/defenderCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "duelistCrown",
-        "name": "Duelist Crown",
-        "desc": "Gain a Duelist Emblem, an Edge of Night, and a Nilah.",
-        "imageUrl": "../tft-assets/0/augments/duelistCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "mechaPRIMECrown",
-        "name": "Mecha: PRIME Crown",
-        "desc": "Gain a Mecha: PRIME Emblem,  Bloodthirster, and a Jax.",
-        "imageUrl": "../tft-assets/0/augments/mechaPRIMECrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "gadgeteenCrown",
-        "name": "Gadgeteen Crown",
-        "desc": "Gain a Gadgeteen Emblem, Negatron Cloak and an Annie.",
-        "imageUrl": "../tft-assets/0/augments/gadgeteenCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "hackerCrown",
-        "name": "Hacker Crown",
-        "desc": "Gain a Hacker Emblem, a Hand of Justice, and a Leblanc.",
-        "imageUrl": "../tft-assets/0/augments/hackerCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "heartCrown",
-        "name": "Heart Crown",
-        "desc": "Gain a Heart Emblem, Guardbreaker, and a Sona.",
-        "imageUrl": "../tft-assets/0/augments/heartCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "laserCorpsCrown",
-        "name": "LaserCorps Crown",
-        "desc": "Gain a LaserCorps Emblem, a Hand of Justice, and a Senna.",
-        "imageUrl": "../tft-assets/0/augments/laserCorpsCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "mascotCrown",
-        "name": "Mascot Crown",
-        "desc": "Gain a Mascot Emblem, a Gargoyle Stoneplate, and an Malphite.",
-        "imageUrl": "../tft-assets/0/augments/mascotCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "oxForceCrown",
-        "name": "Ox Force Crown",
-        "desc": "Gain an Ox Force Emblem, a Titan's Resolve, and an Alistar.",
-        "imageUrl": "../tft-assets/0/augments/oxForceCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "pranksterCrown",
-        "name": "Prankster Crown",
-        "desc": "Gain a Prankster Emblem, Giant’s Belt, and a Zoe.",
-        "imageUrl": "../tft-assets/0/augments/pranksterCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "reconCrown",
-        "name": "Recon Crown",
-        "desc": "Gain a Recon Emblem, Recurve Bow, and a Ezreal.",
-        "imageUrl": "../tft-assets/0/augments/reconCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "renegadeCrown",
-        "name": "Renegade Crown",
-        "desc": "Gain a Renegade Crown, a Bloodthirster, and a Camille.",
-        "imageUrl": "../tft-assets/0/augments/renegadeCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "starGuardianCrown",
-        "name": "Star Guardian Crown",
-        "desc": "Gain a Star Guardian Emblem, a Chalice of Power and a Nilah.",
-        "imageUrl": "../tft-assets/0/augments/starGuardianCrown.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "supersSoul",
-        "name": "Supers Soul",
-        "desc": "Your team counts as having 1 additional Super. Gain a Titan's Resolve and a Lee Sin.",
-        "imageUrl": "../tft-assets/0/augments/supersSoul.png",
-        "tier": "prismatic"
-    },
-    {
-        "key": "undergroundSoul",
-        "name": "Underground Soul",
-        "desc": "Your team counts as having 1 additional Underground. Gain a Zz’Rot portal and an Ezreal.",
-        "imageUrl": "../tft-assets/0/augments/undergroundSoul.png",
         "tier": "prismatic"
     }
 ]
